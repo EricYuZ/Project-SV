@@ -1,0 +1,2219 @@
+ticker,company_name,sector_group,metric,flag_type,fact_period_end,reference_period_end
+A,Agilent Technologies,Healthcare,news_mentions_30d,assumption,,2025-10-31
+A,Agilent Technologies,Healthcare,risk_news_mentions_30d,assumption,,2025-10-31
+AAPL,Apple,Technology,interest_expense,stale,2023-09-30,2025-09-27
+AAPL,Apple,Technology,news_mentions_30d,assumption,,2025-09-27
+AAPL,Apple,Technology,risk_news_mentions_30d,assumption,,2025-09-27
+ABBV,AbbVie,Healthcare,leverage_proxy,assumption,,2025-12-31
+ABBV,AbbVie,Healthcare,news_mentions_30d,assumption,,2025-12-31
+ABBV,AbbVie,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+ABNB,Airbnb,Industrials,capex,stale,2022-12-31,2025-12-31
+ABNB,Airbnb,Industrials,fcf_to_assets,assumption,,2025-12-31
+ABNB,Airbnb,Industrials,news_mentions_30d,assumption,,2025-12-31
+ABNB,Airbnb,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+ABT,Abbott Laboratories,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+ABT,Abbott Laboratories,Healthcare,leverage_proxy,assumption,,2025-12-31
+ABT,Abbott Laboratories,Healthcare,news_mentions_30d,assumption,,2025-12-31
+ABT,Abbott Laboratories,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+ACGL,Arch Capital Group,Financials,debt_to_assets,assumption,,2025-12-31
+ACGL,Arch Capital Group,Financials,current_ratio,assumption,,2025-12-31
+ACGL,Arch Capital Group,Financials,news_mentions_30d,assumption,,2025-12-31
+ACGL,Arch Capital Group,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+ACN,Accenture,Technology,leverage_proxy,assumption,,2025-08-31
+ACN,Accenture,Technology,debt_to_assets,assumption,,2025-08-31
+ACN,Accenture,Technology,news_mentions_30d,assumption,,2025-08-31
+ACN,Accenture,Technology,risk_news_mentions_30d,assumption,,2025-08-31
+ADBE,Adobe Inc.,Industrials,interest_expense,stale,2023-12-01,2025-11-28
+ADBE,Adobe Inc.,Industrials,news_mentions_30d,assumption,,2025-11-28
+ADBE,Adobe Inc.,Industrials,risk_news_mentions_30d,assumption,,2025-11-28
+ADI,Analog Devices,Industrials,interest_expense,stale,2023-10-28,2025-11-01
+ADI,Analog Devices,Industrials,leverage_proxy,assumption,,2025-11-01
+ADI,Analog Devices,Industrials,news_mentions_30d,assumption,,2025-11-01
+ADI,Analog Devices,Industrials,risk_news_mentions_30d,assumption,,2025-11-01
+ADM,Archer Daniels Midland,Consumer Staples,leverage_proxy,assumption,,2025-12-31
+ADM,Archer Daniels Midland,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+ADM,Archer Daniels Midland,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+ADP,Automatic Data Processing,Industrials,short_term_debt,stale,2021-06-30,2025-06-30
+ADP,Automatic Data Processing,Industrials,fcf_to_assets,assumption,,2025-06-30
+ADP,Automatic Data Processing,Industrials,news_mentions_30d,assumption,,2025-06-30
+ADP,Automatic Data Processing,Industrials,risk_news_mentions_30d,assumption,,2025-06-30
+ADSK,Autodesk,Industrials,leverage_proxy,assumption,,2026-01-31
+ADSK,Autodesk,Industrials,news_mentions_30d,assumption,,2026-01-31
+ADSK,Autodesk,Industrials,risk_news_mentions_30d,assumption,,2026-01-31
+AEE,Ameren,Utilities,leverage_proxy,assumption,,2025-12-31
+AEE,Ameren,Utilities,news_mentions_30d,assumption,,2025-12-31
+AEE,Ameren,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+AEP,American Electric Power,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+AEP,American Electric Power,Industrials,news_mentions_30d,assumption,,2025-12-31
+AEP,American Electric Power,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+AES,AES Corporation,Utilities,leverage_proxy,assumption,,2025-12-31
+AES,AES Corporation,Utilities,debt_to_assets,assumption,,2025-12-31
+AES,AES Corporation,Utilities,news_mentions_30d,assumption,,2025-12-31
+AES,AES Corporation,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+AFL,Aflac,Financials,interest_expense,stale,2023-12-31,2025-12-31
+AFL,Aflac,Financials,debt_to_assets,assumption,,2025-12-31
+AFL,Aflac,Financials,fcf_to_assets,assumption,,2025-12-31
+AFL,Aflac,Financials,current_ratio,assumption,,2025-12-31
+AFL,Aflac,Financials,news_mentions_30d,assumption,,2025-12-31
+AFL,Aflac,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AIG,American International Group,Financials,capex,stale,2023-12-31,2025-12-31
+AIG,American International Group,Financials,short_term_debt,stale,2023-12-31,2025-12-31
+AIG,American International Group,Financials,fcf_to_assets,assumption,,2025-12-31
+AIG,American International Group,Financials,current_ratio,assumption,,2025-12-31
+AIG,American International Group,Financials,news_mentions_30d,assumption,,2025-12-31
+AIG,American International Group,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AIZ,Assurant,Financials,interest_expense,stale,2023-12-31,2025-12-31
+AIZ,Assurant,Financials,sga,stale,2021-12-31,2025-12-31
+AIZ,Assurant,Financials,long_term_debt,stale,2019-12-31,2025-12-31
+AIZ,Assurant,Financials,debt_to_assets,assumption,,2025-12-31
+AIZ,Assurant,Financials,current_ratio,assumption,,2025-12-31
+AIZ,Assurant,Financials,news_mentions_30d,assumption,,2025-12-31
+AIZ,Assurant,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AJG,Arthur J. Gallagher & Co.,Financials,capex,stale,2016-12-31,2025-12-31
+AJG,Arthur J. Gallagher & Co.,Financials,cogs,stale,2022-12-31,2025-12-31
+AJG,Arthur J. Gallagher & Co.,Financials,fcf_to_assets,assumption,,2025-12-31
+AJG,Arthur J. Gallagher & Co.,Financials,news_mentions_30d,assumption,,2025-12-31
+AJG,Arthur J. Gallagher & Co.,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AKAM,Akamai Technologies,Technology,revenue,stale,2017-12-31,2025-12-31
+AKAM,Akamai Technologies,Technology,interest_expense,stale,2023-12-31,2025-12-31
+AKAM,Akamai Technologies,Technology,debt_to_assets,assumption,,2025-12-31
+AKAM,Akamai Technologies,Technology,net_margin,assumption,,2025-12-31
+AKAM,Akamai Technologies,Technology,news_mentions_30d,assumption,,2025-12-31
+AKAM,Akamai Technologies,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+ALB,Albemarle Corporation,Materials,accounts_payable,stale,2022-12-31,2025-12-31
+ALB,Albemarle Corporation,Materials,leverage_proxy,assumption,,2025-12-31
+ALB,Albemarle Corporation,Materials,news_mentions_30d,assumption,,2025-12-31
+ALB,Albemarle Corporation,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+ALGN,Align Technology,Healthcare,interest_expense,stale,2011-12-31,2025-12-31
+ALGN,Align Technology,Healthcare,debt_to_assets,assumption,,2025-12-31
+ALGN,Align Technology,Healthcare,news_mentions_30d,assumption,,2025-12-31
+ALGN,Align Technology,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+ALL,Allstate,Financials,interest_expense,stale,2023-12-31,2025-12-31
+ALL,Allstate,Financials,short_term_debt,stale,2013-06-30,2025-12-31
+ALL,Allstate,Financials,current_ratio,assumption,,2025-12-31
+ALL,Allstate,Financials,news_mentions_30d,assumption,,2025-12-31
+ALL,Allstate,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+ALLE,Allegion,Industrials,news_mentions_30d,assumption,,2025-12-31
+ALLE,Allegion,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+ALNY,Alnylam Pharmaceuticals,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+ALNY,Alnylam Pharmaceuticals,Industrials,long_term_debt,stale,2022-06-30,2025-12-31
+ALNY,Alnylam Pharmaceuticals,Industrials,debt_to_assets,assumption,,2025-12-31
+ALNY,Alnylam Pharmaceuticals,Industrials,news_mentions_30d,assumption,,2025-12-31
+ALNY,Alnylam Pharmaceuticals,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+AMAT,Applied Materials,Industrials,interest_expense,stale,2023-10-29,2025-10-26
+AMAT,Applied Materials,Industrials,news_mentions_30d,assumption,,2025-10-26
+AMAT,Applied Materials,Industrials,risk_news_mentions_30d,assumption,,2025-10-26
+AMCR,Amcor,Materials,inventory,stale,2022-06-30,2025-06-30
+AMCR,Amcor,Materials,long_term_debt,stale,2019-06-30,2025-06-30
+AMCR,Amcor,Materials,news_mentions_30d,assumption,,2025-06-30
+AMCR,Amcor,Materials,risk_news_mentions_30d,assumption,,2025-06-30
+AMD,Advanced Micro Devices,Industrials,leverage_proxy,assumption,,2025-12-27
+AMD,Advanced Micro Devices,Industrials,news_mentions_30d,assumption,,2025-12-27
+AMD,Advanced Micro Devices,Industrials,risk_news_mentions_30d,assumption,,2025-12-27
+AME,Ametek,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+AME,Ametek,Industrials,short_term_debt,stale,2013-12-31,2025-12-31
+AME,Ametek,Industrials,news_mentions_30d,assumption,,2025-12-31
+AME,Ametek,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+AMGN,Amgen,Healthcare,leverage_proxy,assumption,,2025-12-31
+AMGN,Amgen,Healthcare,news_mentions_30d,assumption,,2025-12-31
+AMGN,Amgen,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+AMP,Ameriprise Financial,Financials,long_term_debt,stale,2009-12-31,2025-12-31
+AMP,Ameriprise Financial,Financials,short_term_debt,stale,2011-09-30,2025-12-31
+AMP,Ameriprise Financial,Financials,debt_to_assets,assumption,,2025-12-31
+AMP,Ameriprise Financial,Financials,current_ratio,assumption,,2025-12-31
+AMP,Ameriprise Financial,Financials,news_mentions_30d,assumption,,2025-12-31
+AMP,Ameriprise Financial,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AMT,American Tower,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+AMT,American Tower,Real Estate,cogs,stale,2019-12-31,2025-12-31
+AMT,American Tower,Real Estate,long_term_debt,stale,2022-12-31,2025-12-31
+AMT,American Tower,Real Estate,news_mentions_30d,assumption,,2025-12-31
+AMT,American Tower,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+AMZN,Amazon,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+AMZN,Amazon,Consumer Discretionary,leverage_proxy,assumption,,2025-12-31
+AMZN,Amazon,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+AMZN,Amazon,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+ANET,Arista Networks,Technology,interest_expense,stale,2018-12-31,2025-12-31
+ANET,Arista Networks,Technology,long_term_debt,stale,2013-12-31,2025-12-31
+ANET,Arista Networks,Technology,short_term_debt,stale,2013-12-31,2025-12-31
+ANET,Arista Networks,Technology,debt_to_assets,assumption,,2025-12-31
+ANET,Arista Networks,Technology,news_mentions_30d,assumption,,2025-12-31
+ANET,Arista Networks,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+AON,Aon plc,Financials,interest_expense,stale,2023-12-31,2025-12-31
+AON,Aon plc,Financials,news_mentions_30d,assumption,,2025-12-31
+AON,Aon plc,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AOS,A. O. Smith,Industrials,news_mentions_30d,assumption,,2025-12-31
+AOS,A. O. Smith,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+APA,APA Corporation,Energy,long_term_debt,stale,2021-03-31,2025-12-31
+APA,APA Corporation,Energy,short_term_debt,stale,2021-03-31,2025-12-31
+APA,APA Corporation,Energy,leverage_proxy,assumption,,2025-12-31
+APA,APA Corporation,Energy,debt_to_assets,assumption,,2025-12-31
+APA,APA Corporation,Energy,net_margin,assumption,,2025-12-31
+APA,APA Corporation,Energy,fcf_to_assets,assumption,,2025-12-31
+APA,APA Corporation,Energy,news_mentions_30d,assumption,,2025-12-31
+APA,APA Corporation,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+APD,Air Products,Materials,interest_expense,stale,2023-09-30,2025-09-30
+APD,Air Products,Materials,long_term_debt,stale,2016-09-30,2025-09-30
+APD,Air Products,Materials,news_mentions_30d,assumption,,2025-09-30
+APD,Air Products,Materials,risk_news_mentions_30d,assumption,,2025-09-30
+APH,Amphenol,Technology,interest_expense,stale,2023-12-31,2025-12-31
+APH,Amphenol,Technology,long_term_debt,stale,2017-12-31,2025-12-31
+APH,Amphenol,Technology,short_term_debt,stale,2017-12-31,2025-12-31
+APH,Amphenol,Technology,debt_to_assets,assumption,,2025-12-31
+APH,Amphenol,Technology,news_mentions_30d,assumption,,2025-12-31
+APH,Amphenol,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+APO,Apollo Global Management,Financials,fcf_to_assets,assumption,,2025-12-31
+APO,Apollo Global Management,Financials,current_ratio,assumption,,2025-12-31
+APO,Apollo Global Management,Financials,news_mentions_30d,assumption,,2025-12-31
+APO,Apollo Global Management,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+APP,AppLovin,Industrials,news_mentions_30d,assumption,,2025-12-31
+APP,AppLovin,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+APTV,Aptiv,Autos,news_mentions_30d,assumption,,2025-12-31
+APTV,Aptiv,Autos,risk_news_mentions_30d,assumption,,2025-12-31
+ARE,Alexandria Real Estate Equities,Real Estate,net_margin,assumption,,2025-12-31
+ARE,Alexandria Real Estate Equities,Real Estate,fcf_to_assets,assumption,,2025-12-31
+ARE,Alexandria Real Estate Equities,Real Estate,current_ratio,assumption,,2025-12-31
+ARE,Alexandria Real Estate Equities,Real Estate,news_mentions_30d,assumption,,2025-12-31
+ARE,Alexandria Real Estate Equities,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+ARES,Ares Management,Financials,capex,stale,2018-12-31,2025-12-31
+ARES,Ares Management,Financials,interest_expense,stale,2022-12-31,2025-12-31
+ARES,Ares Management,Financials,long_term_debt,stale,2014-06-30,2025-12-31
+ARES,Ares Management,Financials,debt_to_assets,assumption,,2025-12-31
+ARES,Ares Management,Financials,fcf_to_assets,assumption,,2025-12-31
+ARES,Ares Management,Financials,current_ratio,assumption,,2025-12-31
+ARES,Ares Management,Financials,news_mentions_30d,assumption,,2025-12-31
+ARES,Ares Management,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+ARM,Arm Holdings,Industrials,debt_to_assets,assumption,,2025-03-31
+ARM,Arm Holdings,Industrials,news_mentions_30d,assumption,,2025-03-31
+ARM,Arm Holdings,Industrials,risk_news_mentions_30d,assumption,,2025-03-31
+ASML,ASML Holding,Industrials,leverage_proxy,assumption,,
+ASML,ASML Holding,Industrials,debt_to_assets,assumption,,
+ASML,ASML Holding,Industrials,cash_to_assets,assumption,,
+ASML,ASML Holding,Industrials,net_margin,assumption,,
+ASML,ASML Holding,Industrials,fcf_to_assets,assumption,,
+ASML,ASML Holding,Industrials,accrual_proxy,assumption,,
+ASML,ASML Holding,Industrials,current_ratio,assumption,,
+ASML,ASML Holding,Industrials,news_mentions_30d,assumption,,
+ASML,ASML Holding,Industrials,risk_news_mentions_30d,assumption,,
+ATO,Atmos Energy,Utilities,interest_expense,stale,2023-09-30,2025-09-30
+ATO,Atmos Energy,Utilities,cogs,stale,2023-09-30,2025-09-30
+ATO,Atmos Energy,Utilities,ppe_net,stale,2014-09-30,2025-09-30
+ATO,Atmos Energy,Utilities,long_term_debt,stale,2019-09-30,2025-09-30
+ATO,Atmos Energy,Utilities,leverage_proxy,assumption,,2025-09-30
+ATO,Atmos Energy,Utilities,news_mentions_30d,assumption,,2025-09-30
+ATO,Atmos Energy,Utilities,risk_news_mentions_30d,assumption,,2025-09-30
+AVB,AvalonBay Communities,Real Estate,capex,stale,2019-12-31,2025-12-31
+AVB,AvalonBay Communities,Real Estate,fcf_to_assets,assumption,,2025-12-31
+AVB,AvalonBay Communities,Real Estate,current_ratio,assumption,,2025-12-31
+AVB,AvalonBay Communities,Real Estate,news_mentions_30d,assumption,,2025-12-31
+AVB,AvalonBay Communities,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+AVGO,Broadcom,Industrials,long_term_debt,stale,2021-10-31,2025-11-02
+AVGO,Broadcom,Industrials,news_mentions_30d,assumption,,2025-11-02
+AVGO,Broadcom,Industrials,risk_news_mentions_30d,assumption,,2025-11-02
+AVY,Avery Dennison,Materials,interest_expense,stale,2023-12-30,2025-12-31
+AVY,Avery Dennison,Materials,short_term_debt,stale,2016-12-31,2025-12-31
+AVY,Avery Dennison,Materials,leverage_proxy,assumption,,2025-12-31
+AVY,Avery Dennison,Materials,news_mentions_30d,assumption,,2025-12-31
+AVY,Avery Dennison,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+AWK,American Water Works,Utilities,interest_expense,stale,2014-12-31,2025-12-31
+AWK,American Water Works,Utilities,long_term_debt,stale,2020-12-31,2025-12-31
+AWK,American Water Works,Utilities,leverage_proxy,assumption,,2025-12-31
+AWK,American Water Works,Utilities,news_mentions_30d,assumption,,2025-12-31
+AWK,American Water Works,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+AXON,Axon Enterprise,Industrials,news_mentions_30d,assumption,,2025-12-31
+AXON,Axon Enterprise,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+AXP,American Express,Financials,interest_expense,stale,2023-12-31,2025-12-31
+AXP,American Express,Financials,current_ratio,assumption,,2025-12-31
+AXP,American Express,Financials,news_mentions_30d,assumption,,2025-12-31
+AXP,American Express,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+AZO,AutoZone,Autos,interest_expense,stale,2023-08-26,2025-08-30
+AZO,AutoZone,Autos,short_term_debt,stale,2014-08-30,2025-08-30
+AZO,AutoZone,Autos,leverage_proxy,assumption,,2025-08-30
+AZO,AutoZone,Autos,news_mentions_30d,assumption,,2025-08-30
+AZO,AutoZone,Autos,risk_news_mentions_30d,assumption,,2025-08-30
+BA,Boeing,Industrials,news_mentions_30d,assumption,,2025-12-31
+BA,Boeing,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+BAC,Bank of America,Financials,interest_expense,stale,2023-12-31,2025-12-31
+BAC,Bank of America,Financials,short_term_debt,stale,2013-12-31,2025-12-31
+BAC,Bank of America,Financials,fcf_to_assets,assumption,,2025-12-31
+BAC,Bank of America,Financials,current_ratio,assumption,,2025-12-31
+BAC,Bank of America,Financials,news_mentions_30d,assumption,,2025-12-31
+BAC,Bank of America,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+BALL,Ball Corporation,Materials,revenue,stale,2017-12-31,2025-12-31
+BALL,Ball Corporation,Materials,cogs,stale,2011-12-31,2025-12-31
+BALL,Ball Corporation,Materials,long_term_debt,stale,2019-12-31,2025-12-31
+BALL,Ball Corporation,Materials,net_margin,assumption,,2025-12-31
+BALL,Ball Corporation,Materials,news_mentions_30d,assumption,,2025-12-31
+BALL,Ball Corporation,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+BAX,Baxter International,Healthcare,news_mentions_30d,assumption,,2025-12-31
+BAX,Baxter International,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+BBY,Best Buy,Consumer Discretionary,leverage_proxy,assumption,,2026-01-31
+BBY,Best Buy,Consumer Discretionary,news_mentions_30d,assumption,,2026-01-31
+BBY,Best Buy,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-01-31
+BDX,Becton Dickinson,Healthcare,short_term_debt,stale,2015-09-30,2025-09-30
+BDX,Becton Dickinson,Healthcare,leverage_proxy,assumption,,2025-09-30
+BDX,Becton Dickinson,Healthcare,news_mentions_30d,assumption,,2025-09-30
+BDX,Becton Dickinson,Healthcare,risk_news_mentions_30d,assumption,,2025-09-30
+BEN,Franklin Resources,Financials,current_assets,stale,2011-09-30,2025-09-30
+BEN,Franklin Resources,Financials,current_liabilities,stale,2011-09-30,2025-09-30
+BEN,Franklin Resources,Financials,accounts_receivable,stale,2011-09-30,2025-09-30
+BEN,Franklin Resources,Financials,accounts_payable,stale,2011-09-30,2025-09-30
+BEN,Franklin Resources,Financials,short_term_debt,stale,2011-09-30,2025-09-30
+BEN,Franklin Resources,Financials,current_ratio,assumption,,2025-09-30
+BEN,Franklin Resources,Financials,news_mentions_30d,assumption,,2025-09-30
+BEN,Franklin Resources,Financials,risk_news_mentions_30d,assumption,,2025-09-30
+BF-B,Brown–Forman,Consumer Staples,news_mentions_30d,assumption,,2025-04-30
+BF-B,Brown–Forman,Consumer Staples,risk_news_mentions_30d,assumption,,2025-04-30
+BG,Bunge Global,Consumer Staples,leverage_proxy,assumption,,2025-12-31
+BG,Bunge Global,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+BG,Bunge Global,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+BIIB,Biogen,Healthcare,news_mentions_30d,assumption,,2025-12-31
+BIIB,Biogen,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+BK,BNY Mellon,Financials,interest_expense,stale,2023-12-31,2025-12-31
+BK,BNY Mellon,Financials,current_ratio,assumption,,2025-12-31
+BK,BNY Mellon,Financials,news_mentions_30d,assumption,,2025-12-31
+BK,BNY Mellon,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+BKNG,Booking Holdings,Industrials,net_income,stale,2015-12-31,2025-12-31
+BKNG,Booking Holdings,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+BKNG,Booking Holdings,Industrials,cogs,stale,2017-12-31,2025-12-31
+BKNG,Booking Holdings,Industrials,accounts_receivable,stale,2018-12-31,2025-12-31
+BKNG,Booking Holdings,Industrials,net_margin,assumption,,2025-12-31
+BKNG,Booking Holdings,Industrials,accrual_proxy,assumption,,2025-12-31
+BKNG,Booking Holdings,Industrials,news_mentions_30d,assumption,,2025-12-31
+BKNG,Booking Holdings,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+BKR,Baker Hughes,Industrials,liabilities,stale,2017-06-30,2025-12-31
+BKR,Baker Hughes,Industrials,cogs,stale,2017-12-31,2025-12-31
+BKR,Baker Hughes,Industrials,long_term_debt,stale,2017-09-30,2025-12-31
+BKR,Baker Hughes,Industrials,leverage_proxy,assumption,,2025-12-31
+BKR,Baker Hughes,Industrials,debt_to_assets,assumption,,2025-12-31
+BKR,Baker Hughes,Industrials,news_mentions_30d,assumption,,2025-12-31
+BKR,Baker Hughes,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+BLDR,Builders FirstSource,Industrials,interest_expense,stale,2017-12-31,2025-12-31
+BLDR,Builders FirstSource,Industrials,long_term_debt,stale,2014-12-31,2025-12-31
+BLDR,Builders FirstSource,Industrials,short_term_debt,stale,2014-12-31,2025-12-31
+BLDR,Builders FirstSource,Industrials,debt_to_assets,assumption,,2025-12-31
+BLDR,Builders FirstSource,Industrials,news_mentions_30d,assumption,,2025-12-31
+BLDR,Builders FirstSource,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+BLK,BlackRock,Financials,current_ratio,assumption,,2025-12-31
+BLK,BlackRock,Financials,news_mentions_30d,assumption,,2025-12-31
+BLK,BlackRock,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+BMY,Bristol Myers Squibb,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+BMY,Bristol Myers Squibb,Healthcare,news_mentions_30d,assumption,,2025-12-31
+BMY,Bristol Myers Squibb,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+BR,Broadridge Financial Solutions,Industrials,depreciation,stale,2011-06-30,2025-06-30
+BR,Broadridge Financial Solutions,Industrials,news_mentions_30d,assumption,,2025-06-30
+BR,Broadridge Financial Solutions,Industrials,risk_news_mentions_30d,assumption,,2025-06-30
+BRK-B,Berkshire Hathaway,Financials,debt_to_assets,assumption,,2025-12-31
+BRK-B,Berkshire Hathaway,Financials,current_ratio,assumption,,2025-12-31
+BRK-B,Berkshire Hathaway,Financials,news_mentions_30d,assumption,,2025-12-31
+BRK-B,Berkshire Hathaway,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+BRO,Brown & Brown,Financials,liabilities,stale,2019-01-01,2025-12-31
+BRO,Brown & Brown,Financials,interest_expense,stale,2023-12-31,2025-12-31
+BRO,Brown & Brown,Financials,leverage_proxy,assumption,,2025-12-31
+BRO,Brown & Brown,Financials,news_mentions_30d,assumption,,2025-12-31
+BRO,Brown & Brown,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+BSX,Boston Scientific,Healthcare,long_term_debt,stale,2017-12-31,2025-12-31
+BSX,Boston Scientific,Healthcare,short_term_debt,stale,2016-12-31,2025-12-31
+BSX,Boston Scientific,Healthcare,leverage_proxy,assumption,,2025-12-31
+BSX,Boston Scientific,Healthcare,debt_to_assets,assumption,,2025-12-31
+BSX,Boston Scientific,Healthcare,news_mentions_30d,assumption,,2025-12-31
+BSX,Boston Scientific,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+BX,Blackstone Inc.,Financials,current_ratio,assumption,,2025-12-31
+BX,Blackstone Inc.,Financials,news_mentions_30d,assumption,,2025-12-31
+BX,Blackstone Inc.,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+BXP,"BXP, Inc.",Real Estate,cogs,stale,2019-03-31,2025-12-31
+BXP,"BXP, Inc.",Real Estate,long_term_debt,stale,2021-12-31,2025-12-31
+BXP,"BXP, Inc.",Real Estate,debt_to_assets,assumption,,2025-12-31
+BXP,"BXP, Inc.",Real Estate,fcf_to_assets,assumption,,2025-12-31
+BXP,"BXP, Inc.",Real Estate,current_ratio,assumption,,2025-12-31
+BXP,"BXP, Inc.",Real Estate,news_mentions_30d,assumption,,2025-12-31
+BXP,"BXP, Inc.",Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+C,Citigroup,Financials,interest_expense,stale,2023-12-31,2025-12-31
+C,Citigroup,Financials,cogs,stale,2020-12-31,2025-12-31
+C,Citigroup,Financials,current_ratio,assumption,,2025-12-31
+C,Citigroup,Financials,news_mentions_30d,assumption,,2025-12-31
+C,Citigroup,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CAG,Conagra Brands,Consumer Staples,interest_expense,stale,2016-05-29,2025-05-25
+CAG,Conagra Brands,Consumer Staples,news_mentions_30d,assumption,,2025-05-25
+CAG,Conagra Brands,Consumer Staples,risk_news_mentions_30d,assumption,,2025-05-25
+CAH,Cardinal Health,Healthcare,long_term_debt,stale,2011-06-30,2025-06-30
+CAH,Cardinal Health,Healthcare,leverage_proxy,assumption,,2025-06-30
+CAH,Cardinal Health,Healthcare,debt_to_assets,assumption,,2025-06-30
+CAH,Cardinal Health,Healthcare,news_mentions_30d,assumption,,2025-06-30
+CAH,Cardinal Health,Healthcare,risk_news_mentions_30d,assumption,,2025-06-30
+CARR,Carrier Global,Industrials,news_mentions_30d,assumption,,2025-12-31
+CARR,Carrier Global,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CASY,Casey's,Consumer Staples,cogs,stale,2017-04-30,2025-04-30
+CASY,Casey's,Consumer Staples,accounts_receivable,stale,2019-04-30,2025-04-30
+CASY,Casey's,Consumer Staples,news_mentions_30d,assumption,,2025-04-30
+CASY,Casey's,Consumer Staples,risk_news_mentions_30d,assumption,,2025-04-30
+CAT,Caterpillar,Industrials,news_mentions_30d,assumption,,2025-12-31
+CAT,Caterpillar,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CB,Chubb Limited,Financials,fcf_to_assets,assumption,,2025-12-31
+CB,Chubb Limited,Financials,current_ratio,assumption,,2025-12-31
+CB,Chubb Limited,Financials,news_mentions_30d,assumption,,2025-12-31
+CB,Chubb Limited,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CBOE,Cboe Global Markets,Financials,revenue,stale,2017-12-31,2025-12-31
+CBOE,Cboe Global Markets,Financials,interest_expense,stale,2016-12-31,2025-12-31
+CBOE,Cboe Global Markets,Financials,short_term_debt,stale,2022-12-31,2025-12-31
+CBOE,Cboe Global Markets,Financials,net_margin,assumption,,2025-12-31
+CBOE,Cboe Global Markets,Financials,news_mentions_30d,assumption,,2025-12-31
+CBOE,Cboe Global Markets,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CBRE,CBRE Group,Real Estate,interest_expense,stale,2018-12-31,2025-12-31
+CBRE,CBRE Group,Real Estate,accounts_payable,stale,2013-12-31,2025-12-31
+CBRE,CBRE Group,Real Estate,news_mentions_30d,assumption,,2025-12-31
+CBRE,CBRE Group,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+CCEP,Coca-Cola Europacific Partners,Industrials,leverage_proxy,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,debt_to_assets,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,cash_to_assets,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,net_margin,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,fcf_to_assets,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,accrual_proxy,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,current_ratio,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,news_mentions_30d,assumption,,
+CCEP,Coca-Cola Europacific Partners,Industrials,risk_news_mentions_30d,assumption,,
+CCI,Crown Castle,Real Estate,interest_expense,stale,2017-12-31,2025-12-31
+CCI,Crown Castle,Real Estate,news_mentions_30d,assumption,,2025-12-31
+CCI,Crown Castle,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+CCL,Carnival Corporation,Consumer Discretionary,interest_expense,stale,2023-11-30,2025-11-30
+CCL,Carnival Corporation,Consumer Discretionary,leverage_proxy,assumption,,2025-11-30
+CCL,Carnival Corporation,Consumer Discretionary,news_mentions_30d,assumption,,2025-11-30
+CCL,Carnival Corporation,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-11-30
+CDNS,Cadence Design Systems,Industrials,cogs,stale,2012-12-29,2025-12-31
+CDNS,Cadence Design Systems,Industrials,short_term_debt,stale,2018-06-30,2025-12-31
+CDNS,Cadence Design Systems,Industrials,leverage_proxy,assumption,,2025-12-31
+CDNS,Cadence Design Systems,Industrials,debt_to_assets,assumption,,2025-12-31
+CDNS,Cadence Design Systems,Industrials,news_mentions_30d,assumption,,2025-12-31
+CDNS,Cadence Design Systems,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CDW,CDW Corporation,Technology,liabilities,stale,2017-12-31,2025-12-31
+CDW,CDW Corporation,Technology,interest_expense,stale,2013-12-31,2025-12-31
+CDW,CDW Corporation,Technology,leverage_proxy,assumption,,2025-12-31
+CDW,CDW Corporation,Technology,news_mentions_30d,assumption,,2025-12-31
+CDW,CDW Corporation,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+CEG,Constellation Energy,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+CEG,Constellation Energy,Industrials,news_mentions_30d,assumption,,2025-12-31
+CEG,Constellation Energy,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CF,CF Industries,Materials,short_term_debt,stale,2021-12-31,2025-12-31
+CF,CF Industries,Materials,leverage_proxy,assumption,,2025-12-31
+CF,CF Industries,Materials,news_mentions_30d,assumption,,2025-12-31
+CF,CF Industries,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+CFG,Citizens Financial Group,Financials,capex,stale,2019-12-31,2025-12-31
+CFG,Citizens Financial Group,Financials,interest_expense,stale,2023-12-31,2025-12-31
+CFG,Citizens Financial Group,Financials,fcf_to_assets,assumption,,2025-12-31
+CFG,Citizens Financial Group,Financials,current_ratio,assumption,,2025-12-31
+CFG,Citizens Financial Group,Financials,news_mentions_30d,assumption,,2025-12-31
+CFG,Citizens Financial Group,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CHD,Church & Dwight,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+CHD,Church & Dwight,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+CHRW,C.H. Robinson,Transportation,cogs,stale,2017-12-31,2025-12-31
+CHRW,C.H. Robinson,Transportation,sga,stale,2018-03-31,2025-12-31
+CHRW,C.H. Robinson,Transportation,news_mentions_30d,assumption,,2025-12-31
+CHRW,C.H. Robinson,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+CHTR,Charter Communications,Industrials,interest_expense,stale,2013-12-31,2025-12-31
+CHTR,Charter Communications,Industrials,leverage_proxy,assumption,,2025-12-31
+CHTR,Charter Communications,Industrials,news_mentions_30d,assumption,,2025-12-31
+CHTR,Charter Communications,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CI,Cigna,Healthcare,capex,stale,2019-12-31,2025-12-31
+CI,Cigna,Healthcare,long_term_debt,stale,2018-12-31,2025-12-31
+CI,Cigna,Healthcare,short_term_debt,stale,2018-12-31,2025-12-31
+CI,Cigna,Healthcare,debt_to_assets,assumption,,2025-12-31
+CI,Cigna,Healthcare,fcf_to_assets,assumption,,2025-12-31
+CI,Cigna,Healthcare,news_mentions_30d,assumption,,2025-12-31
+CI,Cigna,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+CIEN,Ciena,Technology,interest_expense,stale,2023-10-28,2025-11-01
+CIEN,Ciena,Technology,news_mentions_30d,assumption,,2025-11-01
+CIEN,Ciena,Technology,risk_news_mentions_30d,assumption,,2025-11-01
+CINF,Cincinnati Financial,Financials,short_term_debt,stale,2011-09-30,2025-12-31
+CINF,Cincinnati Financial,Financials,current_ratio,assumption,,2025-12-31
+CINF,Cincinnati Financial,Financials,news_mentions_30d,assumption,,2025-12-31
+CINF,Cincinnati Financial,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CL,Colgate-Palmolive,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+CL,Colgate-Palmolive,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+CLX,Clorox,Consumer Staples,news_mentions_30d,assumption,,2025-06-30
+CLX,Clorox,Consumer Staples,risk_news_mentions_30d,assumption,,2025-06-30
+CMCSA,Comcast,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+CMCSA,Comcast,Industrials,sga,stale,2010-12-31,2025-12-31
+CMCSA,Comcast,Industrials,leverage_proxy,assumption,,2025-12-31
+CMCSA,Comcast,Industrials,debt_to_assets,assumption,,2025-12-31
+CMCSA,Comcast,Industrials,news_mentions_30d,assumption,,2025-12-31
+CMCSA,Comcast,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CME,CME Group,Financials,news_mentions_30d,assumption,,2025-12-31
+CME,CME Group,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CMG,Chipotle Mexican Grill,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+CMG,Chipotle Mexican Grill,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+CMI,Cummins,Industrials,accounts_receivable,stale,2020-12-31,2025-12-31
+CMI,Cummins,Industrials,long_term_debt,stale,2013-12-31,2025-12-31
+CMI,Cummins,Industrials,news_mentions_30d,assumption,,2025-12-31
+CMI,Cummins,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CMS,CMS Energy,Utilities,capex,stale,2022-12-31,2025-12-31
+CMS,CMS Energy,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+CMS,CMS Energy,Utilities,accounts_receivable,stale,2022-12-31,2025-12-31
+CMS,CMS Energy,Utilities,accounts_payable,stale,2022-12-31,2025-12-31
+CMS,CMS Energy,Utilities,leverage_proxy,assumption,,2025-12-31
+CMS,CMS Energy,Utilities,fcf_to_assets,assumption,,2025-12-31
+CMS,CMS Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+CMS,CMS Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+CNC,Centene Corporation,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+CNC,Centene Corporation,Healthcare,news_mentions_30d,assumption,,2025-12-31
+CNC,Centene Corporation,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+CNP,CenterPoint Energy,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+CNP,CenterPoint Energy,Utilities,inventory,stale,2013-12-31,2025-12-31
+CNP,CenterPoint Energy,Utilities,leverage_proxy,assumption,,2025-12-31
+CNP,CenterPoint Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+CNP,CenterPoint Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+COF,Capital One,Financials,interest_expense,stale,2023-12-31,2025-12-31
+COF,Capital One,Financials,long_term_debt,stale,2014-12-31,2025-12-31
+COF,Capital One,Financials,current_ratio,assumption,,2025-12-31
+COF,Capital One,Financials,news_mentions_30d,assumption,,2025-12-31
+COF,Capital One,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+COHR,Coherent Corp.,Technology,interest_expense,stale,2023-06-30,2025-06-30
+COHR,Coherent Corp.,Technology,news_mentions_30d,assumption,,2025-06-30
+COHR,Coherent Corp.,Technology,risk_news_mentions_30d,assumption,,2025-06-30
+COIN,Coinbase,Financials,capex,stale,2022-12-31,2025-12-31
+COIN,Coinbase,Financials,interest_expense,stale,2023-12-31,2025-12-31
+COIN,Coinbase,Financials,fcf_to_assets,assumption,,2025-12-31
+COIN,Coinbase,Financials,news_mentions_30d,assumption,,2025-12-31
+COIN,Coinbase,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+COO,Cooper Companies (The),Healthcare,interest_expense,stale,2023-10-31,2025-10-31
+COO,Cooper Companies (The),Healthcare,news_mentions_30d,assumption,,2025-10-31
+COO,Cooper Companies (The),Healthcare,risk_news_mentions_30d,assumption,,2025-10-31
+COP,ConocoPhillips,Energy,capex,stale,2022-12-31,2025-12-31
+COP,ConocoPhillips,Energy,accounts_receivable,stale,2019-12-31,2025-12-31
+COP,ConocoPhillips,Energy,long_term_debt,stale,2018-12-31,2025-12-31
+COP,ConocoPhillips,Energy,debt_to_assets,assumption,,2025-12-31
+COP,ConocoPhillips,Energy,fcf_to_assets,assumption,,2025-12-31
+COP,ConocoPhillips,Energy,news_mentions_30d,assumption,,2025-12-31
+COP,ConocoPhillips,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+COR,Cencora,Healthcare,short_term_debt,stale,2018-09-30,2025-09-30
+COR,Cencora,Healthcare,leverage_proxy,assumption,,2025-09-30
+COR,Cencora,Healthcare,news_mentions_30d,assumption,,2025-09-30
+COR,Cencora,Healthcare,risk_news_mentions_30d,assumption,,2025-09-30
+COST,Costco,Industrials,news_mentions_30d,assumption,,2025-08-31
+COST,Costco,Industrials,risk_news_mentions_30d,assumption,,2025-08-31
+CPAY,Corpay,Financials,interest_expense,stale,2012-12-31,2025-12-31
+CPAY,Corpay,Financials,cogs,stale,2017-12-31,2025-12-31
+CPAY,Corpay,Financials,leverage_proxy,assumption,,2025-12-31
+CPAY,Corpay,Financials,news_mentions_30d,assumption,,2025-12-31
+CPAY,Corpay,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+CPB,Campbell's Company (The),Consumer Staples,long_term_debt,stale,2018-07-29,2025-08-03
+CPB,Campbell's Company (The),Consumer Staples,news_mentions_30d,assumption,,2025-08-03
+CPB,Campbell's Company (The),Consumer Staples,risk_news_mentions_30d,assumption,,2025-08-03
+CPRT,Copart,Industrials,revenue,stale,2020-07-31,2025-07-31
+CPRT,Copart,Industrials,interest_expense,stale,2020-07-31,2025-07-31
+CPRT,Copart,Industrials,cogs,stale,2019-07-31,2025-07-31
+CPRT,Copart,Industrials,long_term_debt,stale,2023-07-31,2025-07-31
+CPRT,Copart,Industrials,short_term_debt,stale,2011-10-31,2025-07-31
+CPRT,Copart,Industrials,debt_to_assets,assumption,,2025-07-31
+CPRT,Copart,Industrials,net_margin,assumption,,2025-07-31
+CPRT,Copart,Industrials,news_mentions_30d,assumption,,2025-07-31
+CPRT,Copart,Industrials,risk_news_mentions_30d,assumption,,2025-07-31
+CPT,Camden Property Trust,Real Estate,fcf_to_assets,assumption,,2025-12-31
+CPT,Camden Property Trust,Real Estate,current_ratio,assumption,,2025-12-31
+CPT,Camden Property Trust,Real Estate,news_mentions_30d,assumption,,2025-12-31
+CPT,Camden Property Trust,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+CRH,CRH plc,Materials,interest_expense,stale,2023-12-31,2025-12-31
+CRH,CRH plc,Materials,news_mentions_30d,assumption,,2025-12-31
+CRH,CRH plc,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+CRL,Charles River Laboratories,Healthcare,interest_expense,stale,2023-12-30,2025-12-27
+CRL,Charles River Laboratories,Healthcare,cogs,stale,2017-12-30,2025-12-27
+CRL,Charles River Laboratories,Healthcare,long_term_debt,stale,2018-12-29,2025-12-27
+CRL,Charles River Laboratories,Healthcare,news_mentions_30d,assumption,,2025-12-27
+CRL,Charles River Laboratories,Healthcare,risk_news_mentions_30d,assumption,,2025-12-27
+CRM,Salesforce,Technology,interest_expense,stale,2019-01-31,2026-01-31
+CRM,Salesforce,Technology,accounts_payable,stale,2019-01-31,2026-01-31
+CRM,Salesforce,Technology,news_mentions_30d,assumption,,2026-01-31
+CRM,Salesforce,Technology,risk_news_mentions_30d,assumption,,2026-01-31
+CRWD,CrowdStrike,Industrials,interest_expense,stale,2024-01-31,2026-01-31
+CRWD,CrowdStrike,Industrials,net_margin,assumption,,2026-01-31
+CRWD,CrowdStrike,Industrials,news_mentions_30d,assumption,,2026-01-31
+CRWD,CrowdStrike,Industrials,risk_news_mentions_30d,assumption,,2026-01-31
+CSCO,Cisco,Technology,interest_expense,stale,2023-07-29,2025-07-26
+CSCO,Cisco,Technology,news_mentions_30d,assumption,,2025-07-26
+CSCO,Cisco,Technology,risk_news_mentions_30d,assumption,,2025-07-26
+CSGP,CoStar Group,Industrials,interest_expense,stale,2019-12-31,2025-12-31
+CSGP,CoStar Group,Industrials,short_term_debt,stale,2017-12-31,2025-12-31
+CSGP,CoStar Group,Industrials,news_mentions_30d,assumption,,2025-12-31
+CSGP,CoStar Group,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CSX,CSX Corporation,Industrials,interest_expense,stale,2017-12-31,2025-12-31
+CSX,CSX Corporation,Industrials,long_term_debt,stale,2012-12-28,2025-12-31
+CSX,CSX Corporation,Industrials,debt_to_assets,assumption,,2025-12-31
+CSX,CSX Corporation,Industrials,news_mentions_30d,assumption,,2025-12-31
+CSX,CSX Corporation,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CTAS,Cintas,Industrials,interest_expense,stale,2023-05-31,2025-05-31
+CTAS,Cintas,Industrials,leverage_proxy,assumption,,2025-05-31
+CTAS,Cintas,Industrials,news_mentions_30d,assumption,,2025-05-31
+CTAS,Cintas,Industrials,risk_news_mentions_30d,assumption,,2025-05-31
+CTSH,Cognizant,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+CTSH,Cognizant,Industrials,news_mentions_30d,assumption,,2025-12-31
+CTSH,Cognizant,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+CTVA,Corteva,Materials,leverage_proxy,assumption,,2025-12-31
+CTVA,Corteva,Materials,news_mentions_30d,assumption,,2025-12-31
+CTVA,Corteva,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+CVNA,Carvana,Autos,interest_expense,stale,2023-12-31,2025-12-31
+CVNA,Carvana,Autos,news_mentions_30d,assumption,,2025-12-31
+CVNA,Carvana,Autos,risk_news_mentions_30d,assumption,,2025-12-31
+CVS,CVS Health,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+CVS,CVS Health,Healthcare,accounts_payable,stale,2017-12-31,2025-12-31
+CVS,CVS Health,Healthcare,long_term_debt,stale,2019-01-01,2025-12-31
+CVS,CVS Health,Healthcare,news_mentions_30d,assumption,,2025-12-31
+CVS,CVS Health,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+CVX,Chevron,Energy,long_term_debt,stale,2021-12-31,2025-12-31
+CVX,Chevron,Energy,news_mentions_30d,assumption,,2025-12-31
+CVX,Chevron,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+D,Dominion Energy,Utilities,capex,stale,2019-12-31,2026-03-31
+D,Dominion Energy,Utilities,fcf_to_assets,assumption,,2026-03-31
+D,Dominion Energy,Utilities,news_mentions_30d,assumption,,2026-03-31
+D,Dominion Energy,Utilities,risk_news_mentions_30d,assumption,,2026-03-31
+DAL,Delta Air Lines,Transportation,interest_expense,stale,2017-12-31,2025-12-31
+DAL,Delta Air Lines,Transportation,leverage_proxy,assumption,,2025-12-31
+DAL,Delta Air Lines,Transportation,news_mentions_30d,assumption,,2025-12-31
+DAL,Delta Air Lines,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+DASH,DoorDash,Industrials,interest_expense,stale,2022-12-31,2025-12-31
+DASH,DoorDash,Industrials,debt_to_assets,assumption,,2025-12-31
+DASH,DoorDash,Industrials,news_mentions_30d,assumption,,2025-12-31
+DASH,DoorDash,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+DD,DuPont,Materials,long_term_debt,stale,2023-12-31,2025-12-31
+DD,DuPont,Materials,news_mentions_30d,assumption,,2025-12-31
+DD,DuPont,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+DDOG,Datadog,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+DDOG,Datadog,Industrials,debt_to_assets,assumption,,2025-12-31
+DDOG,Datadog,Industrials,news_mentions_30d,assumption,,2025-12-31
+DDOG,Datadog,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+DE,Deere & Company,Industrials,cogs,stale,2017-10-29,2025-11-02
+DE,Deere & Company,Industrials,ppe_net,stale,2020-11-01,2025-11-02
+DE,Deere & Company,Industrials,long_term_debt,stale,2021-10-31,2025-11-02
+DE,Deere & Company,Industrials,debt_to_assets,assumption,,2025-11-02
+DE,Deere & Company,Industrials,current_ratio,assumption,,2025-11-02
+DE,Deere & Company,Industrials,news_mentions_30d,assumption,,2025-11-02
+DE,Deere & Company,Industrials,risk_news_mentions_30d,assumption,,2025-11-02
+DECK,Deckers Brands,Consumer Discretionary,short_term_debt,stale,2021-03-31,2025-03-31
+DECK,Deckers Brands,Consumer Discretionary,leverage_proxy,assumption,,2025-03-31
+DECK,Deckers Brands,Consumer Discretionary,debt_to_assets,assumption,,2025-03-31
+DECK,Deckers Brands,Consumer Discretionary,news_mentions_30d,assumption,,2025-03-31
+DECK,Deckers Brands,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-03-31
+DELL,Dell Technologies,Technology,interest_expense,stale,2024-02-02,2026-01-30
+DELL,Dell Technologies,Technology,news_mentions_30d,assumption,,2026-01-30
+DELL,Dell Technologies,Technology,risk_news_mentions_30d,assumption,,2026-01-30
+DG,Dollar General,Consumer Staples,interest_expense,stale,2024-02-02,2026-01-30
+DG,Dollar General,Consumer Staples,long_term_debt,stale,2022-01-28,2026-01-30
+DG,Dollar General,Consumer Staples,short_term_debt,stale,2023-11-03,2026-01-30
+DG,Dollar General,Consumer Staples,debt_to_assets,assumption,,2026-01-30
+DG,Dollar General,Consumer Staples,news_mentions_30d,assumption,,2026-01-30
+DG,Dollar General,Consumer Staples,risk_news_mentions_30d,assumption,,2026-01-30
+DGX,Quest Diagnostics,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+DGX,Quest Diagnostics,Healthcare,leverage_proxy,assumption,,2025-12-31
+DGX,Quest Diagnostics,Healthcare,news_mentions_30d,assumption,,2025-12-31
+DGX,Quest Diagnostics,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+DHI,D. R. Horton,Consumer Discretionary,interest_expense,stale,2018-09-30,2025-09-30
+DHI,D. R. Horton,Consumer Discretionary,debt_to_assets,assumption,,2025-09-30
+DHI,D. R. Horton,Consumer Discretionary,current_ratio,assumption,,2025-09-30
+DHI,D. R. Horton,Consumer Discretionary,news_mentions_30d,assumption,,2025-09-30
+DHI,D. R. Horton,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-09-30
+DHR,Danaher Corporation,Healthcare,liabilities,stale,2010-12-31,2025-12-31
+DHR,Danaher Corporation,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+DHR,Danaher Corporation,Healthcare,short_term_debt,stale,2010-12-31,2025-12-31
+DHR,Danaher Corporation,Healthcare,leverage_proxy,assumption,,2025-12-31
+DHR,Danaher Corporation,Healthcare,news_mentions_30d,assumption,,2025-12-31
+DHR,Danaher Corporation,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+DIS,Disney,Communication Services,leverage_proxy,assumption,,2025-09-27
+DIS,Disney,Communication Services,news_mentions_30d,assumption,,2025-09-27
+DIS,Disney,Communication Services,risk_news_mentions_30d,assumption,,2025-09-27
+DLR,Digital Realty,Real Estate,long_term_debt,stale,2011-12-31,2025-12-31
+DLR,Digital Realty,Real Estate,debt_to_assets,assumption,,2025-12-31
+DLR,Digital Realty,Real Estate,fcf_to_assets,assumption,,2025-12-31
+DLR,Digital Realty,Real Estate,current_ratio,assumption,,2025-12-31
+DLR,Digital Realty,Real Estate,news_mentions_30d,assumption,,2025-12-31
+DLR,Digital Realty,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+DLTR,Dollar Tree,Consumer Staples,accounts_receivable,stale,2020-02-01,2026-01-31
+DLTR,Dollar Tree,Consumer Staples,news_mentions_30d,assumption,,2026-01-31
+DLTR,Dollar Tree,Consumer Staples,risk_news_mentions_30d,assumption,,2026-01-31
+DOC,Healthpeak Properties,Real Estate,current_ratio,assumption,,2025-12-31
+DOC,Healthpeak Properties,Real Estate,news_mentions_30d,assumption,,2025-12-31
+DOC,Healthpeak Properties,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+DOV,Dover Corporation,Industrials,liabilities,stale,2009-09-30,2025-12-31
+DOV,Dover Corporation,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+DOV,Dover Corporation,Industrials,leverage_proxy,assumption,,2025-12-31
+DOV,Dover Corporation,Industrials,news_mentions_30d,assumption,,2025-12-31
+DOV,Dover Corporation,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+DOW,Dow Inc.,Materials,interest_expense,stale,2019-03-31,2025-12-31
+DOW,Dow Inc.,Materials,long_term_debt,stale,2022-12-31,2025-12-31
+DOW,Dow Inc.,Materials,short_term_debt,stale,2023-12-31,2025-12-31
+DOW,Dow Inc.,Materials,leverage_proxy,assumption,,2025-12-31
+DOW,Dow Inc.,Materials,debt_to_assets,assumption,,2025-12-31
+DOW,Dow Inc.,Materials,news_mentions_30d,assumption,,2025-12-31
+DOW,Dow Inc.,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+DPZ,Domino's,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-28
+DPZ,Domino's,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-28
+DRI,Darden Restaurants,Consumer Discretionary,interest_expense,stale,2023-05-28,2025-05-25
+DRI,Darden Restaurants,Consumer Discretionary,cogs,stale,2014-05-25,2025-05-25
+DRI,Darden Restaurants,Consumer Discretionary,news_mentions_30d,assumption,,2025-05-25
+DRI,Darden Restaurants,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-05-25
+DTE,DTE Energy,Utilities,revenue,stale,2017-12-31,2025-12-31
+DTE,DTE Energy,Utilities,leverage_proxy,assumption,,2025-12-31
+DTE,DTE Energy,Utilities,net_margin,assumption,,2025-12-31
+DTE,DTE Energy,Utilities,fcf_to_assets,assumption,,2025-12-31
+DTE,DTE Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+DTE,DTE Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+DUK,Duke Energy,Utilities,revenue,stale,2016-12-31,2025-12-31
+DUK,Duke Energy,Utilities,cogs,stale,2019-12-31,2025-12-31
+DUK,Duke Energy,Utilities,inventory,stale,2011-12-31,2025-12-31
+DUK,Duke Energy,Utilities,leverage_proxy,assumption,,2025-12-31
+DUK,Duke Energy,Utilities,net_margin,assumption,,2025-12-31
+DUK,Duke Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+DUK,Duke Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+DVA,DaVita,Healthcare,long_term_debt,stale,2014-12-31,2025-12-31
+DVA,DaVita,Healthcare,short_term_debt,stale,2011-12-31,2025-12-31
+DVA,DaVita,Healthcare,debt_to_assets,assumption,,2025-12-31
+DVA,DaVita,Healthcare,news_mentions_30d,assumption,,2025-12-31
+DVA,DaVita,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+DVN,Devon Energy,Energy,interest_expense,stale,2018-12-31,2025-12-31
+DVN,Devon Energy,Energy,cogs,stale,2019-12-31,2025-12-31
+DVN,Devon Energy,Energy,leverage_proxy,assumption,,2025-12-31
+DVN,Devon Energy,Energy,news_mentions_30d,assumption,,2025-12-31
+DVN,Devon Energy,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+DXCM,DexCom,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+DXCM,DexCom,Industrials,long_term_debt,stale,2014-12-31,2025-12-31
+DXCM,DexCom,Industrials,debt_to_assets,assumption,,2025-12-31
+DXCM,DexCom,Industrials,news_mentions_30d,assumption,,2025-12-31
+DXCM,DexCom,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+EA,Electronic Arts,Industrials,capex,stale,2010-06-30,2025-03-31
+EA,Electronic Arts,Industrials,inventory,stale,2016-03-31,2025-03-31
+EA,Electronic Arts,Industrials,debt_to_assets,assumption,,2025-03-31
+EA,Electronic Arts,Industrials,fcf_to_assets,assumption,,2025-03-31
+EA,Electronic Arts,Industrials,news_mentions_30d,assumption,,2025-03-31
+EA,Electronic Arts,Industrials,risk_news_mentions_30d,assumption,,2025-03-31
+EBAY,eBay Inc.,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+EBAY,eBay Inc.,Consumer Discretionary,long_term_debt,stale,2023-12-31,2025-12-31
+EBAY,eBay Inc.,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+EBAY,eBay Inc.,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+ECL,Ecolab,Materials,long_term_debt,stale,2011-12-31,2025-12-31
+ECL,Ecolab,Materials,short_term_debt,stale,2011-12-31,2025-12-31
+ECL,Ecolab,Materials,debt_to_assets,assumption,,2025-12-31
+ECL,Ecolab,Materials,news_mentions_30d,assumption,,2025-12-31
+ECL,Ecolab,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+ED,Consolidated Edison,Utilities,capex,stale,2022-12-31,2025-12-31
+ED,Consolidated Edison,Utilities,leverage_proxy,assumption,,2025-12-31
+ED,Consolidated Edison,Utilities,fcf_to_assets,assumption,,2025-12-31
+ED,Consolidated Edison,Utilities,news_mentions_30d,assumption,,2025-12-31
+ED,Consolidated Edison,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+EFX,Equifax,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+EFX,Equifax,Industrials,cogs,stale,2017-12-31,2025-12-31
+EFX,Equifax,Industrials,news_mentions_30d,assumption,,2025-12-31
+EFX,Equifax,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+EG,Everest Group,Financials,interest_expense,stale,2019-12-31,2025-12-31
+EG,Everest Group,Financials,short_term_debt,stale,2010-12-31,2025-12-31
+EG,Everest Group,Financials,debt_to_assets,assumption,,2025-12-31
+EG,Everest Group,Financials,fcf_to_assets,assumption,,2025-12-31
+EG,Everest Group,Financials,current_ratio,assumption,,2025-12-31
+EG,Everest Group,Financials,news_mentions_30d,assumption,,2025-12-31
+EG,Everest Group,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+EIX,Edison International,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+EIX,Edison International,Utilities,news_mentions_30d,assumption,,2025-12-31
+EIX,Edison International,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+EL,Estée Lauder Companies (The),Consumer Staples,liabilities,stale,2019-06-30,2025-06-30
+EL,Estée Lauder Companies (The),Consumer Staples,accounts_payable,stale,2012-06-30,2025-06-30
+EL,Estée Lauder Companies (The),Consumer Staples,long_term_debt,stale,2011-06-30,2025-06-30
+EL,Estée Lauder Companies (The),Consumer Staples,leverage_proxy,assumption,,2025-06-30
+EL,Estée Lauder Companies (The),Consumer Staples,debt_to_assets,assumption,,2025-06-30
+EL,Estée Lauder Companies (The),Consumer Staples,news_mentions_30d,assumption,,2025-06-30
+EL,Estée Lauder Companies (The),Consumer Staples,risk_news_mentions_30d,assumption,,2025-06-30
+ELV,Elevance Health,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+ELV,Elevance Health,Healthcare,news_mentions_30d,assumption,,2025-12-31
+ELV,Elevance Health,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+EME,Emcor,Industrials,long_term_debt,stale,2012-12-31,2025-12-31
+EME,Emcor,Industrials,debt_to_assets,assumption,,2025-12-31
+EME,Emcor,Industrials,news_mentions_30d,assumption,,2025-12-31
+EME,Emcor,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+EMR,Emerson Electric,Industrials,interest_expense,stale,2021-09-30,2025-09-30
+EMR,Emerson Electric,Industrials,leverage_proxy,assumption,,2025-09-30
+EMR,Emerson Electric,Industrials,news_mentions_30d,assumption,,2025-09-30
+EMR,Emerson Electric,Industrials,risk_news_mentions_30d,assumption,,2025-09-30
+EOG,EOG Resources,Energy,leverage_proxy,assumption,,2025-12-31
+EOG,EOG Resources,Energy,fcf_to_assets,assumption,,2025-12-31
+EOG,EOG Resources,Energy,news_mentions_30d,assumption,,2025-12-31
+EOG,EOG Resources,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+EPAM,EPAM Systems,Technology,accounts_receivable,stale,2018-12-31,2025-12-31
+EPAM,EPAM Systems,Technology,short_term_debt,stale,2022-12-31,2025-12-31
+EPAM,EPAM Systems,Technology,news_mentions_30d,assumption,,2025-12-31
+EPAM,EPAM Systems,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+EQIX,Equinix,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+EQIX,Equinix,Real Estate,news_mentions_30d,assumption,,2025-12-31
+EQIX,Equinix,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+EQR,Equity Residential,Real Estate,revenue,stale,2019-12-31,2025-12-31
+EQR,Equity Residential,Real Estate,capex,stale,2018-12-31,2025-12-31
+EQR,Equity Residential,Real Estate,interest_expense,stale,2014-12-31,2025-12-31
+EQR,Equity Residential,Real Estate,net_margin,assumption,,2025-12-31
+EQR,Equity Residential,Real Estate,fcf_to_assets,assumption,,2025-12-31
+EQR,Equity Residential,Real Estate,current_ratio,assumption,,2025-12-31
+EQR,Equity Residential,Real Estate,news_mentions_30d,assumption,,2025-12-31
+EQR,Equity Residential,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+EQT,EQT Corporation,Energy,interest_expense,stale,2023-12-31,2025-12-31
+EQT,EQT Corporation,Energy,news_mentions_30d,assumption,,2025-12-31
+EQT,EQT Corporation,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+ERIE,Erie Indemnity,Financials,interest_expense,stale,2023-12-31,2025-12-31
+ERIE,Erie Indemnity,Financials,long_term_debt,stale,2022-12-31,2025-12-31
+ERIE,Erie Indemnity,Financials,short_term_debt,stale,2022-12-31,2025-12-31
+ERIE,Erie Indemnity,Financials,debt_to_assets,assumption,,2025-12-31
+ERIE,Erie Indemnity,Financials,news_mentions_30d,assumption,,2025-12-31
+ERIE,Erie Indemnity,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+ES,Eversource Energy,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+ES,Eversource Energy,Utilities,leverage_proxy,assumption,,2025-12-31
+ES,Eversource Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+ES,Eversource Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+ESS,Essex Property Trust,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+ESS,Essex Property Trust,Real Estate,long_term_debt,stale,2021-12-31,2025-12-31
+ESS,Essex Property Trust,Real Estate,debt_to_assets,assumption,,2025-12-31
+ESS,Essex Property Trust,Real Estate,fcf_to_assets,assumption,,2025-12-31
+ESS,Essex Property Trust,Real Estate,current_ratio,assumption,,2025-12-31
+ESS,Essex Property Trust,Real Estate,news_mentions_30d,assumption,,2025-12-31
+ESS,Essex Property Trust,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+ETN,Eaton Corporation,Industrials,interest_expense,stale,2021-12-31,2025-12-31
+ETN,Eaton Corporation,Industrials,leverage_proxy,assumption,,2025-12-31
+ETN,Eaton Corporation,Industrials,news_mentions_30d,assumption,,2025-12-31
+ETN,Eaton Corporation,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+ETR,Entergy,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+ETR,Entergy,Utilities,accounts_receivable,stale,2023-12-31,2025-12-31
+ETR,Entergy,Utilities,leverage_proxy,assumption,,2025-12-31
+ETR,Entergy,Utilities,news_mentions_30d,assumption,,2025-12-31
+ETR,Entergy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+EVRG,Evergy,Utilities,leverage_proxy,assumption,,2025-12-31
+EVRG,Evergy,Utilities,news_mentions_30d,assumption,,2025-12-31
+EVRG,Evergy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+EW,Edwards Lifesciences,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+EW,Edwards Lifesciences,Healthcare,short_term_debt,stale,2018-12-31,2025-12-31
+EW,Edwards Lifesciences,Healthcare,news_mentions_30d,assumption,,2025-12-31
+EW,Edwards Lifesciences,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+EXC,Exelon,Industrials,interest_expense,stale,2020-12-31,2025-12-31
+EXC,Exelon,Industrials,accounts_payable,stale,2022-12-31,2025-12-31
+EXC,Exelon,Industrials,news_mentions_30d,assumption,,2025-12-31
+EXC,Exelon,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+EXE,Expand Energy,Energy,interest_expense,stale,2023-12-31,2025-12-31
+EXE,Expand Energy,Energy,inventory,stale,2009-12-31,2025-12-31
+EXE,Expand Energy,Energy,news_mentions_30d,assumption,,2025-12-31
+EXE,Expand Energy,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+EXPD,Expeditors International,Transportation,interest_expense,stale,2023-12-31,2025-12-31
+EXPD,Expeditors International,Transportation,leverage_proxy,assumption,,2025-12-31
+EXPD,Expeditors International,Transportation,debt_to_assets,assumption,,2025-12-31
+EXPD,Expeditors International,Transportation,news_mentions_30d,assumption,,2025-12-31
+EXPD,Expeditors International,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+EXPE,Expedia Group,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+EXPE,Expedia Group,Consumer Discretionary,cogs,stale,2019-12-31,2025-12-31
+EXPE,Expedia Group,Consumer Discretionary,accounts_payable,stale,2012-12-31,2025-12-31
+EXPE,Expedia Group,Consumer Discretionary,leverage_proxy,assumption,,2025-12-31
+EXPE,Expedia Group,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+EXPE,Expedia Group,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+EXR,Extra Space Storage,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+EXR,Extra Space Storage,Real Estate,long_term_debt,stale,2018-09-30,2025-12-31
+EXR,Extra Space Storage,Real Estate,debt_to_assets,assumption,,2025-12-31
+EXR,Extra Space Storage,Real Estate,current_ratio,assumption,,2025-12-31
+EXR,Extra Space Storage,Real Estate,news_mentions_30d,assumption,,2025-12-31
+EXR,Extra Space Storage,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+F,Ford Motor Company,Autos,interest_expense,stale,2023-12-31,2025-12-31
+F,Ford Motor Company,Autos,long_term_debt,stale,2020-12-31,2025-12-31
+F,Ford Motor Company,Autos,debt_to_assets,assumption,,2025-12-31
+F,Ford Motor Company,Autos,news_mentions_30d,assumption,,2025-12-31
+F,Ford Motor Company,Autos,risk_news_mentions_30d,assumption,,2025-12-31
+FANG,Diamondback Energy,Industrials,fcf_to_assets,assumption,,2025-12-31
+FANG,Diamondback Energy,Industrials,news_mentions_30d,assumption,,2025-12-31
+FANG,Diamondback Energy,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+FAST,Fastenal,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+FAST,Fastenal,Industrials,leverage_proxy,assumption,,2025-12-31
+FAST,Fastenal,Industrials,news_mentions_30d,assumption,,2025-12-31
+FAST,Fastenal,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+FCX,Freeport-McMoRan,Materials,interest_expense,stale,2011-12-31,2025-12-31
+FCX,Freeport-McMoRan,Materials,inventory,stale,2013-12-31,2025-12-31
+FCX,Freeport-McMoRan,Materials,news_mentions_30d,assumption,,2025-12-31
+FCX,Freeport-McMoRan,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+FDS,FactSet,Financials,news_mentions_30d,assumption,,2025-08-31
+FDS,FactSet,Financials,risk_news_mentions_30d,assumption,,2025-08-31
+FDX,FedEx,Transportation,cogs,stale,2019-05-31,2025-05-31
+FDX,FedEx,Transportation,short_term_debt,stale,2020-02-29,2025-05-31
+FDX,FedEx,Transportation,leverage_proxy,assumption,,2025-05-31
+FDX,FedEx,Transportation,news_mentions_30d,assumption,,2025-05-31
+FDX,FedEx,Transportation,risk_news_mentions_30d,assumption,,2025-05-31
+FE,FirstEnergy,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+FE,FirstEnergy,Utilities,ppe_net,stale,2023-12-31,2025-12-31
+FE,FirstEnergy,Utilities,news_mentions_30d,assumption,,2025-12-31
+FE,FirstEnergy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+FER,Ferrovial,Industrials,leverage_proxy,assumption,,
+FER,Ferrovial,Industrials,debt_to_assets,assumption,,
+FER,Ferrovial,Industrials,cash_to_assets,assumption,,
+FER,Ferrovial,Industrials,net_margin,assumption,,
+FER,Ferrovial,Industrials,fcf_to_assets,assumption,,
+FER,Ferrovial,Industrials,accrual_proxy,assumption,,
+FER,Ferrovial,Industrials,current_ratio,assumption,,
+FER,Ferrovial,Industrials,news_mentions_30d,assumption,,
+FER,Ferrovial,Industrials,risk_news_mentions_30d,assumption,,
+FFIV,"F5, Inc.",Technology,liabilities,stale,2019-09-30,2025-09-30
+FFIV,"F5, Inc.",Technology,long_term_debt,stale,2022-09-30,2025-09-30
+FFIV,"F5, Inc.",Technology,short_term_debt,stale,2023-09-30,2025-09-30
+FFIV,"F5, Inc.",Technology,leverage_proxy,assumption,,2025-09-30
+FFIV,"F5, Inc.",Technology,debt_to_assets,assumption,,2025-09-30
+FFIV,"F5, Inc.",Technology,news_mentions_30d,assumption,,2025-09-30
+FFIV,"F5, Inc.",Technology,risk_news_mentions_30d,assumption,,2025-09-30
+FICO,Fair Isaac,Technology,news_mentions_30d,assumption,,2025-09-30
+FICO,Fair Isaac,Technology,risk_news_mentions_30d,assumption,,2025-09-30
+FIS,Fidelity National Information Services,Financials,interest_expense,stale,2023-12-31,2025-12-31
+FIS,Fidelity National Information Services,Financials,accounts_receivable,stale,2023-12-31,2025-12-31
+FIS,Fidelity National Information Services,Financials,news_mentions_30d,assumption,,2025-12-31
+FIS,Fidelity National Information Services,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+FISV,Fiserv,Financials,interest_expense,stale,2023-12-31,2025-12-31
+FISV,Fiserv,Financials,cogs,stale,2018-12-31,2025-12-31
+FISV,Fiserv,Financials,long_term_debt,stale,2012-12-31,2025-12-31
+FISV,Fiserv,Financials,short_term_debt,stale,2012-12-31,2025-12-31
+FISV,Fiserv,Financials,debt_to_assets,assumption,,2025-12-31
+FISV,Fiserv,Financials,news_mentions_30d,assumption,,2025-12-31
+FISV,Fiserv,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+FITB,Fifth Third Bancorp,Financials,interest_expense,stale,2023-12-31,2025-12-31
+FITB,Fifth Third Bancorp,Financials,current_ratio,assumption,,2025-12-31
+FITB,Fifth Third Bancorp,Financials,news_mentions_30d,assumption,,2025-12-31
+FITB,Fifth Third Bancorp,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+FIX,Comfort Systems USA,Industrials,accounts_receivable,stale,2017-12-31,2025-12-31
+FIX,Comfort Systems USA,Industrials,news_mentions_30d,assumption,,2025-12-31
+FIX,Comfort Systems USA,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+FOX,Fox Corporation (Class B),Communication Services,interest_expense,stale,2023-06-30,2025-06-30
+FOX,Fox Corporation (Class B),Communication Services,leverage_proxy,assumption,,2025-06-30
+FOX,Fox Corporation (Class B),Communication Services,news_mentions_30d,assumption,,2025-06-30
+FOX,Fox Corporation (Class B),Communication Services,risk_news_mentions_30d,assumption,,2025-06-30
+FOXA,Fox Corporation (Class A),Communication Services,interest_expense,stale,2023-06-30,2025-06-30
+FOXA,Fox Corporation (Class A),Communication Services,leverage_proxy,assumption,,2025-06-30
+FOXA,Fox Corporation (Class A),Communication Services,news_mentions_30d,assumption,,2025-06-30
+FOXA,Fox Corporation (Class A),Communication Services,risk_news_mentions_30d,assumption,,2025-06-30
+FRT,Federal Realty Investment Trust,Real Estate,fcf_to_assets,assumption,,2025-12-31
+FRT,Federal Realty Investment Trust,Real Estate,current_ratio,assumption,,2025-12-31
+FRT,Federal Realty Investment Trust,Real Estate,news_mentions_30d,assumption,,2025-12-31
+FRT,Federal Realty Investment Trust,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+FSLR,First Solar,Technology,interest_expense,stale,2023-12-31,2025-12-31
+FSLR,First Solar,Technology,depreciation,stale,2017-12-31,2025-12-31
+FSLR,First Solar,Technology,short_term_debt,stale,2022-12-31,2025-12-31
+FSLR,First Solar,Technology,news_mentions_30d,assumption,,2025-12-31
+FSLR,First Solar,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+FTNT,Fortinet,Industrials,news_mentions_30d,assumption,,2025-12-31
+FTNT,Fortinet,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+FTV,Fortive,Industrials,leverage_proxy,assumption,,2025-12-31
+FTV,Fortive,Industrials,news_mentions_30d,assumption,,2025-12-31
+FTV,Fortive,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GD,General Dynamics,Aerospace & Defense,interest_expense,stale,2023-12-31,2025-12-31
+GD,General Dynamics,Aerospace & Defense,cogs,stale,2019-12-31,2025-12-31
+GD,General Dynamics,Aerospace & Defense,leverage_proxy,assumption,,2025-12-31
+GD,General Dynamics,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+GD,General Dynamics,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+GDDY,GoDaddy,Technology,interest_expense,stale,2023-12-31,2025-12-31
+GDDY,GoDaddy,Technology,cogs,stale,2017-12-31,2025-12-31
+GDDY,GoDaddy,Technology,leverage_proxy,assumption,,2025-12-31
+GDDY,GoDaddy,Technology,news_mentions_30d,assumption,,2025-12-31
+GDDY,GoDaddy,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+GE,GE Aerospace,Aerospace & Defense,interest_expense,stale,2012-12-31,2025-12-31
+GE,GE Aerospace,Aerospace & Defense,ppe_net,stale,2020-12-31,2025-12-31
+GE,GE Aerospace,Aerospace & Defense,depreciation,stale,2020-12-31,2025-12-31
+GE,GE Aerospace,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+GE,GE Aerospace,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+GEHC,GE HealthCare,Industrials,ppe_net,stale,2023-12-31,2025-12-31
+GEHC,GE HealthCare,Industrials,news_mentions_30d,assumption,,2025-12-31
+GEHC,GE HealthCare,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GEN,Gen Digital,Technology,inventory,stale,2014-03-28,2025-03-28
+GEN,Gen Digital,Technology,news_mentions_30d,assumption,,2025-03-28
+GEN,Gen Digital,Technology,risk_news_mentions_30d,assumption,,2025-03-28
+GEV,GE Vernova,Industrials,news_mentions_30d,assumption,,2025-12-31
+GEV,GE Vernova,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GILD,Gilead Sciences,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+GILD,Gilead Sciences,Industrials,leverage_proxy,assumption,,2025-12-31
+GILD,Gilead Sciences,Industrials,news_mentions_30d,assumption,,2025-12-31
+GILD,Gilead Sciences,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GIS,General Mills,Consumer Staples,long_term_debt,stale,2011-05-29,2025-05-25
+GIS,General Mills,Consumer Staples,news_mentions_30d,assumption,,2025-05-25
+GIS,General Mills,Consumer Staples,risk_news_mentions_30d,assumption,,2025-05-25
+GL,Globe Life,Financials,sga,stale,2023-12-31,2025-12-31
+GL,Globe Life,Financials,current_ratio,assumption,,2025-12-31
+GL,Globe Life,Financials,news_mentions_30d,assumption,,2025-12-31
+GL,Globe Life,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+GLW,Corning Inc.,Technology,capex,stale,2020-09-30,2025-12-31
+GLW,Corning Inc.,Technology,interest_expense,stale,2023-12-31,2025-12-31
+GLW,Corning Inc.,Technology,long_term_debt,stale,2012-12-31,2025-12-31
+GLW,Corning Inc.,Technology,short_term_debt,stale,2020-12-31,2025-12-31
+GLW,Corning Inc.,Technology,debt_to_assets,assumption,,2025-12-31
+GLW,Corning Inc.,Technology,fcf_to_assets,assumption,,2025-12-31
+GLW,Corning Inc.,Technology,news_mentions_30d,assumption,,2025-12-31
+GLW,Corning Inc.,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+GM,General Motors,Autos,interest_expense,stale,2020-12-31,2025-12-31
+GM,General Motors,Autos,cogs,stale,2021-12-31,2025-12-31
+GM,General Motors,Autos,ppe_net,stale,2022-12-31,2025-12-31
+GM,General Motors,Autos,sga,stale,2021-12-31,2025-12-31
+GM,General Motors,Autos,debt_to_assets,assumption,,2025-12-31
+GM,General Motors,Autos,news_mentions_30d,assumption,,2025-12-31
+GM,General Motors,Autos,risk_news_mentions_30d,assumption,,2025-12-31
+GNRC,Generac,Industrials,news_mentions_30d,assumption,,2025-12-31
+GNRC,Generac,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GOOG,Alphabet Inc. (Class C),Industrials,interest_expense,stale,2023-12-31,2025-12-31
+GOOG,Alphabet Inc. (Class C),Industrials,inventory,stale,2022-12-31,2025-12-31
+GOOG,Alphabet Inc. (Class C),Industrials,news_mentions_30d,assumption,,2025-12-31
+GOOG,Alphabet Inc. (Class C),Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GOOGL,Alphabet Inc. (Class A),Industrials,interest_expense,stale,2023-12-31,2025-12-31
+GOOGL,Alphabet Inc. (Class A),Industrials,inventory,stale,2022-12-31,2025-12-31
+GOOGL,Alphabet Inc. (Class A),Industrials,news_mentions_30d,assumption,,2025-12-31
+GOOGL,Alphabet Inc. (Class A),Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+GPC,Genuine Parts Company,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+GPC,Genuine Parts Company,Consumer Discretionary,accounts_payable,stale,2014-12-31,2025-12-31
+GPC,Genuine Parts Company,Consumer Discretionary,leverage_proxy,assumption,,2025-12-31
+GPC,Genuine Parts Company,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+GPC,Genuine Parts Company,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+GPN,Global Payments,Financials,interest_expense,stale,2012-05-31,2025-12-31
+GPN,Global Payments,Financials,inventory,stale,2015-05-31,2025-12-31
+GPN,Global Payments,Financials,short_term_debt,stale,2019-12-31,2025-12-31
+GPN,Global Payments,Financials,news_mentions_30d,assumption,,2025-12-31
+GPN,Global Payments,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+GRMN,Garmin,Consumer Discretionary,interest_expense,stale,2010-12-25,2025-12-27
+GRMN,Garmin,Consumer Discretionary,leverage_proxy,assumption,,2025-12-27
+GRMN,Garmin,Consumer Discretionary,debt_to_assets,assumption,,2025-12-27
+GRMN,Garmin,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-27
+GRMN,Garmin,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-27
+GS,Goldman Sachs,Financials,long_term_debt,stale,2018-12-31,2025-12-31
+GS,Goldman Sachs,Financials,current_ratio,assumption,,2025-12-31
+GS,Goldman Sachs,Financials,news_mentions_30d,assumption,,2025-12-31
+GS,Goldman Sachs,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+GWW,W. W. Grainger,Industrials,interest_expense,stale,2018-12-31,2025-12-31
+GWW,W. W. Grainger,Industrials,leverage_proxy,assumption,,2025-12-31
+GWW,W. W. Grainger,Industrials,news_mentions_30d,assumption,,2025-12-31
+GWW,W. W. Grainger,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+HAL,Halliburton,Energy,revenue,stale,2017-12-31,2025-12-31
+HAL,Halliburton,Energy,interest_expense,stale,2009-12-31,2025-12-31
+HAL,Halliburton,Energy,cogs,stale,2017-12-31,2025-12-31
+HAL,Halliburton,Energy,net_margin,assumption,,2025-12-31
+HAL,Halliburton,Energy,news_mentions_30d,assumption,,2025-12-31
+HAL,Halliburton,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+HAS,Hasbro,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-28
+HAS,Hasbro,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-28
+HAS,Hasbro,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-28
+HBAN,Huntington Bancshares,Financials,interest_expense,stale,2023-12-31,2025-12-31
+HBAN,Huntington Bancshares,Financials,current_ratio,assumption,,2025-12-31
+HBAN,Huntington Bancshares,Financials,news_mentions_30d,assumption,,2025-12-31
+HBAN,Huntington Bancshares,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+HCA,HCA Healthcare,Healthcare,liabilities,stale,2019-12-31,2025-12-31
+HCA,HCA Healthcare,Healthcare,leverage_proxy,assumption,,2025-12-31
+HCA,HCA Healthcare,Healthcare,news_mentions_30d,assumption,,2025-12-31
+HCA,HCA Healthcare,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+HD,Home Depot,Consumer Discretionary,interest_expense,stale,2024-01-28,2026-02-01
+HD,Home Depot,Consumer Discretionary,short_term_debt,stale,2011-01-30,2026-02-01
+HD,Home Depot,Consumer Discretionary,news_mentions_30d,assumption,,2026-02-01
+HD,Home Depot,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-02-01
+HIG,Hartford (The),Financials,short_term_debt,stale,2020-12-31,2025-12-31
+HIG,Hartford (The),Financials,current_ratio,assumption,,2025-12-31
+HIG,Hartford (The),Financials,news_mentions_30d,assumption,,2025-12-31
+HIG,Hartford (The),Financials,risk_news_mentions_30d,assumption,,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,cogs,stale,2017-12-31,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,inventory,stale,2011-06-30,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,long_term_debt,stale,2023-12-31,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,short_term_debt,stale,2023-12-31,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,debt_to_assets,assumption,,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+HII,Huntington Ingalls Industries,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+HLT,Hilton Worldwide,Consumer Discretionary,inventory,stale,2016-12-31,2025-12-31
+HLT,Hilton Worldwide,Consumer Discretionary,short_term_debt,stale,2017-12-31,2025-12-31
+HLT,Hilton Worldwide,Consumer Discretionary,debt_to_assets,assumption,,2025-12-31
+HLT,Hilton Worldwide,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+HLT,Hilton Worldwide,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+HON,Honeywell,Industrials,leverage_proxy,assumption,,2025-12-31
+HON,Honeywell,Industrials,news_mentions_30d,assumption,,2025-12-31
+HON,Honeywell,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+HOOD,Robinhood Markets,Financials,capex,stale,2022-12-31,2025-12-31
+HOOD,Robinhood Markets,Financials,debt_to_assets,assumption,,2025-12-31
+HOOD,Robinhood Markets,Financials,fcf_to_assets,assumption,,2025-12-31
+HOOD,Robinhood Markets,Financials,news_mentions_30d,assumption,,2025-12-31
+HOOD,Robinhood Markets,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+HPE,Hewlett Packard Enterprise,Technology,liabilities,stale,2018-11-01,2025-10-31
+HPE,Hewlett Packard Enterprise,Technology,cogs,stale,2020-10-31,2025-10-31
+HPE,Hewlett Packard Enterprise,Technology,leverage_proxy,assumption,,2025-10-31
+HPE,Hewlett Packard Enterprise,Technology,news_mentions_30d,assumption,,2025-10-31
+HPE,Hewlett Packard Enterprise,Technology,risk_news_mentions_30d,assumption,,2025-10-31
+HPQ,HP Inc.,Technology,interest_expense,stale,2015-10-31,2025-10-31
+HPQ,HP Inc.,Technology,leverage_proxy,assumption,,2025-10-31
+HPQ,HP Inc.,Technology,news_mentions_30d,assumption,,2025-10-31
+HPQ,HP Inc.,Technology,risk_news_mentions_30d,assumption,,2025-10-31
+HRL,Hormel Foods,Consumer Staples,revenue,stale,2017-10-29,2025-10-26
+HRL,Hormel Foods,Consumer Staples,interest_expense,stale,2023-10-29,2025-10-26
+HRL,Hormel Foods,Consumer Staples,leverage_proxy,assumption,,2025-10-26
+HRL,Hormel Foods,Consumer Staples,net_margin,assumption,,2025-10-26
+HRL,Hormel Foods,Consumer Staples,news_mentions_30d,assumption,,2025-10-26
+HRL,Hormel Foods,Consumer Staples,risk_news_mentions_30d,assumption,,2025-10-26
+HSIC,Henry Schein,Healthcare,long_term_debt,stale,2022-12-31,2025-12-27
+HSIC,Henry Schein,Healthcare,news_mentions_30d,assumption,,2025-12-27
+HSIC,Henry Schein,Healthcare,risk_news_mentions_30d,assumption,,2025-12-27
+HST,Host Hotels & Resorts,Real Estate,capex,stale,2018-12-31,2025-12-31
+HST,Host Hotels & Resorts,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+HST,Host Hotels & Resorts,Real Estate,fcf_to_assets,assumption,,2025-12-31
+HST,Host Hotels & Resorts,Real Estate,current_ratio,assumption,,2025-12-31
+HST,Host Hotels & Resorts,Real Estate,news_mentions_30d,assumption,,2025-12-31
+HST,Host Hotels & Resorts,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+HSY,Hershey Company (The),Consumer Staples,long_term_debt,stale,2020-12-31,2025-12-31
+HSY,Hershey Company (The),Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+HSY,Hershey Company (The),Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+HUBB,Hubbell Incorporated,Industrials,interest_expense,stale,2020-12-31,2025-12-31
+HUBB,Hubbell Incorporated,Industrials,short_term_debt,stale,2023-12-31,2025-12-31
+HUBB,Hubbell Incorporated,Industrials,news_mentions_30d,assumption,,2025-12-31
+HUBB,Hubbell Incorporated,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+HUM,Humana,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+HUM,Humana,Healthcare,short_term_debt,stale,2018-12-31,2025-12-31
+HUM,Humana,Healthcare,news_mentions_30d,assumption,,2025-12-31
+HUM,Humana,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+HWM,Howmet Aerospace,Aerospace & Defense,cogs,stale,2014-12-31,2025-12-31
+HWM,Howmet Aerospace,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+HWM,Howmet Aerospace,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+IBKR,Interactive Brokers,Financials,interest_expense,stale,2023-12-31,2025-12-31
+IBKR,Interactive Brokers,Financials,short_term_debt,stale,2019-12-31,2025-12-31
+IBKR,Interactive Brokers,Financials,debt_to_assets,assumption,,2025-12-31
+IBKR,Interactive Brokers,Financials,fcf_to_assets,assumption,,2025-12-31
+IBKR,Interactive Brokers,Financials,current_ratio,assumption,,2025-12-31
+IBKR,Interactive Brokers,Financials,news_mentions_30d,assumption,,2025-12-31
+IBKR,Interactive Brokers,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+IBM,IBM,Technology,news_mentions_30d,assumption,,2025-12-31
+IBM,IBM,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+ICE,Intercontinental Exchange,Financials,interest_expense,stale,2023-12-31,2025-12-31
+ICE,Intercontinental Exchange,Financials,cogs,stale,2020-09-30,2025-12-31
+ICE,Intercontinental Exchange,Financials,ppe_net,stale,2018-12-31,2025-12-31
+ICE,Intercontinental Exchange,Financials,news_mentions_30d,assumption,,2025-12-31
+ICE,Intercontinental Exchange,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+IDXX,Idexx Laboratories,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+IDXX,Idexx Laboratories,Industrials,news_mentions_30d,assumption,,2025-12-31
+IDXX,Idexx Laboratories,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+IEX,IDEX Corporation,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+IEX,IDEX Corporation,Industrials,news_mentions_30d,assumption,,2025-12-31
+IEX,IDEX Corporation,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+IFF,International Flavors & Fragrances,Materials,interest_expense,stale,2023-12-31,2025-12-31
+IFF,International Flavors & Fragrances,Materials,leverage_proxy,assumption,,2025-12-31
+IFF,International Flavors & Fragrances,Materials,news_mentions_30d,assumption,,2025-12-31
+IFF,International Flavors & Fragrances,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+INCY,Incyte,Healthcare,capex,stale,2024-05-31,2025-12-31
+INCY,Incyte,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+INCY,Incyte,Healthcare,long_term_debt,stale,2018-12-31,2025-12-31
+INCY,Incyte,Healthcare,short_term_debt,stale,2014-12-31,2025-12-31
+INCY,Incyte,Healthcare,debt_to_assets,assumption,,2025-12-31
+INCY,Incyte,Healthcare,fcf_to_assets,assumption,,2025-12-31
+INCY,Incyte,Healthcare,news_mentions_30d,assumption,,2025-12-31
+INCY,Incyte,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+INSM,Insmed Incorporated,Industrials,short_term_debt,stale,2017-12-31,2025-12-31
+INSM,Insmed Incorporated,Industrials,news_mentions_30d,assumption,,2025-12-31
+INSM,Insmed Incorporated,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+INTC,Intel,Industrials,interest_expense,stale,2023-12-30,2025-12-27
+INTC,Intel,Industrials,leverage_proxy,assumption,,2025-12-27
+INTC,Intel,Industrials,news_mentions_30d,assumption,,2025-12-27
+INTC,Intel,Industrials,risk_news_mentions_30d,assumption,,2025-12-27
+INTU,Intuit,Industrials,cogs,stale,2020-07-31,2025-07-31
+INTU,Intuit,Industrials,news_mentions_30d,assumption,,2025-07-31
+INTU,Intuit,Industrials,risk_news_mentions_30d,assumption,,2025-07-31
+INVH,Invitation Homes,Real Estate,capex,stale,2018-12-31,2025-12-31
+INVH,Invitation Homes,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+INVH,Invitation Homes,Real Estate,fcf_to_assets,assumption,,2025-12-31
+INVH,Invitation Homes,Real Estate,current_ratio,assumption,,2025-12-31
+INVH,Invitation Homes,Real Estate,news_mentions_30d,assumption,,2025-12-31
+INVH,Invitation Homes,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+IP,International Paper,Materials,leverage_proxy,assumption,,2025-12-31
+IP,International Paper,Materials,news_mentions_30d,assumption,,2025-12-31
+IP,International Paper,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+IQV,IQVIA,Healthcare,cogs,stale,2017-12-31,2025-12-31
+IQV,IQVIA,Healthcare,accounts_payable,stale,2018-12-31,2025-12-31
+IQV,IQVIA,Healthcare,news_mentions_30d,assumption,,2025-12-31
+IQV,IQVIA,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+IR,Ingersoll Rand,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+IR,Ingersoll Rand,Industrials,long_term_debt,stale,2021-12-31,2025-12-31
+IR,Ingersoll Rand,Industrials,news_mentions_30d,assumption,,2025-12-31
+IR,Ingersoll Rand,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+IRM,Iron Mountain,Real Estate,interest_expense,stale,2014-12-31,2025-12-31
+IRM,Iron Mountain,Real Estate,inventory,stale,2022-12-31,2025-12-31
+IRM,Iron Mountain,Real Estate,leverage_proxy,assumption,,2025-12-31
+IRM,Iron Mountain,Real Estate,news_mentions_30d,assumption,,2025-12-31
+IRM,Iron Mountain,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+ISRG,Intuitive Surgical,Industrials,debt_to_assets,assumption,,2025-12-31
+ISRG,Intuitive Surgical,Industrials,news_mentions_30d,assumption,,2025-12-31
+ISRG,Intuitive Surgical,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+IT,Gartner,Technology,interest_expense,stale,2023-12-31,2025-12-31
+IT,Gartner,Technology,fcf_to_assets,assumption,,2025-12-31
+IT,Gartner,Technology,news_mentions_30d,assumption,,2025-12-31
+IT,Gartner,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+ITW,Illinois Tool Works,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+ITW,Illinois Tool Works,Industrials,leverage_proxy,assumption,,2025-12-31
+ITW,Illinois Tool Works,Industrials,news_mentions_30d,assumption,,2025-12-31
+ITW,Illinois Tool Works,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+IVZ,Invesco,Financials,interest_expense,stale,2023-12-31,2025-12-31
+IVZ,Invesco,Financials,current_assets,stale,2012-12-31,2025-12-31
+IVZ,Invesco,Financials,current_liabilities,stale,2012-12-31,2025-12-31
+IVZ,Invesco,Financials,accounts_receivable,stale,2012-12-31,2025-12-31
+IVZ,Invesco,Financials,accounts_payable,stale,2012-12-31,2025-12-31
+IVZ,Invesco,Financials,short_term_debt,stale,2012-12-31,2025-12-31
+IVZ,Invesco,Financials,current_ratio,assumption,,2025-12-31
+IVZ,Invesco,Financials,news_mentions_30d,assumption,,2025-12-31
+IVZ,Invesco,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+J,Jacobs Solutions,Industrials,revenue,stale,2018-09-28,2025-09-26
+J,Jacobs Solutions,Industrials,interest_expense,stale,2023-09-29,2025-09-26
+J,Jacobs Solutions,Industrials,leverage_proxy,assumption,,2025-09-26
+J,Jacobs Solutions,Industrials,net_margin,assumption,,2025-09-26
+J,Jacobs Solutions,Industrials,news_mentions_30d,assumption,,2025-09-26
+J,Jacobs Solutions,Industrials,risk_news_mentions_30d,assumption,,2025-09-26
+JBHT,J.B. Hunt,Transportation,revenue,stale,2017-12-31,2025-12-31
+JBHT,J.B. Hunt,Transportation,net_margin,assumption,,2025-12-31
+JBHT,J.B. Hunt,Transportation,news_mentions_30d,assumption,,2025-12-31
+JBHT,J.B. Hunt,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+JBL,Jabil,Technology,interest_expense,stale,2022-08-31,2025-08-31
+JBL,Jabil,Technology,accounts_receivable,stale,2023-08-31,2025-08-31
+JBL,Jabil,Technology,news_mentions_30d,assumption,,2025-08-31
+JBL,Jabil,Technology,risk_news_mentions_30d,assumption,,2025-08-31
+JCI,Johnson Controls,Industrials,liabilities,stale,2015-09-25,2025-09-30
+JCI,Johnson Controls,Industrials,interest_expense,stale,2022-09-30,2025-09-30
+JCI,Johnson Controls,Industrials,leverage_proxy,assumption,,2025-09-30
+JCI,Johnson Controls,Industrials,news_mentions_30d,assumption,,2025-09-30
+JCI,Johnson Controls,Industrials,risk_news_mentions_30d,assumption,,2025-09-30
+JKHY,Jack Henry & Associates,Financials,interest_expense,stale,2023-06-30,2025-06-30
+JKHY,Jack Henry & Associates,Financials,news_mentions_30d,assumption,,2025-06-30
+JKHY,Jack Henry & Associates,Financials,risk_news_mentions_30d,assumption,,2025-06-30
+JNJ,Johnson & Johnson,Healthcare,interest_expense,stale,2023-12-31,2025-12-28
+JNJ,Johnson & Johnson,Healthcare,news_mentions_30d,assumption,,2025-12-28
+JNJ,Johnson & Johnson,Healthcare,risk_news_mentions_30d,assumption,,2025-12-28
+JPM,JPMorgan Chase,Financials,interest_expense,stale,2023-12-31,2025-12-31
+JPM,JPMorgan Chase,Financials,ppe_net,stale,2022-12-31,2025-12-31
+JPM,JPMorgan Chase,Financials,long_term_debt,stale,2013-12-31,2025-12-31
+JPM,JPMorgan Chase,Financials,fcf_to_assets,assumption,,2025-12-31
+JPM,JPMorgan Chase,Financials,current_ratio,assumption,,2025-12-31
+JPM,JPMorgan Chase,Financials,news_mentions_30d,assumption,,2025-12-31
+JPM,JPMorgan Chase,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+KDP,Keurig Dr Pepper,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+KDP,Keurig Dr Pepper,Industrials,news_mentions_30d,assumption,,2025-12-31
+KDP,Keurig Dr Pepper,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+KEY,KeyCorp,Financials,interest_expense,stale,2023-12-31,2025-12-31
+KEY,KeyCorp,Financials,short_term_debt,stale,2013-12-31,2025-12-31
+KEY,KeyCorp,Financials,current_ratio,assumption,,2025-12-31
+KEY,KeyCorp,Financials,news_mentions_30d,assumption,,2025-12-31
+KEY,KeyCorp,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+KEYS,Keysight Technologies,Technology,news_mentions_30d,assumption,,2025-10-31
+KEYS,Keysight Technologies,Technology,risk_news_mentions_30d,assumption,,2025-10-31
+KHC,Kraft Heinz,Industrials,revenue,stale,2017-12-30,2025-12-27
+KHC,Kraft Heinz,Industrials,long_term_debt,stale,2015-06-28,2025-12-27
+KHC,Kraft Heinz,Industrials,short_term_debt,stale,2023-12-30,2025-12-27
+KHC,Kraft Heinz,Industrials,debt_to_assets,assumption,,2025-12-27
+KHC,Kraft Heinz,Industrials,net_margin,assumption,,2025-12-27
+KHC,Kraft Heinz,Industrials,news_mentions_30d,assumption,,2025-12-27
+KHC,Kraft Heinz,Industrials,risk_news_mentions_30d,assumption,,2025-12-27
+KIM,Kimco Realty,Real Estate,ppe_net,stale,2010-12-31,2025-12-31
+KIM,Kimco Realty,Real Estate,accounts_payable,stale,2009-12-31,2025-12-31
+KIM,Kimco Realty,Real Estate,current_ratio,assumption,,2025-12-31
+KIM,Kimco Realty,Real Estate,news_mentions_30d,assumption,,2025-12-31
+KIM,Kimco Realty,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+KKR,KKR & Co.,Financials,capex,stale,2019-12-31,2025-12-31
+KKR,KKR & Co.,Financials,interest_expense,stale,2023-12-31,2025-12-31
+KKR,KKR & Co.,Financials,ppe_net,stale,2020-12-31,2025-12-31
+KKR,KKR & Co.,Financials,depreciation,stale,2020-12-31,2025-12-31
+KKR,KKR & Co.,Financials,long_term_debt,stale,2021-12-31,2025-12-31
+KKR,KKR & Co.,Financials,debt_to_assets,assumption,,2025-12-31
+KKR,KKR & Co.,Financials,fcf_to_assets,assumption,,2025-12-31
+KKR,KKR & Co.,Financials,current_ratio,assumption,,2025-12-31
+KKR,KKR & Co.,Financials,news_mentions_30d,assumption,,2025-12-31
+KKR,KKR & Co.,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+KLAC,KLA Corporation,Industrials,interest_expense,stale,2023-06-30,2025-06-30
+KLAC,KLA Corporation,Industrials,news_mentions_30d,assumption,,2025-06-30
+KLAC,KLA Corporation,Industrials,risk_news_mentions_30d,assumption,,2025-06-30
+KMB,Kimberly-Clark,Consumer Staples,long_term_debt,stale,2016-12-31,2025-12-31
+KMB,Kimberly-Clark,Consumer Staples,short_term_debt,stale,2016-12-31,2025-12-31
+KMB,Kimberly-Clark,Consumer Staples,leverage_proxy,assumption,,2025-12-31
+KMB,Kimberly-Clark,Consumer Staples,debt_to_assets,assumption,,2025-12-31
+KMB,Kimberly-Clark,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+KMB,Kimberly-Clark,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+KMI,Kinder Morgan,Energy,interest_expense,stale,2014-12-31,2025-12-31
+KMI,Kinder Morgan,Energy,cogs,stale,2022-12-31,2025-12-31
+KMI,Kinder Morgan,Energy,accounts_receivable,stale,2019-12-31,2025-12-31
+KMI,Kinder Morgan,Energy,short_term_debt,stale,2015-12-31,2025-12-31
+KMI,Kinder Morgan,Energy,news_mentions_30d,assumption,,2025-12-31
+KMI,Kinder Morgan,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+KO,Coca-Cola,Consumer Staples,long_term_debt,stale,2023-12-31,2025-12-31
+KO,Coca-Cola,Consumer Staples,short_term_debt,stale,2023-12-31,2025-12-31
+KO,Coca-Cola,Consumer Staples,leverage_proxy,assumption,,2025-12-31
+KO,Coca-Cola,Consumer Staples,debt_to_assets,assumption,,2025-12-31
+KO,Coca-Cola,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+KO,Coca-Cola,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+KR,Kroger,Consumer Staples,interest_expense,stale,2024-02-03,2026-01-31
+KR,Kroger,Consumer Staples,cogs,stale,2018-02-03,2026-01-31
+KR,Kroger,Consumer Staples,inventory,stale,2010-11-06,2026-01-31
+KR,Kroger,Consumer Staples,news_mentions_30d,assumption,,2026-01-31
+KR,Kroger,Consumer Staples,risk_news_mentions_30d,assumption,,2026-01-31
+KVUE,Kenvue,Consumer Staples,interest_expense,stale,2023-12-31,2025-12-28
+KVUE,Kenvue,Consumer Staples,long_term_debt,stale,2023-12-31,2025-12-28
+KVUE,Kenvue,Consumer Staples,news_mentions_30d,assumption,,2025-12-28
+KVUE,Kenvue,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-28
+L,Loews Corporation,Financials,cogs,stale,2019-12-31,2025-12-31
+L,Loews Corporation,Financials,long_term_debt,stale,2017-12-31,2025-12-31
+L,Loews Corporation,Financials,short_term_debt,stale,2012-12-31,2025-12-31
+L,Loews Corporation,Financials,debt_to_assets,assumption,,2025-12-31
+L,Loews Corporation,Financials,current_ratio,assumption,,2025-12-31
+L,Loews Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+L,Loews Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+LDOS,Leidos,Industrials,interest_expense,stale,2021-12-31,2026-01-02
+LDOS,Leidos,Industrials,long_term_debt,stale,2014-01-31,2026-01-02
+LDOS,Leidos,Industrials,short_term_debt,stale,2023-12-29,2026-01-02
+LDOS,Leidos,Industrials,debt_to_assets,assumption,,2026-01-02
+LDOS,Leidos,Industrials,news_mentions_30d,assumption,,2026-01-02
+LDOS,Leidos,Industrials,risk_news_mentions_30d,assumption,,2026-01-02
+LEN,Lennar,Consumer Discretionary,interest_expense,stale,2016-11-30,2025-11-30
+LEN,Lennar,Consumer Discretionary,depreciation,stale,2015-11-30,2025-11-30
+LEN,Lennar,Consumer Discretionary,current_ratio,assumption,,2025-11-30
+LEN,Lennar,Consumer Discretionary,news_mentions_30d,assumption,,2025-11-30
+LEN,Lennar,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-11-30
+LH,Labcorp,Healthcare,news_mentions_30d,assumption,,2025-12-31
+LH,Labcorp,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+LHX,L3Harris,Aerospace & Defense,interest_expense,stale,2021-01-01,2026-01-02
+LHX,L3Harris,Aerospace & Defense,news_mentions_30d,assumption,,2026-01-02
+LHX,L3Harris,Aerospace & Defense,risk_news_mentions_30d,assumption,,2026-01-02
+LII,Lennox International,Industrials,news_mentions_30d,assumption,,2025-12-31
+LII,Lennox International,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+LIN,Linde plc,Industrials,interest_expense,stale,2021-12-31,2025-12-31
+LIN,Linde plc,Industrials,news_mentions_30d,assumption,,2025-12-31
+LIN,Linde plc,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+LITE,Lumentum,Technology,interest_expense,stale,2023-07-01,2025-06-28
+LITE,Lumentum,Technology,cogs,stale,2019-06-29,2025-06-28
+LITE,Lumentum,Technology,accounts_receivable,stale,2018-06-30,2025-06-28
+LITE,Lumentum,Technology,news_mentions_30d,assumption,,2025-06-28
+LITE,Lumentum,Technology,risk_news_mentions_30d,assumption,,2025-06-28
+LLY,Lilly (Eli),Healthcare,capex,stale,2022-09-30,2025-12-31
+LLY,Lilly (Eli),Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+LLY,Lilly (Eli),Healthcare,short_term_debt,stale,2014-03-31,2025-12-31
+LLY,Lilly (Eli),Healthcare,leverage_proxy,assumption,,2025-12-31
+LLY,Lilly (Eli),Healthcare,fcf_to_assets,assumption,,2025-12-31
+LLY,Lilly (Eli),Healthcare,news_mentions_30d,assumption,,2025-12-31
+LLY,Lilly (Eli),Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+LMT,Lockheed Martin,Aerospace & Defense,interest_expense,stale,2023-12-31,2025-12-31
+LMT,Lockheed Martin,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+LMT,Lockheed Martin,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+LNT,Alliant Energy,Utilities,capex,stale,2022-12-31,2025-12-31
+LNT,Alliant Energy,Utilities,leverage_proxy,assumption,,2025-12-31
+LNT,Alliant Energy,Utilities,fcf_to_assets,assumption,,2025-12-31
+LNT,Alliant Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+LNT,Alliant Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+LOW,Lowe's,Consumer Discretionary,interest_expense,stale,2011-01-28,2026-01-30
+LOW,Lowe's,Consumer Discretionary,short_term_debt,stale,2024-02-02,2026-01-30
+LOW,Lowe's,Consumer Discretionary,news_mentions_30d,assumption,,2026-01-30
+LOW,Lowe's,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-01-30
+LRCX,Lam Research,Industrials,interest_expense,stale,2023-06-25,2025-06-29
+LRCX,Lam Research,Industrials,news_mentions_30d,assumption,,2025-06-29
+LRCX,Lam Research,Industrials,risk_news_mentions_30d,assumption,,2025-06-29
+LULU,Lululemon Athletica,Consumer Discretionary,news_mentions_30d,assumption,,2026-02-01
+LULU,Lululemon Athletica,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-02-01
+LUV,Southwest Airlines,Transportation,interest_expense,stale,2019-12-31,2025-12-31
+LUV,Southwest Airlines,Transportation,short_term_debt,stale,2012-12-31,2025-12-31
+LUV,Southwest Airlines,Transportation,leverage_proxy,assumption,,2025-12-31
+LUV,Southwest Airlines,Transportation,news_mentions_30d,assumption,,2025-12-31
+LUV,Southwest Airlines,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+LVS,Las Vegas Sands,Consumer Discretionary,long_term_debt,stale,2012-09-30,2025-12-31
+LVS,Las Vegas Sands,Consumer Discretionary,debt_to_assets,assumption,,2025-12-31
+LVS,Las Vegas Sands,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+LVS,Las Vegas Sands,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+LYB,LyondellBasell,Materials,interest_expense,stale,2023-12-31,2025-12-31
+LYB,LyondellBasell,Materials,accounts_receivable,stale,2022-12-31,2025-12-31
+LYB,LyondellBasell,Materials,accounts_payable,stale,2012-03-31,2025-12-31
+LYB,LyondellBasell,Materials,long_term_debt,stale,2013-12-31,2025-12-31
+LYB,LyondellBasell,Materials,leverage_proxy,assumption,,2025-12-31
+LYB,LyondellBasell,Materials,news_mentions_30d,assumption,,2025-12-31
+LYB,LyondellBasell,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+LYV,Live Nation Entertainment,Communication Services,long_term_debt,stale,2011-12-31,2025-12-31
+LYV,Live Nation Entertainment,Communication Services,leverage_proxy,assumption,,2025-12-31
+LYV,Live Nation Entertainment,Communication Services,debt_to_assets,assumption,,2025-12-31
+LYV,Live Nation Entertainment,Communication Services,news_mentions_30d,assumption,,2025-12-31
+LYV,Live Nation Entertainment,Communication Services,risk_news_mentions_30d,assumption,,2025-12-31
+MA,Mastercard,Financials,interest_expense,stale,2023-12-31,2025-12-31
+MA,Mastercard,Financials,news_mentions_30d,assumption,,2025-12-31
+MA,Mastercard,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+MAA,Mid-America Apartment Communities,Real Estate,debt_to_assets,assumption,,2025-12-31
+MAA,Mid-America Apartment Communities,Real Estate,fcf_to_assets,assumption,,2025-12-31
+MAA,Mid-America Apartment Communities,Real Estate,current_ratio,assumption,,2025-12-31
+MAA,Mid-America Apartment Communities,Real Estate,news_mentions_30d,assumption,,2025-12-31
+MAA,Mid-America Apartment Communities,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+MAR,Marriott International,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+MAR,Marriott International,Industrials,inventory,stale,2012-12-28,2025-12-31
+MAR,Marriott International,Industrials,accounts_payable,stale,2010-12-31,2025-12-31
+MAR,Marriott International,Industrials,short_term_debt,stale,2011-12-30,2025-12-31
+MAR,Marriott International,Industrials,leverage_proxy,assumption,,2025-12-31
+MAR,Marriott International,Industrials,news_mentions_30d,assumption,,2025-12-31
+MAR,Marriott International,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MAS,Masco,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+MAS,Masco,Industrials,short_term_debt,stale,2012-12-31,2025-12-31
+MAS,Masco,Industrials,news_mentions_30d,assumption,,2025-12-31
+MAS,Masco,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MCD,McDonald's,Consumer Discretionary,leverage_proxy,assumption,,2025-12-31
+MCD,McDonald's,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+MCD,McDonald's,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+MCHP,Microchip Technology,Industrials,leverage_proxy,assumption,,2025-03-31
+MCHP,Microchip Technology,Industrials,news_mentions_30d,assumption,,2025-03-31
+MCHP,Microchip Technology,Industrials,risk_news_mentions_30d,assumption,,2025-03-31
+MCK,McKesson Corporation,Healthcare,short_term_debt,stale,2018-03-31,2025-03-31
+MCK,McKesson Corporation,Healthcare,leverage_proxy,assumption,,2025-03-31
+MCK,McKesson Corporation,Healthcare,news_mentions_30d,assumption,,2025-03-31
+MCK,McKesson Corporation,Healthcare,risk_news_mentions_30d,assumption,,2025-03-31
+MCO,Moody's Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+MCO,Moody's Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+MDLZ,Mondelez International,Industrials,interest_expense,stale,2012-12-31,2025-12-31
+MDLZ,Mondelez International,Industrials,long_term_debt,stale,2019-12-31,2025-12-31
+MDLZ,Mondelez International,Industrials,news_mentions_30d,assumption,,2025-12-31
+MDLZ,Mondelez International,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MDT,Medtronic,Healthcare,long_term_debt,stale,2020-04-24,2025-04-25
+MDT,Medtronic,Healthcare,short_term_debt,stale,2020-04-24,2025-04-25
+MDT,Medtronic,Healthcare,debt_to_assets,assumption,,2025-04-25
+MDT,Medtronic,Healthcare,news_mentions_30d,assumption,,2025-04-25
+MDT,Medtronic,Healthcare,risk_news_mentions_30d,assumption,,2025-04-25
+MELI,Mercado Libre,Industrials,interest_expense,stale,2009-12-31,2025-12-31
+MELI,Mercado Libre,Industrials,news_mentions_30d,assumption,,2025-12-31
+MELI,Mercado Libre,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MET,MetLife,Financials,long_term_debt,stale,2011-12-31,2025-12-31
+MET,MetLife,Financials,fcf_to_assets,assumption,,2025-12-31
+MET,MetLife,Financials,current_ratio,assumption,,2025-12-31
+MET,MetLife,Financials,news_mentions_30d,assumption,,2025-12-31
+MET,MetLife,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+META,Meta Platforms,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+META,Meta Platforms,Industrials,accounts_payable,stale,2020-12-31,2025-12-31
+META,Meta Platforms,Industrials,news_mentions_30d,assumption,,2025-12-31
+META,Meta Platforms,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MGM,MGM Resorts,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+MGM,MGM Resorts,Consumer Discretionary,short_term_debt,stale,2023-12-31,2025-12-31
+MGM,MGM Resorts,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+MGM,MGM Resorts,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+MKC,McCormick & Company,Consumer Staples,news_mentions_30d,assumption,,2025-11-30
+MKC,McCormick & Company,Consumer Staples,risk_news_mentions_30d,assumption,,2025-11-30
+MLM,Martin Marietta Materials,Materials,news_mentions_30d,assumption,,2025-12-31
+MLM,Martin Marietta Materials,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+MMM,3M,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+MMM,3M,Industrials,news_mentions_30d,assumption,,2025-12-31
+MMM,3M,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MNST,Monster Beverage,Industrials,leverage_proxy,assumption,,2025-12-31
+MNST,Monster Beverage,Industrials,news_mentions_30d,assumption,,2025-12-31
+MNST,Monster Beverage,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MO,Altria,Consumer Staples,interest_expense,stale,2023-12-31,2025-12-31
+MO,Altria,Consumer Staples,sga,stale,2023-09-30,2025-12-31
+MO,Altria,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+MO,Altria,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+MOS,Mosaic Company (The),Materials,long_term_debt,stale,2015-12-31,2025-12-31
+MOS,Mosaic Company (The),Materials,leverage_proxy,assumption,,2025-12-31
+MOS,Mosaic Company (The),Materials,news_mentions_30d,assumption,,2025-12-31
+MOS,Mosaic Company (The),Materials,risk_news_mentions_30d,assumption,,2025-12-31
+MPC,Marathon Petroleum,Energy,long_term_debt,stale,2011-12-31,2025-12-31
+MPC,Marathon Petroleum,Energy,short_term_debt,stale,2011-12-31,2025-12-31
+MPC,Marathon Petroleum,Energy,debt_to_assets,assumption,,2025-12-31
+MPC,Marathon Petroleum,Energy,news_mentions_30d,assumption,,2025-12-31
+MPC,Marathon Petroleum,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+MPWR,Monolithic Power Systems,Industrials,debt_to_assets,assumption,,2025-12-31
+MPWR,Monolithic Power Systems,Industrials,news_mentions_30d,assumption,,2025-12-31
+MPWR,Monolithic Power Systems,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MRK,Merck,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+MRK,Merck,Healthcare,leverage_proxy,assumption,,2025-12-31
+MRK,Merck,Healthcare,news_mentions_30d,assumption,,2025-12-31
+MRK,Merck,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+MRNA,Moderna,Healthcare,news_mentions_30d,assumption,,2025-12-31
+MRNA,Moderna,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+MRSH,Marsh McLennan,Financials,interest_expense,stale,2023-12-31,2025-12-31
+MRSH,Marsh McLennan,Financials,leverage_proxy,assumption,,2025-12-31
+MRSH,Marsh McLennan,Financials,news_mentions_30d,assumption,,2025-12-31
+MRSH,Marsh McLennan,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+MRVL,Marvell Technology,Industrials,interest_expense,stale,2024-02-03,2026-01-31
+MRVL,Marvell Technology,Industrials,news_mentions_30d,assumption,,2026-01-31
+MRVL,Marvell Technology,Industrials,risk_news_mentions_30d,assumption,,2026-01-31
+MS,Morgan Stanley,Financials,interest_expense,stale,2023-12-31,2025-12-31
+MS,Morgan Stanley,Financials,ppe_net,stale,2015-12-31,2025-12-31
+MS,Morgan Stanley,Financials,short_term_debt,stale,2020-12-31,2025-12-31
+MS,Morgan Stanley,Financials,fcf_to_assets,assumption,,2025-12-31
+MS,Morgan Stanley,Financials,current_ratio,assumption,,2025-12-31
+MS,Morgan Stanley,Financials,news_mentions_30d,assumption,,2025-12-31
+MS,Morgan Stanley,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+MSCI,MSCI Inc.,Financials,interest_expense,stale,2023-12-31,2025-12-31
+MSCI,MSCI Inc.,Financials,cogs,stale,2021-12-31,2025-12-31
+MSCI,MSCI Inc.,Financials,accounts_receivable,stale,2022-12-31,2025-12-31
+MSCI,MSCI Inc.,Financials,news_mentions_30d,assumption,,2025-12-31
+MSCI,MSCI Inc.,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+MSFT,Microsoft,Technology,news_mentions_30d,assumption,,2025-06-30
+MSFT,Microsoft,Technology,risk_news_mentions_30d,assumption,,2025-06-30
+MSI,Motorola Solutions,Technology,leverage_proxy,assumption,,2025-12-31
+MSI,Motorola Solutions,Technology,news_mentions_30d,assumption,,2025-12-31
+MSI,Motorola Solutions,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+MSTR,MicroStrategy,Industrials,interest_expense,stale,2021-03-31,2025-12-31
+MSTR,MicroStrategy,Industrials,accounts_payable,stale,2018-12-31,2025-12-31
+MSTR,MicroStrategy,Industrials,news_mentions_30d,assumption,,2025-12-31
+MSTR,MicroStrategy,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+MTB,M&T Bank,Financials,capex,stale,2023-12-31,2025-12-31
+MTB,M&T Bank,Financials,interest_expense,stale,2023-12-31,2025-12-31
+MTB,M&T Bank,Financials,fcf_to_assets,assumption,,2025-12-31
+MTB,M&T Bank,Financials,current_ratio,assumption,,2025-12-31
+MTB,M&T Bank,Financials,news_mentions_30d,assumption,,2025-12-31
+MTB,M&T Bank,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+MTD,Mettler Toledo,Healthcare,cogs,stale,2017-12-31,2025-12-31
+MTD,Mettler Toledo,Healthcare,news_mentions_30d,assumption,,2025-12-31
+MTD,Mettler Toledo,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+MU,Micron Technology,Industrials,interest_expense,stale,2023-08-31,2025-08-28
+MU,Micron Technology,Industrials,short_term_debt,stale,2012-08-30,2025-08-28
+MU,Micron Technology,Industrials,news_mentions_30d,assumption,,2025-08-28
+MU,Micron Technology,Industrials,risk_news_mentions_30d,assumption,,2025-08-28
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,revenue,stale,2017-12-31,2025-12-31
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,long_term_debt,stale,2020-12-31,2025-12-31
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,debt_to_assets,assumption,,2025-12-31
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,net_margin,assumption,,2025-12-31
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+NCLH,Norwegian Cruise Line Holdings,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+NDAQ,"Nasdaq, Inc.",Financials,interest_expense,stale,2023-12-31,2025-12-31
+NDAQ,"Nasdaq, Inc.",Financials,news_mentions_30d,assumption,,2025-12-31
+NDAQ,"Nasdaq, Inc.",Financials,risk_news_mentions_30d,assumption,,2025-12-31
+NDSN,Nordson Corporation,Industrials,interest_expense,stale,2023-10-31,2025-10-31
+NDSN,Nordson Corporation,Industrials,leverage_proxy,assumption,,2025-10-31
+NDSN,Nordson Corporation,Industrials,news_mentions_30d,assumption,,2025-10-31
+NDSN,Nordson Corporation,Industrials,risk_news_mentions_30d,assumption,,2025-10-31
+NEE,NextEra Energy,Utilities,revenue,stale,2012-12-31,2025-12-31
+NEE,NextEra Energy,Utilities,net_margin,assumption,,2025-12-31
+NEE,NextEra Energy,Utilities,fcf_to_assets,assumption,,2025-12-31
+NEE,NextEra Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+NEE,NextEra Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+NEM,Newmont,Materials,interest_expense,stale,2012-12-31,2025-12-31
+NEM,Newmont,Materials,inventory,stale,2014-12-31,2025-12-31
+NEM,Newmont,Materials,news_mentions_30d,assumption,,2025-12-31
+NEM,Newmont,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+NFLX,"Netflix, Inc.",Industrials,interest_expense,stale,2023-12-31,2025-12-31
+NFLX,"Netflix, Inc.",Industrials,news_mentions_30d,assumption,,2025-12-31
+NFLX,"Netflix, Inc.",Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+NI,NiSource,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+NI,NiSource,Utilities,cogs,stale,2019-12-31,2025-12-31
+NI,NiSource,Utilities,long_term_debt,stale,2015-12-31,2025-12-31
+NI,NiSource,Utilities,leverage_proxy,assumption,,2025-12-31
+NI,NiSource,Utilities,news_mentions_30d,assumption,,2025-12-31
+NI,NiSource,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+NKE,Nike,Consumer Discretionary,leverage_proxy,assumption,,2025-05-31
+NKE,Nike,Consumer Discretionary,news_mentions_30d,assumption,,2025-05-31
+NKE,Nike,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-05-31
+NOC,Northrop Grumman,Aerospace & Defense,cogs,stale,2017-12-31,2025-12-31
+NOC,Northrop Grumman,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+NOC,Northrop Grumman,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+NOW,ServiceNow,Technology,interest_expense,stale,2022-12-31,2025-12-31
+NOW,ServiceNow,Technology,long_term_debt,stale,2021-09-30,2025-12-31
+NOW,ServiceNow,Technology,short_term_debt,stale,2022-12-31,2025-12-31
+NOW,ServiceNow,Technology,debt_to_assets,assumption,,2025-12-31
+NOW,ServiceNow,Technology,news_mentions_30d,assumption,,2025-12-31
+NOW,ServiceNow,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+NRG,NRG Energy,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+NRG,NRG Energy,Utilities,cogs,stale,2020-12-31,2025-12-31
+NRG,NRG Energy,Utilities,ppe_net,stale,2018-12-31,2025-12-31
+NRG,NRG Energy,Utilities,news_mentions_30d,assumption,,2025-12-31
+NRG,NRG Energy,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+NSC,Norfolk Southern,Transportation,long_term_debt,stale,2017-12-31,2025-12-31
+NSC,Norfolk Southern,Transportation,short_term_debt,stale,2023-12-31,2025-12-31
+NSC,Norfolk Southern,Transportation,debt_to_assets,assumption,,2025-12-31
+NSC,Norfolk Southern,Transportation,news_mentions_30d,assumption,,2025-12-31
+NSC,Norfolk Southern,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+NTAP,NetApp,Technology,news_mentions_30d,assumption,,2025-04-25
+NTAP,NetApp,Technology,risk_news_mentions_30d,assumption,,2025-04-25
+NTRS,Northern Trust,Financials,interest_expense,stale,2023-12-31,2025-12-31
+NTRS,Northern Trust,Financials,long_term_debt,stale,2012-12-31,2025-12-31
+NTRS,Northern Trust,Financials,debt_to_assets,assumption,,2025-12-31
+NTRS,Northern Trust,Financials,current_ratio,assumption,,2025-12-31
+NTRS,Northern Trust,Financials,news_mentions_30d,assumption,,2025-12-31
+NTRS,Northern Trust,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+NUE,Nucor,Materials,long_term_debt,stale,2018-12-31,2025-12-31
+NUE,Nucor,Materials,news_mentions_30d,assumption,,2025-12-31
+NUE,Nucor,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+NVDA,Nvidia,Technology,interest_expense,stale,2024-01-28,2026-01-25
+NVDA,Nvidia,Technology,news_mentions_30d,assumption,,2026-01-25
+NVDA,Nvidia,Technology,risk_news_mentions_30d,assumption,,2026-01-25
+NVR,"NVR, Inc.",Consumer Discretionary,long_term_debt,stale,2013-12-31,2025-12-31
+NVR,"NVR, Inc.",Consumer Discretionary,debt_to_assets,assumption,,2025-12-31
+NVR,"NVR, Inc.",Consumer Discretionary,current_ratio,assumption,,2025-12-31
+NVR,"NVR, Inc.",Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+NVR,"NVR, Inc.",Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+NWS,News Corp (Class B),Communication Services,leverage_proxy,assumption,,2025-06-30
+NWS,News Corp (Class B),Communication Services,news_mentions_30d,assumption,,2025-06-30
+NWS,News Corp (Class B),Communication Services,risk_news_mentions_30d,assumption,,2025-06-30
+NWSA,News Corp (Class A),Communication Services,leverage_proxy,assumption,,2025-06-30
+NWSA,News Corp (Class A),Communication Services,news_mentions_30d,assumption,,2025-06-30
+NWSA,News Corp (Class A),Communication Services,risk_news_mentions_30d,assumption,,2025-06-30
+NXPI,NXP Semiconductors,Industrials,news_mentions_30d,assumption,,2026-03-29
+NXPI,NXP Semiconductors,Industrials,risk_news_mentions_30d,assumption,,2026-03-29
+O,Realty Income,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+O,Realty Income,Real Estate,long_term_debt,stale,2016-12-31,2025-12-31
+O,Realty Income,Real Estate,debt_to_assets,assumption,,2025-12-31
+O,Realty Income,Real Estate,fcf_to_assets,assumption,,2025-12-31
+O,Realty Income,Real Estate,current_ratio,assumption,,2025-12-31
+O,Realty Income,Real Estate,news_mentions_30d,assumption,,2025-12-31
+O,Realty Income,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+ODFL,Old Dominion Freight Line,Industrials,revenue,stale,2017-12-31,2025-12-31
+ODFL,Old Dominion Freight Line,Industrials,long_term_debt,stale,2018-12-31,2025-12-31
+ODFL,Old Dominion Freight Line,Industrials,net_margin,assumption,,2025-12-31
+ODFL,Old Dominion Freight Line,Industrials,news_mentions_30d,assumption,,2025-12-31
+ODFL,Old Dominion Freight Line,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+OKE,Oneok,Energy,interest_expense,stale,2023-12-31,2025-12-31
+OKE,Oneok,Energy,leverage_proxy,assumption,,2025-12-31
+OKE,Oneok,Energy,news_mentions_30d,assumption,,2025-12-31
+OKE,Oneok,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+OMC,Omnicom Group,Communication Services,leverage_proxy,assumption,,2025-12-31
+OMC,Omnicom Group,Communication Services,news_mentions_30d,assumption,,2025-12-31
+OMC,Omnicom Group,Communication Services,risk_news_mentions_30d,assumption,,2025-12-31
+ON,ON Semiconductor,Technology,interest_expense,stale,2023-12-31,2025-12-31
+ON,ON Semiconductor,Technology,news_mentions_30d,assumption,,2025-12-31
+ON,ON Semiconductor,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+ORCL,Oracle Corporation,Technology,cogs,stale,2018-05-31,2025-05-31
+ORCL,Oracle Corporation,Technology,long_term_debt,stale,2022-05-31,2025-05-31
+ORCL,Oracle Corporation,Technology,leverage_proxy,assumption,,2025-05-31
+ORCL,Oracle Corporation,Technology,debt_to_assets,assumption,,2025-05-31
+ORCL,Oracle Corporation,Technology,news_mentions_30d,assumption,,2025-05-31
+ORCL,Oracle Corporation,Technology,risk_news_mentions_30d,assumption,,2025-05-31
+ORLY,O'Reilly Automotive,Industrials,short_term_debt,stale,2014-12-31,2025-12-31
+ORLY,O'Reilly Automotive,Industrials,leverage_proxy,assumption,,2025-12-31
+ORLY,O'Reilly Automotive,Industrials,news_mentions_30d,assumption,,2025-12-31
+ORLY,O'Reilly Automotive,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+OTIS,Otis Worldwide,Industrials,interest_expense,stale,2020-03-31,2025-12-31
+OTIS,Otis Worldwide,Industrials,news_mentions_30d,assumption,,2025-12-31
+OTIS,Otis Worldwide,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+OXY,Occidental Petroleum,Energy,short_term_debt,stale,2020-12-31,2025-12-31
+OXY,Occidental Petroleum,Energy,leverage_proxy,assumption,,2025-12-31
+OXY,Occidental Petroleum,Energy,news_mentions_30d,assumption,,2025-12-31
+OXY,Occidental Petroleum,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+PANW,Palo Alto Networks,Industrials,long_term_debt,stale,2023-07-31,2025-07-31
+PANW,Palo Alto Networks,Industrials,debt_to_assets,assumption,,2025-07-31
+PANW,Palo Alto Networks,Industrials,news_mentions_30d,assumption,,2025-07-31
+PANW,Palo Alto Networks,Industrials,risk_news_mentions_30d,assumption,,2025-07-31
+PAYX,Paychex,Industrials,news_mentions_30d,assumption,,2025-05-31
+PAYX,Paychex,Industrials,risk_news_mentions_30d,assumption,,2025-05-31
+PCAR,Paccar,Industrials,cash,stale,2018-12-31,2025-12-31
+PCAR,Paccar,Industrials,inventory,stale,2021-12-31,2025-12-31
+PCAR,Paccar,Industrials,leverage_proxy,assumption,,2025-12-31
+PCAR,Paccar,Industrials,debt_to_assets,assumption,,2025-12-31
+PCAR,Paccar,Industrials,cash_to_assets,assumption,,2025-12-31
+PCAR,Paccar,Industrials,current_ratio,assumption,,2025-12-31
+PCAR,Paccar,Industrials,news_mentions_30d,assumption,,2025-12-31
+PCAR,Paccar,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+PCG,PG&E Corporation,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+PCG,PG&E Corporation,Utilities,accounts_payable,stale,2018-12-31,2025-12-31
+PCG,PG&E Corporation,Utilities,leverage_proxy,assumption,,2025-12-31
+PCG,PG&E Corporation,Utilities,news_mentions_30d,assumption,,2025-12-31
+PCG,PG&E Corporation,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+PDD,PDD Holdings,Industrials,capex,stale,2020-12-31,2025-12-31
+PDD,PDD Holdings,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+PDD,PDD Holdings,Industrials,inventory,stale,2021-12-31,2025-12-31
+PDD,PDD Holdings,Industrials,debt_to_assets,assumption,,2025-12-31
+PDD,PDD Holdings,Industrials,fcf_to_assets,assumption,,2025-12-31
+PDD,PDD Holdings,Industrials,news_mentions_30d,assumption,,2025-12-31
+PDD,PDD Holdings,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,cogs,stale,2020-12-31,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,ppe_net,stale,2009-12-31,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,depreciation,stale,2018-12-31,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,sga,stale,2009-09-30,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,inventory,stale,2009-09-30,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,leverage_proxy,assumption,,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,news_mentions_30d,assumption,,2025-12-31
+PEG,Public Service Enterprise Group,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+PEP,PepsiCo,Industrials,short_term_debt,stale,2014-12-27,2025-12-27
+PEP,PepsiCo,Industrials,news_mentions_30d,assumption,,2025-12-27
+PEP,PepsiCo,Industrials,risk_news_mentions_30d,assumption,,2025-12-27
+PFE,Pfizer,Healthcare,news_mentions_30d,assumption,,2025-12-31
+PFE,Pfizer,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+PFG,Principal Financial Group,Financials,depreciation,stale,2023-12-31,2025-12-31
+PFG,Principal Financial Group,Financials,fcf_to_assets,assumption,,2025-12-31
+PFG,Principal Financial Group,Financials,current_ratio,assumption,,2025-12-31
+PFG,Principal Financial Group,Financials,news_mentions_30d,assumption,,2025-12-31
+PFG,Principal Financial Group,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+PG,Procter & Gamble,Consumer Staples,interest_expense,stale,2023-06-30,2025-06-30
+PG,Procter & Gamble,Consumer Staples,news_mentions_30d,assumption,,2025-06-30
+PG,Procter & Gamble,Consumer Staples,risk_news_mentions_30d,assumption,,2025-06-30
+PGR,Progressive Corporation,Financials,long_term_debt,stale,2015-12-31,2025-12-31
+PGR,Progressive Corporation,Financials,current_ratio,assumption,,2025-12-31
+PGR,Progressive Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+PGR,Progressive Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+PH,Parker Hannifin,Industrials,interest_expense,stale,2023-06-30,2025-06-30
+PH,Parker Hannifin,Industrials,short_term_debt,stale,2023-06-30,2025-06-30
+PH,Parker Hannifin,Industrials,news_mentions_30d,assumption,,2025-06-30
+PH,Parker Hannifin,Industrials,risk_news_mentions_30d,assumption,,2025-06-30
+PHM,PulteGroup,Consumer Discretionary,accounts_receivable,stale,2019-12-31,2026-03-31
+PHM,PulteGroup,Consumer Discretionary,current_ratio,assumption,,2026-03-31
+PHM,PulteGroup,Consumer Discretionary,news_mentions_30d,assumption,,2026-03-31
+PHM,PulteGroup,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-03-31
+PKG,Packaging Corporation of America,Materials,leverage_proxy,assumption,,2025-12-31
+PKG,Packaging Corporation of America,Materials,news_mentions_30d,assumption,,2025-12-31
+PKG,Packaging Corporation of America,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+PLD,Prologis,Real Estate,fcf_to_assets,assumption,,2025-12-31
+PLD,Prologis,Real Estate,current_ratio,assumption,,2025-12-31
+PLD,Prologis,Real Estate,news_mentions_30d,assumption,,2025-12-31
+PLD,Prologis,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+PLTR,Palantir Technologies,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+PLTR,Palantir Technologies,Industrials,long_term_debt,stale,2021-12-31,2025-12-31
+PLTR,Palantir Technologies,Industrials,debt_to_assets,assumption,,2025-12-31
+PLTR,Palantir Technologies,Industrials,news_mentions_30d,assumption,,2025-12-31
+PLTR,Palantir Technologies,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+PM,Philip Morris International,Consumer Staples,interest_expense,stale,2023-12-31,2025-12-31
+PM,Philip Morris International,Consumer Staples,sga,stale,2017-12-31,2025-12-31
+PM,Philip Morris International,Consumer Staples,long_term_debt,stale,2011-12-31,2025-12-31
+PM,Philip Morris International,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+PM,Philip Morris International,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+PNC,PNC Financial Services,Financials,interest_expense,stale,2023-12-31,2025-12-31
+PNC,PNC Financial Services,Financials,fcf_to_assets,assumption,,2025-12-31
+PNC,PNC Financial Services,Financials,current_ratio,assumption,,2025-12-31
+PNC,PNC Financial Services,Financials,news_mentions_30d,assumption,,2025-12-31
+PNC,PNC Financial Services,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+PNR,Pentair,Industrials,interest_expense,stale,2019-12-31,2025-12-31
+PNR,Pentair,Industrials,short_term_debt,stale,2017-12-31,2025-12-31
+PNR,Pentair,Industrials,news_mentions_30d,assumption,,2025-12-31
+PNR,Pentair,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+PNW,Pinnacle West Capital,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+PNW,Pinnacle West Capital,Utilities,cogs,stale,2018-12-31,2025-12-31
+PNW,Pinnacle West Capital,Utilities,leverage_proxy,assumption,,2025-12-31
+PNW,Pinnacle West Capital,Utilities,news_mentions_30d,assumption,,2025-12-31
+PNW,Pinnacle West Capital,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+PODD,Insulet Corporation,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+PODD,Insulet Corporation,Healthcare,accounts_receivable,stale,2022-12-31,2025-12-31
+PODD,Insulet Corporation,Healthcare,long_term_debt,stale,2022-12-31,2025-12-31
+PODD,Insulet Corporation,Healthcare,news_mentions_30d,assumption,,2025-12-31
+PODD,Insulet Corporation,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+POOL,Pool Corporation,Consumer Discretionary,interest_expense,stale,2011-12-31,2025-12-31
+POOL,Pool Corporation,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+POOL,Pool Corporation,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+PPG,PPG Industries,Materials,interest_expense,stale,2023-12-31,2025-12-31
+PPG,PPG Industries,Materials,news_mentions_30d,assumption,,2025-12-31
+PPG,PPG Industries,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+PPL,PPL Corporation,Utilities,leverage_proxy,assumption,,2025-12-31
+PPL,PPL Corporation,Utilities,news_mentions_30d,assumption,,2025-12-31
+PPL,PPL Corporation,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+PRU,Prudential Financial,Financials,fcf_to_assets,assumption,,2025-12-31
+PRU,Prudential Financial,Financials,current_ratio,assumption,,2025-12-31
+PRU,Prudential Financial,Financials,news_mentions_30d,assumption,,2025-12-31
+PRU,Prudential Financial,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+PSA,Public Storage,Real Estate,cogs,stale,2019-12-31,2025-12-31
+PSA,Public Storage,Real Estate,short_term_debt,stale,2013-12-31,2025-12-31
+PSA,Public Storage,Real Estate,fcf_to_assets,assumption,,2025-12-31
+PSA,Public Storage,Real Estate,current_ratio,assumption,,2025-12-31
+PSA,Public Storage,Real Estate,news_mentions_30d,assumption,,2025-12-31
+PSA,Public Storage,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+PSKY,Paramount Skydance Corporation,Communication Services,leverage_proxy,assumption,,2025-12-31
+PSKY,Paramount Skydance Corporation,Communication Services,debt_to_assets,assumption,,2025-12-31
+PSKY,Paramount Skydance Corporation,Communication Services,news_mentions_30d,assumption,,2025-12-31
+PSKY,Paramount Skydance Corporation,Communication Services,risk_news_mentions_30d,assumption,,2025-12-31
+PSX,Phillips 66,Energy,accounts_payable,stale,2022-12-31,2025-12-31
+PSX,Phillips 66,Energy,long_term_debt,stale,2015-03-02,2025-12-31
+PSX,Phillips 66,Energy,short_term_debt,stale,2016-12-31,2025-12-31
+PSX,Phillips 66,Energy,debt_to_assets,assumption,,2025-12-31
+PSX,Phillips 66,Energy,fcf_to_assets,assumption,,2025-12-31
+PSX,Phillips 66,Energy,news_mentions_30d,assumption,,2025-12-31
+PSX,Phillips 66,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+PTC,PTC Inc.,Technology,news_mentions_30d,assumption,,2025-09-30
+PTC,PTC Inc.,Technology,risk_news_mentions_30d,assumption,,2025-09-30
+PWR,Quanta Services,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+PWR,Quanta Services,Industrials,long_term_debt,stale,2018-12-31,2025-12-31
+PWR,Quanta Services,Industrials,short_term_debt,stale,2022-12-31,2025-12-31
+PWR,Quanta Services,Industrials,debt_to_assets,assumption,,2025-12-31
+PWR,Quanta Services,Industrials,news_mentions_30d,assumption,,2025-12-31
+PWR,Quanta Services,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+PYPL,PayPal,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+PYPL,PayPal,Industrials,news_mentions_30d,assumption,,2025-12-31
+PYPL,PayPal,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+Q,Qnity Electronics,Technology,news_mentions_30d,assumption,,2025-12-31
+Q,Qnity Electronics,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+QCOM,Qualcomm,Industrials,news_mentions_30d,assumption,,2025-09-28
+QCOM,Qualcomm,Industrials,risk_news_mentions_30d,assumption,,2025-09-28
+RCL,Royal Caribbean Group,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+RCL,Royal Caribbean Group,Consumer Discretionary,long_term_debt,stale,2011-12-31,2025-12-31
+RCL,Royal Caribbean Group,Consumer Discretionary,short_term_debt,stale,2011-12-31,2025-12-31
+RCL,Royal Caribbean Group,Consumer Discretionary,debt_to_assets,assumption,,2025-12-31
+RCL,Royal Caribbean Group,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+RCL,Royal Caribbean Group,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+REG,Regency Centers,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+REG,Regency Centers,Real Estate,fcf_to_assets,assumption,,2025-12-31
+REG,Regency Centers,Real Estate,current_ratio,assumption,,2025-12-31
+REG,Regency Centers,Real Estate,news_mentions_30d,assumption,,2025-12-31
+REG,Regency Centers,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+REGN,Regeneron Pharmaceuticals,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+REGN,Regeneron Pharmaceuticals,Industrials,cogs,stale,2019-12-31,2025-12-31
+REGN,Regeneron Pharmaceuticals,Industrials,short_term_debt,stale,2020-06-30,2025-12-31
+REGN,Regeneron Pharmaceuticals,Industrials,news_mentions_30d,assumption,,2025-12-31
+REGN,Regeneron Pharmaceuticals,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+RF,Regions Financial Corporation,Financials,interest_expense,stale,2023-12-31,2025-12-31
+RF,Regions Financial Corporation,Financials,fcf_to_assets,assumption,,2025-12-31
+RF,Regions Financial Corporation,Financials,current_ratio,assumption,,2025-12-31
+RF,Regions Financial Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+RF,Regions Financial Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+RJF,Raymond James Financial,Financials,interest_expense,stale,2023-09-30,2025-09-30
+RJF,Raymond James Financial,Financials,long_term_debt,stale,2014-09-30,2025-09-30
+RJF,Raymond James Financial,Financials,short_term_debt,stale,2011-06-30,2025-09-30
+RJF,Raymond James Financial,Financials,debt_to_assets,assumption,,2025-09-30
+RJF,Raymond James Financial,Financials,current_ratio,assumption,,2025-09-30
+RJF,Raymond James Financial,Financials,news_mentions_30d,assumption,,2025-09-30
+RJF,Raymond James Financial,Financials,risk_news_mentions_30d,assumption,,2025-09-30
+RL,Ralph Lauren Corporation,Consumer Discretionary,news_mentions_30d,assumption,,2025-03-29
+RL,Ralph Lauren Corporation,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-03-29
+RMD,ResMed,Healthcare,interest_expense,stale,2021-06-30,2025-06-30
+RMD,ResMed,Healthcare,news_mentions_30d,assumption,,2025-06-30
+RMD,ResMed,Healthcare,risk_news_mentions_30d,assumption,,2025-06-30
+ROK,Rockwell Automation,Industrials,interest_expense,stale,2023-09-30,2025-09-30
+ROK,Rockwell Automation,Industrials,leverage_proxy,assumption,,2025-09-30
+ROK,Rockwell Automation,Industrials,news_mentions_30d,assumption,,2025-09-30
+ROK,Rockwell Automation,Industrials,risk_news_mentions_30d,assumption,,2025-09-30
+ROL,"Rollins, Inc.",Industrials,cogs,stale,2020-12-31,2025-12-31
+ROL,"Rollins, Inc.",Industrials,news_mentions_30d,assumption,,2025-12-31
+ROL,"Rollins, Inc.",Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+ROP,Roper Technologies,Industrials,capex,stale,2018-12-31,2025-12-31
+ROP,Roper Technologies,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+ROP,Roper Technologies,Industrials,accounts_payable,stale,2020-12-31,2025-12-31
+ROP,Roper Technologies,Industrials,fcf_to_assets,assumption,,2025-12-31
+ROP,Roper Technologies,Industrials,news_mentions_30d,assumption,,2025-12-31
+ROP,Roper Technologies,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+ROST,Ross Stores,Industrials,leverage_proxy,assumption,,2026-01-31
+ROST,Ross Stores,Industrials,news_mentions_30d,assumption,,2026-01-31
+ROST,Ross Stores,Industrials,risk_news_mentions_30d,assumption,,2026-01-31
+RSG,Republic Services,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+RSG,Republic Services,Industrials,leverage_proxy,assumption,,2025-12-31
+RSG,Republic Services,Industrials,news_mentions_30d,assumption,,2025-12-31
+RSG,Republic Services,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+RTX,RTX Corporation,Aerospace & Defense,cogs,stale,2017-12-31,2025-12-31
+RTX,RTX Corporation,Aerospace & Defense,news_mentions_30d,assumption,,2025-12-31
+RTX,RTX Corporation,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-12-31
+RVTY,Revvity,Healthcare,interest_expense,stale,2021-01-03,2025-12-28
+RVTY,Revvity,Healthcare,cogs,stale,2018-12-30,2025-12-28
+RVTY,Revvity,Healthcare,news_mentions_30d,assumption,,2025-12-28
+RVTY,Revvity,Healthcare,risk_news_mentions_30d,assumption,,2025-12-28
+SATS,EchoStar,Technology & Communications,interest_expense,stale,2022-12-31,2025-12-31
+SATS,EchoStar,Technology & Communications,cogs,stale,2017-12-31,2025-12-31
+SATS,EchoStar,Technology & Communications,short_term_debt,stale,2021-12-31,2025-12-31
+SATS,EchoStar,Technology & Communications,news_mentions_30d,assumption,,2025-12-31
+SATS,EchoStar,Technology & Communications,risk_news_mentions_30d,assumption,,2025-12-31
+SBAC,SBA Communications,Real Estate,interest_expense,stale,2012-12-31,2025-12-31
+SBAC,SBA Communications,Real Estate,leverage_proxy,assumption,,2025-12-31
+SBAC,SBA Communications,Real Estate,news_mentions_30d,assumption,,2025-12-31
+SBAC,SBA Communications,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+SBUX,Starbucks,Industrials,cogs,stale,2019-09-29,2025-09-28
+SBUX,Starbucks,Industrials,news_mentions_30d,assumption,,2025-09-28
+SBUX,Starbucks,Industrials,risk_news_mentions_30d,assumption,,2025-09-28
+SCHW,Charles Schwab Corporation,Financials,interest_expense,stale,2023-12-31,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,depreciation,stale,2023-12-31,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,long_term_debt,stale,2021-12-31,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,short_term_debt,stale,2022-12-31,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,debt_to_assets,assumption,,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,current_ratio,assumption,,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+SCHW,Charles Schwab Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+SHOP,Shopify,Industrials,interest_expense,stale,2022-12-31,2025-12-31
+SHOP,Shopify,Industrials,leverage_proxy,assumption,,2025-12-31
+SHOP,Shopify,Industrials,debt_to_assets,assumption,,2025-12-31
+SHOP,Shopify,Industrials,news_mentions_30d,assumption,,2025-12-31
+SHOP,Shopify,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+SHW,Sherwin-Williams,Materials,interest_expense,stale,2023-12-31,2025-12-31
+SHW,Sherwin-Williams,Materials,leverage_proxy,assumption,,2025-12-31
+SHW,Sherwin-Williams,Materials,news_mentions_30d,assumption,,2025-12-31
+SHW,Sherwin-Williams,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+SJM,J.M. Smucker Company (The),Consumer Staples,revenue,stale,2018-04-30,2025-04-30
+SJM,J.M. Smucker Company (The),Consumer Staples,interest_expense,stale,2012-04-30,2025-04-30
+SJM,J.M. Smucker Company (The),Consumer Staples,net_margin,assumption,,2025-04-30
+SJM,J.M. Smucker Company (The),Consumer Staples,news_mentions_30d,assumption,,2025-04-30
+SJM,J.M. Smucker Company (The),Consumer Staples,risk_news_mentions_30d,assumption,,2025-04-30
+SLB,Schlumberger,Energy,cash,stale,2014-12-31,2025-12-31
+SLB,Schlumberger,Energy,cogs,stale,2017-12-31,2025-12-31
+SLB,Schlumberger,Energy,short_term_debt,stale,2016-12-31,2025-12-31
+SLB,Schlumberger,Energy,cash_to_assets,assumption,,2025-12-31
+SLB,Schlumberger,Energy,news_mentions_30d,assumption,,2025-12-31
+SLB,Schlumberger,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+SMCI,Supermicro,Technology,interest_expense,stale,2023-06-30,2025-06-30
+SMCI,Supermicro,Technology,long_term_debt,stale,2023-06-30,2025-06-30
+SMCI,Supermicro,Technology,short_term_debt,stale,2023-06-30,2025-06-30
+SMCI,Supermicro,Technology,debt_to_assets,assumption,,2025-06-30
+SMCI,Supermicro,Technology,news_mentions_30d,assumption,,2025-06-30
+SMCI,Supermicro,Technology,risk_news_mentions_30d,assumption,,2025-06-30
+SNA,Snap-on,Industrials,interest_expense,stale,2023-12-30,2026-01-03
+SNA,Snap-on,Industrials,cogs,stale,2017-12-30,2026-01-03
+SNA,Snap-on,Industrials,short_term_debt,stale,2022-01-01,2026-01-03
+SNA,Snap-on,Industrials,fcf_to_assets,assumption,,2026-01-03
+SNA,Snap-on,Industrials,news_mentions_30d,assumption,,2026-01-03
+SNA,Snap-on,Industrials,risk_news_mentions_30d,assumption,,2026-01-03
+SNDK,Sandisk,Industrials,news_mentions_30d,assumption,,2025-06-27
+SNDK,Sandisk,Industrials,risk_news_mentions_30d,assumption,,2025-06-27
+SNPS,Synopsys,Industrials,interest_expense,stale,2023-10-31,2025-10-31
+SNPS,Synopsys,Industrials,news_mentions_30d,assumption,,2025-10-31
+SNPS,Synopsys,Industrials,risk_news_mentions_30d,assumption,,2025-10-31
+SO,Southern Company,Utilities,cogs,stale,2021-06-30,2025-12-31
+SO,Southern Company,Utilities,ppe_net,stale,2023-12-31,2025-12-31
+SO,Southern Company,Utilities,news_mentions_30d,assumption,,2025-12-31
+SO,Southern Company,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+SOLV,Solventum,Healthcare,news_mentions_30d,assumption,,2025-12-31
+SOLV,Solventum,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+SPG,Simon Property Group,Real Estate,current_ratio,assumption,,2025-12-31
+SPG,Simon Property Group,Real Estate,news_mentions_30d,assumption,,2025-12-31
+SPG,Simon Property Group,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+SPGI,S&P Global,Financials,interest_expense,stale,2023-12-31,2025-12-31
+SPGI,S&P Global,Financials,inventory,stale,2011-12-31,2025-12-31
+SPGI,S&P Global,Financials,short_term_debt,stale,2011-12-31,2025-12-31
+SPGI,S&P Global,Financials,news_mentions_30d,assumption,,2025-12-31
+SPGI,S&P Global,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+SRE,Sempra,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+SRE,Sempra,Utilities,leverage_proxy,assumption,,2025-12-31
+SRE,Sempra,Utilities,news_mentions_30d,assumption,,2025-12-31
+SRE,Sempra,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+STE,Steris,Healthcare,news_mentions_30d,assumption,,2025-03-31
+STE,Steris,Healthcare,risk_news_mentions_30d,assumption,,2025-03-31
+STLD,Steel Dynamics,Materials,interest_expense,stale,2023-12-31,2025-12-31
+STLD,Steel Dynamics,Materials,accounts_payable,stale,2022-12-31,2025-12-31
+STLD,Steel Dynamics,Materials,news_mentions_30d,assumption,,2025-12-31
+STLD,Steel Dynamics,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+STT,State Street Corporation,Financials,interest_expense,stale,2023-12-31,2025-12-31
+STT,State Street Corporation,Financials,depreciation,stale,2018-12-31,2025-12-31
+STT,State Street Corporation,Financials,long_term_debt,stale,2015-12-31,2025-12-31
+STT,State Street Corporation,Financials,debt_to_assets,assumption,,2025-12-31
+STT,State Street Corporation,Financials,current_ratio,assumption,,2025-12-31
+STT,State Street Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+STT,State Street Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+STX,Seagate Technology,Industrials,news_mentions_30d,assumption,,2025-06-27
+STX,Seagate Technology,Industrials,risk_news_mentions_30d,assumption,,2025-06-27
+STZ,Constellation Brands,Consumer Staples,interest_expense,stale,2019-02-28,2026-02-28
+STZ,Constellation Brands,Consumer Staples,news_mentions_30d,assumption,,2026-02-28
+STZ,Constellation Brands,Consumer Staples,risk_news_mentions_30d,assumption,,2026-02-28
+SW,Smurfit Westrock,Materials,news_mentions_30d,assumption,,2025-12-31
+SW,Smurfit Westrock,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+SWK,Stanley Black & Decker,Industrials,leverage_proxy,assumption,,2026-01-03
+SWK,Stanley Black & Decker,Industrials,news_mentions_30d,assumption,,2026-01-03
+SWK,Stanley Black & Decker,Industrials,risk_news_mentions_30d,assumption,,2026-01-03
+SWKS,Skyworks Solutions,Technology,news_mentions_30d,assumption,,2025-10-03
+SWKS,Skyworks Solutions,Technology,risk_news_mentions_30d,assumption,,2025-10-03
+SYF,Synchrony Financial,Financials,interest_expense,stale,2023-12-31,2025-12-31
+SYF,Synchrony Financial,Financials,fcf_to_assets,assumption,,2025-12-31
+SYF,Synchrony Financial,Financials,current_ratio,assumption,,2025-12-31
+SYF,Synchrony Financial,Financials,news_mentions_30d,assumption,,2025-12-31
+SYF,Synchrony Financial,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+SYK,Stryker Corporation,Healthcare,news_mentions_30d,assumption,,2025-12-31
+SYK,Stryker Corporation,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+SYY,Sysco,Consumer Staples,interest_expense,stale,2013-06-29,2025-06-28
+SYY,Sysco,Consumer Staples,long_term_debt,stale,2021-07-03,2025-06-28
+SYY,Sysco,Consumer Staples,short_term_debt,stale,2021-07-03,2025-06-28
+SYY,Sysco,Consumer Staples,leverage_proxy,assumption,,2025-06-28
+SYY,Sysco,Consumer Staples,debt_to_assets,assumption,,2025-06-28
+SYY,Sysco,Consumer Staples,news_mentions_30d,assumption,,2025-06-28
+SYY,Sysco,Consumer Staples,risk_news_mentions_30d,assumption,,2025-06-28
+T,AT&T,Technology & Communications,liabilities,stale,2015-12-31,2025-12-31
+T,AT&T,Technology & Communications,interest_expense,stale,2023-12-31,2025-12-31
+T,AT&T,Technology & Communications,cogs,stale,2014-12-31,2025-12-31
+T,AT&T,Technology & Communications,inventory,stale,2020-12-31,2025-12-31
+T,AT&T,Technology & Communications,short_term_debt,stale,2011-12-31,2025-12-31
+T,AT&T,Technology & Communications,leverage_proxy,assumption,,2025-12-31
+T,AT&T,Technology & Communications,news_mentions_30d,assumption,,2025-12-31
+T,AT&T,Technology & Communications,risk_news_mentions_30d,assumption,,2025-12-31
+TAP,Molson Coors Beverage Company,Consumer Staples,interest_expense,stale,2023-12-31,2025-12-31
+TAP,Molson Coors Beverage Company,Consumer Staples,news_mentions_30d,assumption,,2025-12-31
+TAP,Molson Coors Beverage Company,Consumer Staples,risk_news_mentions_30d,assumption,,2025-12-31
+TDG,TransDigm Group,Aerospace & Defense,news_mentions_30d,assumption,,2025-09-30
+TDG,TransDigm Group,Aerospace & Defense,risk_news_mentions_30d,assumption,,2025-09-30
+TDY,Teledyne Technologies,Technology,interest_expense,stale,2023-12-31,2025-12-28
+TDY,Teledyne Technologies,Technology,news_mentions_30d,assumption,,2025-12-28
+TDY,Teledyne Technologies,Technology,risk_news_mentions_30d,assumption,,2025-12-28
+TECH,Bio-Techne,Healthcare,interest_expense,stale,2023-06-30,2025-06-30
+TECH,Bio-Techne,Healthcare,short_term_debt,stale,2022-06-30,2025-06-30
+TECH,Bio-Techne,Healthcare,leverage_proxy,assumption,,2025-06-30
+TECH,Bio-Techne,Healthcare,debt_to_assets,assumption,,2025-06-30
+TECH,Bio-Techne,Healthcare,news_mentions_30d,assumption,,2025-06-30
+TECH,Bio-Techne,Healthcare,risk_news_mentions_30d,assumption,,2025-06-30
+TEL,TE Connectivity,Technology,interest_expense,stale,2023-09-29,2025-09-26
+TEL,TE Connectivity,Technology,short_term_debt,stale,2015-09-25,2025-09-26
+TEL,TE Connectivity,Technology,news_mentions_30d,assumption,,2025-09-26
+TEL,TE Connectivity,Technology,risk_news_mentions_30d,assumption,,2025-09-26
+TER,Teradyne,Technology,long_term_debt,stale,2014-12-31,2025-12-31
+TER,Teradyne,Technology,news_mentions_30d,assumption,,2025-12-31
+TER,Teradyne,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+TFC,Truist Financial,Financials,capex,stale,2022-12-31,2025-12-31
+TFC,Truist Financial,Financials,interest_expense,stale,2023-12-31,2025-12-31
+TFC,Truist Financial,Financials,fcf_to_assets,assumption,,2025-12-31
+TFC,Truist Financial,Financials,current_ratio,assumption,,2025-12-31
+TFC,Truist Financial,Financials,news_mentions_30d,assumption,,2025-12-31
+TFC,Truist Financial,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+TGT,Target Corporation,Consumer Staples,interest_expense,stale,2024-02-03,2026-01-31
+TGT,Target Corporation,Consumer Staples,short_term_debt,stale,2020-02-01,2026-01-31
+TGT,Target Corporation,Consumer Staples,leverage_proxy,assumption,,2026-01-31
+TGT,Target Corporation,Consumer Staples,news_mentions_30d,assumption,,2026-01-31
+TGT,Target Corporation,Consumer Staples,risk_news_mentions_30d,assumption,,2026-01-31
+TJX,TJX Companies,Consumer Discretionary,revenue,stale,2018-02-03,2026-01-31
+TJX,TJX Companies,Consumer Discretionary,leverage_proxy,assumption,,2026-01-31
+TJX,TJX Companies,Consumer Discretionary,net_margin,assumption,,2026-01-31
+TJX,TJX Companies,Consumer Discretionary,news_mentions_30d,assumption,,2026-01-31
+TJX,TJX Companies,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-01-31
+TKO,TKO Group Holdings,Communication Services,fcf_to_assets,assumption,,2025-12-31
+TKO,TKO Group Holdings,Communication Services,news_mentions_30d,assumption,,2025-12-31
+TKO,TKO Group Holdings,Communication Services,risk_news_mentions_30d,assumption,,2025-12-31
+TMO,Thermo Fisher Scientific,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+TMO,Thermo Fisher Scientific,Healthcare,cogs,stale,2017-12-31,2025-12-31
+TMO,Thermo Fisher Scientific,Healthcare,short_term_debt,stale,2018-12-31,2025-12-31
+TMO,Thermo Fisher Scientific,Healthcare,leverage_proxy,assumption,,2025-12-31
+TMO,Thermo Fisher Scientific,Healthcare,news_mentions_30d,assumption,,2025-12-31
+TMO,Thermo Fisher Scientific,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+TMUS,T-Mobile US,Industrials,liabilities,stale,2012-12-31,2025-12-31
+TMUS,T-Mobile US,Industrials,interest_expense,stale,2018-12-31,2025-12-31
+TMUS,T-Mobile US,Industrials,cogs,stale,2017-12-31,2025-12-31
+TMUS,T-Mobile US,Industrials,leverage_proxy,assumption,,2025-12-31
+TMUS,T-Mobile US,Industrials,news_mentions_30d,assumption,,2025-12-31
+TMUS,T-Mobile US,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+TPL,Texas Pacific Land Corporation,Energy,capex,stale,2022-12-31,2025-12-31
+TPL,Texas Pacific Land Corporation,Energy,debt_to_assets,assumption,,2025-12-31
+TPL,Texas Pacific Land Corporation,Energy,fcf_to_assets,assumption,,2025-12-31
+TPL,Texas Pacific Land Corporation,Energy,news_mentions_30d,assumption,,2025-12-31
+TPL,Texas Pacific Land Corporation,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+TPR,"Tapestry, Inc.",Consumer Discretionary,news_mentions_30d,assumption,,2025-06-28
+TPR,"Tapestry, Inc.",Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-06-28
+TRGP,Targa Resources,Energy,interest_expense,stale,2015-12-31,2025-12-31
+TRGP,Targa Resources,Energy,short_term_debt,stale,2017-03-31,2025-12-31
+TRGP,Targa Resources,Energy,leverage_proxy,assumption,,2025-12-31
+TRGP,Targa Resources,Energy,news_mentions_30d,assumption,,2025-12-31
+TRGP,Targa Resources,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+TRI,Thomson Reuters,Industrials,leverage_proxy,assumption,,
+TRI,Thomson Reuters,Industrials,debt_to_assets,assumption,,
+TRI,Thomson Reuters,Industrials,cash_to_assets,assumption,,
+TRI,Thomson Reuters,Industrials,net_margin,assumption,,
+TRI,Thomson Reuters,Industrials,fcf_to_assets,assumption,,
+TRI,Thomson Reuters,Industrials,accrual_proxy,assumption,,
+TRI,Thomson Reuters,Industrials,current_ratio,assumption,,
+TRI,Thomson Reuters,Industrials,news_mentions_30d,assumption,,
+TRI,Thomson Reuters,Industrials,risk_news_mentions_30d,assumption,,
+TRMB,Trimble Inc.,Technology,interest_expense,stale,2011-12-30,2026-01-02
+TRMB,Trimble Inc.,Technology,news_mentions_30d,assumption,,2026-01-02
+TRMB,Trimble Inc.,Technology,risk_news_mentions_30d,assumption,,2026-01-02
+TROW,T. Rowe Price,Financials,depreciation,stale,2022-09-30,2025-12-31
+TROW,T. Rowe Price,Financials,debt_to_assets,assumption,,2025-12-31
+TROW,T. Rowe Price,Financials,current_ratio,assumption,,2025-12-31
+TROW,T. Rowe Price,Financials,news_mentions_30d,assumption,,2025-12-31
+TROW,T. Rowe Price,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,long_term_debt,stale,2014-12-31,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,short_term_debt,stale,2012-12-31,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,debt_to_assets,assumption,,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,fcf_to_assets,assumption,,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,current_ratio,assumption,,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,news_mentions_30d,assumption,,2025-12-31
+TRV,"Travelers Companies, Inc.",Financials,risk_news_mentions_30d,assumption,,2025-12-31
+TSCO,Tractor Supply,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-27
+TSCO,Tractor Supply,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-27
+TSLA,"Tesla, Inc.",Industrials,interest_expense,stale,2023-12-31,2025-12-31
+TSLA,"Tesla, Inc.",Industrials,short_term_debt,stale,2012-12-31,2025-12-31
+TSLA,"Tesla, Inc.",Industrials,news_mentions_30d,assumption,,2025-12-31
+TSLA,"Tesla, Inc.",Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+TSN,Tyson Foods,Consumer Staples,interest_expense,stale,2023-09-30,2025-09-27
+TSN,Tyson Foods,Consumer Staples,leverage_proxy,assumption,,2025-09-27
+TSN,Tyson Foods,Consumer Staples,debt_to_assets,assumption,,2025-09-27
+TSN,Tyson Foods,Consumer Staples,news_mentions_30d,assumption,,2025-09-27
+TSN,Tyson Foods,Consumer Staples,risk_news_mentions_30d,assumption,,2025-09-27
+TT,Trane Technologies,Industrials,cogs,stale,2020-12-31,2025-12-31
+TT,Trane Technologies,Industrials,short_term_debt,stale,2011-12-31,2025-12-31
+TT,Trane Technologies,Industrials,news_mentions_30d,assumption,,2025-12-31
+TT,Trane Technologies,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+TTD,Trade Desk (The),Communication Services,interest_expense,stale,2018-12-31,2025-12-31
+TTD,Trade Desk (The),Communication Services,debt_to_assets,assumption,,2025-12-31
+TTD,Trade Desk (The),Communication Services,news_mentions_30d,assumption,,2025-12-31
+TTD,Trade Desk (The),Communication Services,risk_news_mentions_30d,assumption,,2025-12-31
+TTWO,Take-Two Interactive,Industrials,inventory,stale,2022-03-31,2025-03-31
+TTWO,Take-Two Interactive,Industrials,news_mentions_30d,assumption,,2025-03-31
+TTWO,Take-Two Interactive,Industrials,risk_news_mentions_30d,assumption,,2025-03-31
+TXN,Texas Instruments,Industrials,news_mentions_30d,assumption,,2025-12-31
+TXN,Texas Instruments,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+TXT,Textron,Aerospace & Defense,interest_expense,stale,2022-01-01,2026-01-03
+TXT,Textron,Aerospace & Defense,cogs,stale,2021-01-02,2026-01-03
+TXT,Textron,Aerospace & Defense,ppe_net,stale,2023-12-30,2026-01-03
+TXT,Textron,Aerospace & Defense,accounts_receivable,stale,2018-09-29,2026-01-03
+TXT,Textron,Aerospace & Defense,debt_to_assets,assumption,,2026-01-03
+TXT,Textron,Aerospace & Defense,current_ratio,assumption,,2026-01-03
+TXT,Textron,Aerospace & Defense,news_mentions_30d,assumption,,2026-01-03
+TXT,Textron,Aerospace & Defense,risk_news_mentions_30d,assumption,,2026-01-03
+TYL,Tyler Technologies,Technology,news_mentions_30d,assumption,,2025-12-31
+TYL,Tyler Technologies,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+UAL,United Airlines Holdings,Transportation,interest_expense,stale,2018-12-31,2025-12-31
+UAL,United Airlines Holdings,Transportation,inventory,stale,2015-12-31,2025-12-31
+UAL,United Airlines Holdings,Transportation,leverage_proxy,assumption,,2025-12-31
+UAL,United Airlines Holdings,Transportation,news_mentions_30d,assumption,,2025-12-31
+UAL,United Airlines Holdings,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+UBER,Uber,Transportation,interest_expense,stale,2023-12-31,2025-12-31
+UBER,Uber,Transportation,news_mentions_30d,assumption,,2025-12-31
+UBER,Uber,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+UDR,"UDR, Inc.",Real Estate,capex,stale,2018-12-31,2025-12-31
+UDR,"UDR, Inc.",Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+UDR,"UDR, Inc.",Real Estate,fcf_to_assets,assumption,,2025-12-31
+UDR,"UDR, Inc.",Real Estate,current_ratio,assumption,,2025-12-31
+UDR,"UDR, Inc.",Real Estate,news_mentions_30d,assumption,,2025-12-31
+UDR,"UDR, Inc.",Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+UHS,Universal Health Services,Healthcare,leverage_proxy,assumption,,2025-12-31
+UHS,Universal Health Services,Healthcare,news_mentions_30d,assumption,,2025-12-31
+UHS,Universal Health Services,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+ULTA,Ulta Beauty,Consumer Discretionary,interest_expense,stale,2013-02-02,2026-01-31
+ULTA,Ulta Beauty,Consumer Discretionary,long_term_debt,stale,2020-08-01,2026-01-31
+ULTA,Ulta Beauty,Consumer Discretionary,news_mentions_30d,assumption,,2026-01-31
+ULTA,Ulta Beauty,Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-01-31
+UNH,UnitedHealth Group,Healthcare,short_term_debt,stale,2021-12-31,2025-12-31
+UNH,UnitedHealth Group,Healthcare,news_mentions_30d,assumption,,2025-12-31
+UNH,UnitedHealth Group,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+UNP,Union Pacific Corporation,Transportation,interest_expense,stale,2023-12-31,2025-12-31
+UNP,Union Pacific Corporation,Transportation,news_mentions_30d,assumption,,2025-12-31
+UNP,Union Pacific Corporation,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+UPS,United Parcel Service,Transportation,interest_expense,stale,2023-12-31,2025-12-31
+UPS,United Parcel Service,Transportation,short_term_debt,stale,2022-12-31,2025-12-31
+UPS,United Parcel Service,Transportation,leverage_proxy,assumption,,2025-12-31
+UPS,United Parcel Service,Transportation,news_mentions_30d,assumption,,2025-12-31
+UPS,United Parcel Service,Transportation,risk_news_mentions_30d,assumption,,2025-12-31
+URI,United Rentals,Industrials,ppe_net,stale,2019-12-31,2025-12-31
+URI,United Rentals,Industrials,news_mentions_30d,assumption,,2025-12-31
+URI,United Rentals,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+USB,U.S. Bancorp,Financials,interest_expense,stale,2023-12-31,2025-12-31
+USB,U.S. Bancorp,Financials,ppe_net,stale,2022-12-31,2025-12-31
+USB,U.S. Bancorp,Financials,depreciation,stale,2013-03-31,2025-12-31
+USB,U.S. Bancorp,Financials,long_term_debt,stale,2022-12-31,2025-12-31
+USB,U.S. Bancorp,Financials,fcf_to_assets,assumption,,2025-12-31
+USB,U.S. Bancorp,Financials,current_ratio,assumption,,2025-12-31
+USB,U.S. Bancorp,Financials,news_mentions_30d,assumption,,2025-12-31
+USB,U.S. Bancorp,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+V,Visa,Financials,interest_expense,stale,2012-09-30,2025-09-30
+V,Visa,Financials,news_mentions_30d,assumption,,2025-09-30
+V,Visa,Financials,risk_news_mentions_30d,assumption,,2025-09-30
+VEEV,Veeva Systems,Healthcare,capex,stale,2020-01-31,2026-01-31
+VEEV,Veeva Systems,Healthcare,depreciation,stale,2024-01-31,2026-01-31
+VEEV,Veeva Systems,Healthcare,debt_to_assets,assumption,,2026-01-31
+VEEV,Veeva Systems,Healthcare,fcf_to_assets,assumption,,2026-01-31
+VEEV,Veeva Systems,Healthcare,news_mentions_30d,assumption,,2026-01-31
+VEEV,Veeva Systems,Healthcare,risk_news_mentions_30d,assumption,,2026-01-31
+VICI,Vici Properties,Real Estate,capex,stale,2019-12-31,2025-12-31
+VICI,Vici Properties,Real Estate,interest_expense,stale,2023-12-31,2025-12-31
+VICI,Vici Properties,Real Estate,fcf_to_assets,assumption,,2025-12-31
+VICI,Vici Properties,Real Estate,current_ratio,assumption,,2025-12-31
+VICI,Vici Properties,Real Estate,news_mentions_30d,assumption,,2025-12-31
+VICI,Vici Properties,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+VLO,Valero Energy,Energy,leverage_proxy,assumption,,2025-12-31
+VLO,Valero Energy,Energy,net_margin,assumption,,2025-12-31
+VLO,Valero Energy,Energy,news_mentions_30d,assumption,,2025-12-31
+VLO,Valero Energy,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+VLTO,Veralto,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+VLTO,Veralto,Industrials,leverage_proxy,assumption,,2025-12-31
+VLTO,Veralto,Industrials,news_mentions_30d,assumption,,2025-12-31
+VLTO,Veralto,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+VMC,Vulcan Materials Company,Materials,interest_expense,stale,2023-12-31,2025-12-31
+VMC,Vulcan Materials Company,Materials,accounts_payable,stale,2015-12-31,2025-12-31
+VMC,Vulcan Materials Company,Materials,news_mentions_30d,assumption,,2025-12-31
+VMC,Vulcan Materials Company,Materials,risk_news_mentions_30d,assumption,,2025-12-31
+VRSK,Verisk Analytics,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+VRSK,Verisk Analytics,Industrials,short_term_debt,stale,2019-12-31,2025-12-31
+VRSK,Verisk Analytics,Industrials,news_mentions_30d,assumption,,2025-12-31
+VRSK,Verisk Analytics,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+VRSN,Verisign,Technology,long_term_debt,stale,2013-12-31,2025-12-31
+VRSN,Verisign,Technology,debt_to_assets,assumption,,2025-12-31
+VRSN,Verisign,Technology,news_mentions_30d,assumption,,2025-12-31
+VRSN,Verisign,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+VRT,Vertiv,Industrials,news_mentions_30d,assumption,,2025-12-31
+VRT,Vertiv,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+VRTX,Vertex Pharmaceuticals,Industrials,interest_expense,stale,2020-12-31,2025-12-31
+VRTX,Vertex Pharmaceuticals,Industrials,long_term_debt,stale,2011-09-30,2025-12-31
+VRTX,Vertex Pharmaceuticals,Industrials,debt_to_assets,assumption,,2025-12-31
+VRTX,Vertex Pharmaceuticals,Industrials,news_mentions_30d,assumption,,2025-12-31
+VRTX,Vertex Pharmaceuticals,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+VST,Vistra Corp.,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+VST,Vistra Corp.,Utilities,news_mentions_30d,assumption,,2025-12-31
+VST,Vistra Corp.,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+VTR,Ventas,Real Estate,current_ratio,assumption,,2025-12-31
+VTR,Ventas,Real Estate,news_mentions_30d,assumption,,2025-12-31
+VTR,Ventas,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+VTRS,Viatris,Healthcare,news_mentions_30d,assumption,,2025-12-31
+VTRS,Viatris,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+VZ,Verizon,Communication Services,capex,stale,2018-12-31,2025-12-31
+VZ,Verizon,Communication Services,interest_expense,stale,2023-12-31,2025-12-31
+VZ,Verizon,Communication Services,cogs,stale,2017-12-31,2025-12-31
+VZ,Verizon,Communication Services,long_term_debt,stale,2013-12-31,2025-12-31
+VZ,Verizon,Communication Services,leverage_proxy,assumption,,2025-12-31
+VZ,Verizon,Communication Services,fcf_to_assets,assumption,,2025-12-31
+VZ,Verizon,Communication Services,news_mentions_30d,assumption,,2025-12-31
+VZ,Verizon,Communication Services,risk_news_mentions_30d,assumption,,2025-12-31
+WAB,Wabtec,Industrials,interest_expense,stale,2012-12-31,2025-12-31
+WAB,Wabtec,Industrials,news_mentions_30d,assumption,,2025-12-31
+WAB,Wabtec,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+WAT,Waters Corporation,Healthcare,news_mentions_30d,assumption,,2025-12-31
+WAT,Waters Corporation,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+WBD,Warner Bros. Discovery,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+WBD,Warner Bros. Discovery,Industrials,cogs,stale,2018-12-31,2025-12-31
+WBD,Warner Bros. Discovery,Industrials,inventory,stale,2022-09-30,2025-12-31
+WBD,Warner Bros. Discovery,Industrials,news_mentions_30d,assumption,,2025-12-31
+WBD,Warner Bros. Discovery,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+WDAY,"Workday, Inc.",Industrials,interest_expense,stale,2024-01-31,2026-01-31
+WDAY,"Workday, Inc.",Industrials,cogs,stale,2013-01-31,2026-01-31
+WDAY,"Workday, Inc.",Industrials,short_term_debt,stale,2023-01-31,2026-01-31
+WDAY,"Workday, Inc.",Industrials,news_mentions_30d,assumption,,2026-01-31
+WDAY,"Workday, Inc.",Industrials,risk_news_mentions_30d,assumption,,2026-01-31
+WDC,Western Digital,Industrials,interest_expense,stale,2023-06-30,2025-06-27
+WDC,Western Digital,Industrials,news_mentions_30d,assumption,,2025-06-27
+WDC,Western Digital,Industrials,risk_news_mentions_30d,assumption,,2025-06-27
+WEC,WEC Energy Group,Utilities,capex,stale,2022-12-31,2025-12-31
+WEC,WEC Energy Group,Utilities,interest_expense,stale,2023-12-31,2025-12-31
+WEC,WEC Energy Group,Utilities,leverage_proxy,assumption,,2025-12-31
+WEC,WEC Energy Group,Utilities,fcf_to_assets,assumption,,2025-12-31
+WEC,WEC Energy Group,Utilities,news_mentions_30d,assumption,,2025-12-31
+WEC,WEC Energy Group,Utilities,risk_news_mentions_30d,assumption,,2025-12-31
+WELL,Welltower,Real Estate,fcf_to_assets,assumption,,2025-12-31
+WELL,Welltower,Real Estate,current_ratio,assumption,,2025-12-31
+WELL,Welltower,Real Estate,news_mentions_30d,assumption,,2025-12-31
+WELL,Welltower,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+WFC,Wells Fargo,Financials,interest_expense,stale,2023-12-31,2025-12-31
+WFC,Wells Fargo,Financials,fcf_to_assets,assumption,,2025-12-31
+WFC,Wells Fargo,Financials,current_ratio,assumption,,2025-12-31
+WFC,Wells Fargo,Financials,news_mentions_30d,assumption,,2025-12-31
+WFC,Wells Fargo,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+WM,Waste Management,Industrials,interest_expense,stale,2013-12-31,2025-12-31
+WM,Waste Management,Industrials,short_term_debt,stale,2012-12-31,2025-12-31
+WM,Waste Management,Industrials,debt_to_assets,assumption,,2025-12-31
+WM,Waste Management,Industrials,news_mentions_30d,assumption,,2025-12-31
+WM,Waste Management,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+WMB,Williams Companies,Energy,interest_expense,stale,2023-12-31,2025-12-31
+WMB,Williams Companies,Energy,cogs,stale,2012-12-31,2025-12-31
+WMB,Williams Companies,Energy,leverage_proxy,assumption,,2025-12-31
+WMB,Williams Companies,Energy,debt_to_assets,assumption,,2025-12-31
+WMB,Williams Companies,Energy,news_mentions_30d,assumption,,2025-12-31
+WMB,Williams Companies,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+WMT,Walmart,Consumer Staples,depreciation,stale,2019-01-31,2026-01-31
+WMT,Walmart,Consumer Staples,leverage_proxy,assumption,,2026-01-31
+WMT,Walmart,Consumer Staples,news_mentions_30d,assumption,,2026-01-31
+WMT,Walmart,Consumer Staples,risk_news_mentions_30d,assumption,,2026-01-31
+WRB,W. R. Berkley Corporation,Financials,capex,stale,2019-12-31,2025-12-31
+WRB,W. R. Berkley Corporation,Financials,debt_to_assets,assumption,,2025-12-31
+WRB,W. R. Berkley Corporation,Financials,fcf_to_assets,assumption,,2025-12-31
+WRB,W. R. Berkley Corporation,Financials,current_ratio,assumption,,2025-12-31
+WRB,W. R. Berkley Corporation,Financials,news_mentions_30d,assumption,,2025-12-31
+WRB,W. R. Berkley Corporation,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,long_term_debt,stale,2019-02-03,2026-02-01
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,short_term_debt,stale,2022-01-30,2026-02-01
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,debt_to_assets,assumption,,2026-02-01
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,news_mentions_30d,assumption,,2026-02-01
+WSM,"Williams-Sonoma, Inc.",Consumer Discretionary,risk_news_mentions_30d,assumption,,2026-02-01
+WST,West Pharmaceutical Services,Healthcare,interest_expense,stale,2023-12-31,2025-12-31
+WST,West Pharmaceutical Services,Healthcare,news_mentions_30d,assumption,,2025-12-31
+WST,West Pharmaceutical Services,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+WTW,Willis Towers Watson,Financials,accounts_payable,stale,2018-12-31,2025-12-31
+WTW,Willis Towers Watson,Financials,news_mentions_30d,assumption,,2025-12-31
+WTW,Willis Towers Watson,Financials,risk_news_mentions_30d,assumption,,2025-12-31
+WY,Weyerhaeuser,Real Estate,capex,stale,2018-12-31,2025-12-31
+WY,Weyerhaeuser,Real Estate,fcf_to_assets,assumption,,2025-12-31
+WY,Weyerhaeuser,Real Estate,news_mentions_30d,assumption,,2025-12-31
+WY,Weyerhaeuser,Real Estate,risk_news_mentions_30d,assumption,,2025-12-31
+WYNN,Wynn Resorts,Consumer Discretionary,revenue,stale,2018-12-31,2025-12-31
+WYNN,Wynn Resorts,Consumer Discretionary,interest_expense,stale,2023-12-31,2025-12-31
+WYNN,Wynn Resorts,Consumer Discretionary,net_margin,assumption,,2025-12-31
+WYNN,Wynn Resorts,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+WYNN,Wynn Resorts,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+XEL,Xcel Energy,Industrials,revenue,stale,2018-12-31,2025-12-31
+XEL,Xcel Energy,Industrials,cogs,stale,2018-12-31,2025-12-31
+XEL,Xcel Energy,Industrials,depreciation,stale,2009-06-30,2025-12-31
+XEL,Xcel Energy,Industrials,inventory,stale,2017-12-31,2025-12-31
+XEL,Xcel Energy,Industrials,leverage_proxy,assumption,,2025-12-31
+XEL,Xcel Energy,Industrials,net_margin,assumption,,2025-12-31
+XEL,Xcel Energy,Industrials,news_mentions_30d,assumption,,2025-12-31
+XEL,Xcel Energy,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+XOM,ExxonMobil,Energy,inventory,stale,2011-12-31,2025-12-31
+XOM,ExxonMobil,Energy,long_term_debt,stale,2017-12-31,2025-12-31
+XOM,ExxonMobil,Energy,news_mentions_30d,assumption,,2025-12-31
+XOM,ExxonMobil,Energy,risk_news_mentions_30d,assumption,,2025-12-31
+XYL,Xylem Inc.,Industrials,interest_expense,stale,2023-12-31,2025-12-31
+XYL,Xylem Inc.,Industrials,news_mentions_30d,assumption,,2025-12-31
+XYL,Xylem Inc.,Industrials,risk_news_mentions_30d,assumption,,2025-12-31
+XYZ,"Block, Inc.",Financials,interest_expense,stale,2021-12-31,2025-12-31
+XYZ,"Block, Inc.",Financials,long_term_debt,stale,2022-12-31,2025-12-31
+XYZ,"Block, Inc.",Financials,short_term_debt,stale,2021-12-31,2025-12-31
+XYZ,"Block, Inc.",Financials,debt_to_assets,assumption,,2025-12-31
+XYZ,"Block, Inc.",Financials,news_mentions_30d,assumption,,2025-12-31
+XYZ,"Block, Inc.",Financials,risk_news_mentions_30d,assumption,,2025-12-31
+YUM,Yum! Brands,Consumer Discretionary,interest_expense,stale,2013-12-28,2025-12-31
+YUM,Yum! Brands,Consumer Discretionary,inventory,stale,2015-12-26,2025-12-31
+YUM,Yum! Brands,Consumer Discretionary,long_term_debt,stale,2015-12-26,2025-12-31
+YUM,Yum! Brands,Consumer Discretionary,news_mentions_30d,assumption,,2025-12-31
+YUM,Yum! Brands,Consumer Discretionary,risk_news_mentions_30d,assumption,,2025-12-31
+ZBH,Zimmer Biomet,Healthcare,news_mentions_30d,assumption,,2025-12-31
+ZBH,Zimmer Biomet,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
+ZBRA,Zebra Technologies,Technology,interest_expense,stale,2021-12-31,2025-12-31
+ZBRA,Zebra Technologies,Technology,news_mentions_30d,assumption,,2025-12-31
+ZBRA,Zebra Technologies,Technology,risk_news_mentions_30d,assumption,,2025-12-31
+ZS,Zscaler,Industrials,interest_expense,stale,2023-07-31,2026-01-31
+ZS,Zscaler,Industrials,news_mentions_30d,assumption,,2026-01-31
+ZS,Zscaler,Industrials,risk_news_mentions_30d,assumption,,2026-01-31
+ZTS,Zoetis,Healthcare,news_mentions_30d,assumption,,2025-12-31
+ZTS,Zoetis,Healthcare,risk_news_mentions_30d,assumption,,2025-12-31
