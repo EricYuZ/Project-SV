@@ -1,0 +1,517 @@
+id,company_name,ticker,sector_group,industry_group,rating_seed,rating_source,index_memberships
+1,Agilent Technologies,A,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+2,Apple,AAPL,Technology,,AA bucket,demo_bucket_to_refresh,Dow; Nasdaq 100; S&P 500
+3,AbbVie,ABBV,Healthcare,Biotechnology,BBB+ / A- bucket,demo_bucket_to_refresh,S&P 500
+4,Airbnb,ABNB,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+5,Abbott Laboratories,ABT,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+6,Arch Capital Group,ACGL,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+7,Accenture,ACN,Technology,IT Consulting & Other Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+8,Adobe Inc.,ADBE,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+9,Analog Devices,ADI,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+10,Archer Daniels Midland,ADM,Consumer Staples,Agricultural Products & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+11,Automatic Data Processing,ADP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+12,Autodesk,ADSK,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+13,Ameren,AEE,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+14,American Electric Power,AEP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+15,AES Corporation,AES,Utilities,Independent Power Producers & Energy Traders,BB+ shown,screenshot,S&P 500
+16,Aflac,AFL,Financials,Life & Health Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+17,American International Group,AIG,Financials,Multi-line Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+18,Assurant,AIZ,Financials,Multi-line Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+19,Arthur J. Gallagher & Co.,AJG,Financials,Insurance Brokers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+20,Akamai Technologies,AKAM,Technology,Internet Services & Infrastructure,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+21,Albemarle Corporation,ALB,Materials,Specialty Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+22,Align Technology,ALGN,Healthcare,Health Care Supplies,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+23,Allstate,ALL,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+24,Allegion,ALLE,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+25,Alnylam Pharmaceuticals,ALNY,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+26,Applied Materials,AMAT,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+27,Amcor,AMCR,Materials,Paper & Plastic Packaging Products & Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+28,Advanced Micro Devices,AMD,Industrials,,BBB / A bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+29,Ametek,AME,Industrials,Electrical Components & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+30,Amgen,AMGN,Healthcare,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Dow; Nasdaq 100; S&P 500
+31,Ameriprise Financial,AMP,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+32,American Tower,AMT,Real Estate,Telecom Tower REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+33,Amazon,AMZN,Consumer Discretionary,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Dow; Nasdaq 100; S&P 500
+34,Arista Networks,ANET,Technology,Communications Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+35,Aon plc,AON,Financials,Insurance Brokers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+36,A. O. Smith,AOS,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+37,APA Corporation,APA,Energy,Oil & Gas Exploration & Production,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+38,Air Products,APD,Materials,Industrial Gases,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+39,Amphenol,APH,Technology,Electronic Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+40,Apollo Global Management,APO,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+41,AppLovin,APP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+42,Aptiv,APTV,Autos,Automotive Parts & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+43,Alexandria Real Estate Equities,ARE,Real Estate,Office REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+44,Ares Management,ARES,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+45,Arm Holdings,ARM,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+46,ASML Holding,ASML,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+47,Atmos Energy,ATO,Utilities,Gas Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+48,AvalonBay Communities,AVB,Real Estate,Multi-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+49,Broadcom,AVGO,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+50,Avery Dennison,AVY,Materials,Paper & Plastic Packaging Products & Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+51,American Water Works,AWK,Utilities,Water Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+52,Axon Enterprise,AXON,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+53,American Express,AXP,Financials,,A shown,screenshot,Dow; S&P 500
+54,AutoZone,AZO,Autos,Automotive Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+55,Boeing,BA,Industrials,,BBB / BB bucket,demo_bucket_to_refresh,Dow; S&P 500
+56,Bank of America,BAC,Financials,Diversified Banks,A / A- bucket,demo_bucket_to_refresh,S&P 500
+57,Ball Corporation,BALL,Materials,"Metal, Glass & Plastic Containers",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+58,Baxter International,BAX,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+59,Best Buy,BBY,Consumer Discretionary,Computer & Electronics Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+60,Becton Dickinson,BDX,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+61,Franklin Resources,BEN,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+62,Brown–Forman,BF-B,Consumer Staples,Distillers & Vintners,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+63,Bunge Global,BG,Consumer Staples,Agricultural Products & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+64,Biogen,BIIB,Healthcare,Biotechnology,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+65,BNY Mellon,BK,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+66,Booking Holdings,BKNG,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+67,Baker Hughes,BKR,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+68,Builders FirstSource,BLDR,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+69,BlackRock,BLK,Financials,Asset Management & Custody Banks,AA / A bucket,demo_bucket_to_refresh,S&P 500
+70,Bristol Myers Squibb,BMY,Healthcare,Pharmaceuticals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+71,Broadridge Financial Solutions,BR,Industrials,Data Processing & Outsourced Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+72,Berkshire Hathaway,BRK-B,Financials,Multi-Sector Holdings,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+73,Brown & Brown,BRO,Financials,Insurance Brokers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+74,Boston Scientific,BSX,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+75,Blackstone Inc.,BX,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+76,"BXP, Inc.",BXP,Real Estate,Office REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+77,Citigroup,C,Financials,Diversified Banks,BBB+ / A- bucket,demo_bucket_to_refresh,S&P 500
+78,Conagra Brands,CAG,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+79,Cardinal Health,CAH,Healthcare,Health Care Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+80,Carrier Global,CARR,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+81,Casey's,CASY,Consumer Staples,Food Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+82,Caterpillar,CAT,Industrials,,A bucket,demo_bucket_to_refresh,Dow; S&P 500
+83,Chubb Limited,CB,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+84,Cboe Global Markets,CBOE,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+85,CBRE Group,CBRE,Real Estate,Real Estate Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+86,Coca-Cola Europacific Partners,CCEP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+87,Crown Castle,CCI,Real Estate,Telecom Tower REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+88,Carnival Corporation,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+89,Cadence Design Systems,CDNS,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+90,CDW Corporation,CDW,Technology,Technology Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+91,Constellation Energy,CEG,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+92,CF Industries,CF,Materials,Fertilizers & Agricultural Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+93,Citizens Financial Group,CFG,Financials,Regional Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+94,Church & Dwight,CHD,Consumer Staples,Household Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+95,C.H. Robinson,CHRW,Transportation,Air Freight & Logistics,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+96,Charter Communications,CHTR,Industrials,,BBB- shown,screenshot,Nasdaq 100; S&P 500
+97,Cigna,CI,Healthcare,Health Care Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+98,Ciena,CIEN,Technology,Communications Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+99,Cincinnati Financial,CINF,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+100,Colgate-Palmolive,CL,Consumer Staples,Household Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+101,Clorox,CLX,Consumer Staples,Household Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+102,Comcast,CMCSA,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+103,CME Group,CME,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+104,Chipotle Mexican Grill,CMG,Consumer Discretionary,Restaurants,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+105,Cummins,CMI,Industrials,Construction Machinery & Heavy Transportation Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+106,CMS Energy,CMS,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+107,Centene Corporation,CNC,Healthcare,Managed Health Care,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+108,CenterPoint Energy,CNP,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+109,Capital One,COF,Financials,Consumer Finance,BBB / BB bucket,demo_bucket_to_refresh,S&P 500
+110,Coherent Corp.,COHR,Technology,Electronic Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+111,Coinbase,COIN,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+112,Cooper Companies (The),COO,Healthcare,Health Care Supplies,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+113,ConocoPhillips,COP,Energy,Oil & Gas Exploration & Production,A bucket,demo_bucket_to_refresh,S&P 500
+114,Cencora,COR,Healthcare,Health Care Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+115,Costco,COST,Industrials,,A / AA bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+116,Corpay,CPAY,Financials,Transaction & Payment Processing Services,BB+ shown,screenshot,S&P 500
+117,Campbell's Company (The),CPB,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+118,Copart,CPRT,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+119,Camden Property Trust,CPT,Real Estate,Multi-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+120,CRH plc,CRH,Materials,Construction Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+121,Charles River Laboratories,CRL,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+122,Salesforce,CRM,Technology,,A- shown,screenshot,Dow; S&P 500
+123,CrowdStrike,CRWD,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+124,Cisco,CSCO,Technology,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Dow; Nasdaq 100; S&P 500
+125,CoStar Group,CSGP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+126,CSX Corporation,CSX,Industrials,,BBB+ / A- bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+127,Cintas,CTAS,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+128,Cognizant,CTSH,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+129,Corteva,CTVA,Materials,Fertilizers & Agricultural Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+130,Carvana,CVNA,Autos,Automotive Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+131,CVS Health,CVS,Healthcare,Health Care Services,BBB bucket,demo_bucket_to_refresh,S&P 500
+132,Chevron,CVX,Energy,,AA- shown,screenshot,Dow; S&P 500
+133,Dominion Energy,D,Utilities,Multi-Utilities,BBB bucket,demo_bucket_to_refresh,S&P 500
+134,Delta Air Lines,DAL,Transportation,Passenger Airlines,BB / BBB bucket,demo_bucket_to_refresh,S&P 500
+135,DoorDash,DASH,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+136,DuPont,DD,Materials,Specialty Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+137,Datadog,DDOG,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+138,Deere & Company,DE,Industrials,Agricultural & Farm Machinery,A bucket,demo_bucket_to_refresh,S&P 500
+139,Deckers Brands,DECK,Consumer Discretionary,Footwear,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+140,Dell Technologies,DELL,Technology,"Technology Hardware, Storage & Peripherals",BBB bucket,demo_bucket_to_refresh,S&P 500
+141,Dollar General,DG,Consumer Staples,Consumer Staples Merchandise Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+142,Quest Diagnostics,DGX,Healthcare,Health Care Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+143,D. R. Horton,DHI,Consumer Discretionary,Homebuilding,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+144,Danaher Corporation,DHR,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+145,Disney,DIS,Communication Services,,A / BBB bucket,demo_bucket_to_refresh,Dow; S&P 500
+146,Digital Realty,DLR,Real Estate,Data Center REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+147,Dollar Tree,DLTR,Consumer Staples,Consumer Staples Merchandise Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+148,Healthpeak Properties,DOC,Real Estate,Health Care REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+149,Dover Corporation,DOV,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+150,Dow Inc.,DOW,Materials,Commodity Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+151,Domino's,DPZ,Consumer Discretionary,Restaurants,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+152,Darden Restaurants,DRI,Consumer Discretionary,Restaurants,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+153,DTE Energy,DTE,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+154,Duke Energy,DUK,Utilities,Electric Utilities,BBB+ bucket,demo_bucket_to_refresh,S&P 500
+155,DaVita,DVA,Healthcare,Health Care Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+156,Devon Energy,DVN,Energy,Oil & Gas Exploration & Production,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+157,DexCom,DXCM,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+158,Electronic Arts,EA,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+159,eBay Inc.,EBAY,Consumer Discretionary,Broadline Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+160,Ecolab,ECL,Materials,Specialty Chemicals,A- shown,screenshot,S&P 500
+161,Consolidated Edison,ED,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+162,Equifax,EFX,Industrials,Research & Consulting Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+163,Everest Group,EG,Financials,Reinsurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+164,Edison International,EIX,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+165,Estée Lauder Companies (The),EL,Consumer Staples,Personal Care Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+166,Elevance Health,ELV,Healthcare,Managed Health Care,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+167,Emcor,EME,Industrials,Construction & Engineering,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+168,Emerson Electric,EMR,Industrials,Electrical Components & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+169,EOG Resources,EOG,Energy,Oil & Gas Exploration & Production,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+170,EPAM Systems,EPAM,Technology,IT Consulting & Other Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+171,Equinix,EQIX,Real Estate,Data Center REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+172,Equity Residential,EQR,Real Estate,Multi-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+173,EQT Corporation,EQT,Energy,Oil & Gas Exploration & Production,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+174,Erie Indemnity,ERIE,Financials,Insurance Brokers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+175,Eversource Energy,ES,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+176,Essex Property Trust,ESS,Real Estate,Multi-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+177,Eaton Corporation,ETN,Industrials,Electrical Components & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+178,Entergy,ETR,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+179,Evergy,EVRG,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+180,Edwards Lifesciences,EW,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+181,Exelon,EXC,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+182,Expand Energy,EXE,Energy,Oil & Gas Exploration & Production,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+183,Expeditors International,EXPD,Transportation,Air Freight & Logistics,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+184,Expedia Group,EXPE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+185,Extra Space Storage,EXR,Real Estate,Self-Storage REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+186,Ford Motor Company,F,Autos,Automobile Manufacturers,BB+ shown,screenshot,S&P 500
+187,Diamondback Energy,FANG,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+188,Fastenal,FAST,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+189,Freeport-McMoRan,FCX,Materials,Copper,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+190,FactSet,FDS,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+191,FedEx,FDX,Transportation,Air Freight & Logistics,BBB bucket,demo_bucket_to_refresh,S&P 500
+192,FirstEnergy,FE,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+193,Ferrovial,FER,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+194,"F5, Inc.",FFIV,Technology,Communications Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+195,Fair Isaac,FICO,Technology,Application Software,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+196,Fidelity National Information Services,FIS,Financials,Transaction & Payment Processing Services,BBB area / verify,screenshot_unclear,S&P 500
+197,Fiserv,FISV,Financials,Transaction & Payment Processing Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+198,Fifth Third Bancorp,FITB,Financials,Regional Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+199,Comfort Systems USA,FIX,Industrials,Construction & Engineering,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+200,Fox Corporation (Class B),FOX,Communication Services,Broadcasting,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+201,Fox Corporation (Class A),FOXA,Communication Services,Broadcasting,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+202,Federal Realty Investment Trust,FRT,Real Estate,Retail REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+203,First Solar,FSLR,Technology,Semiconductors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+204,Fortinet,FTNT,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+205,Fortive,FTV,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+206,General Dynamics,GD,Aerospace & Defense,Aerospace & Defense,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+207,GoDaddy,GDDY,Technology,Internet Services & Infrastructure,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+208,GE Aerospace,GE,Aerospace & Defense,Aerospace & Defense,A / BBB bucket,demo_bucket_to_refresh,S&P 500
+209,GE HealthCare,GEHC,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+210,Gen Digital,GEN,Technology,Systems Software,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+211,GE Vernova,GEV,Industrials,Heavy Electrical Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+212,Gilead Sciences,GILD,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+213,General Mills,GIS,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+214,Globe Life,GL,Financials,Life & Health Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+215,Corning Inc.,GLW,Technology,Electronic Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+216,General Motors,GM,Autos,Automobile Manufacturers,BBB / BB bucket,demo_bucket_to_refresh,S&P 500
+217,Generac,GNRC,Industrials,Electrical Components & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+218,Alphabet Inc. (Class C),GOOG,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+219,Alphabet Inc. (Class A),GOOGL,Industrials,,AA bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+220,Genuine Parts Company,GPC,Consumer Discretionary,Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+221,Global Payments,GPN,Financials,Transaction & Payment Processing Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+222,Garmin,GRMN,Consumer Discretionary,Consumer Electronics,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+223,Goldman Sachs,GS,Financials,,A- shown,screenshot,Dow; S&P 500
+224,W. W. Grainger,GWW,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+225,Halliburton,HAL,Energy,Oil & Gas Equipment & Services,BBB bucket,demo_bucket_to_refresh,S&P 500
+226,Hasbro,HAS,Consumer Discretionary,Leisure Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+227,Huntington Bancshares,HBAN,Financials,Regional Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+228,HCA Healthcare,HCA,Healthcare,Health Care Facilities,BB / BBB bucket,demo_bucket_to_refresh,S&P 500
+229,Home Depot,HD,Consumer Discretionary,,A bucket,demo_bucket_to_refresh,Dow; S&P 500
+230,Hartford (The),HIG,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+231,Huntington Ingalls Industries,HII,Aerospace & Defense,Aerospace & Defense,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+232,Hilton Worldwide,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+233,Honeywell,HON,Industrials,,A bucket,demo_bucket_to_refresh,Dow; Nasdaq 100; S&P 500
+234,Robinhood Markets,HOOD,Financials,Investment Banking & Brokerage,NR shown,screenshot,S&P 500
+235,Hewlett Packard Enterprise,HPE,Technology,"Technology Hardware, Storage & Peripherals",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+236,HP Inc.,HPQ,Technology,"Technology Hardware, Storage & Peripherals",BBB bucket,demo_bucket_to_refresh,S&P 500
+237,Hormel Foods,HRL,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+238,Henry Schein,HSIC,Healthcare,Health Care Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+239,Host Hotels & Resorts,HST,Real Estate,Hotel & Resort REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+240,Hershey Company (The),HSY,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+241,Hubbell Incorporated,HUBB,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+242,Humana,HUM,Healthcare,Managed Health Care,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+243,Howmet Aerospace,HWM,Aerospace & Defense,Aerospace & Defense,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+244,Interactive Brokers,IBKR,Financials,Investment Banking & Brokerage,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+245,IBM,IBM,Technology,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Dow; S&P 500
+246,Intercontinental Exchange,ICE,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+247,Idexx Laboratories,IDXX,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+248,IDEX Corporation,IEX,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+249,International Flavors & Fragrances,IFF,Materials,Specialty Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+250,Incyte,INCY,Healthcare,Biotechnology,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+251,Insmed Incorporated,INSM,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+252,Intel,INTC,Industrials,,A- shown,screenshot,Nasdaq 100; S&P 500
+253,Intuit,INTU,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+254,Invitation Homes,INVH,Real Estate,Single-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+255,International Paper,IP,Materials,Paper & Plastic Packaging Products & Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+256,IQVIA,IQV,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+257,Ingersoll Rand,IR,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+258,Iron Mountain,IRM,Real Estate,Other Specialized REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+259,Intuitive Surgical,ISRG,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+260,Gartner,IT,Technology,IT Consulting & Other Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+261,Illinois Tool Works,ITW,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+262,Invesco,IVZ,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+263,Jacobs Solutions,J,Industrials,Construction & Engineering,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+264,J.B. Hunt,JBHT,Transportation,Cargo Ground Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+265,Jabil,JBL,Technology,Electronic Manufacturing Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+266,Johnson Controls,JCI,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+267,Jack Henry & Associates,JKHY,Financials,Transaction & Payment Processing Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+268,Johnson & Johnson,JNJ,Healthcare,,AAA / AA bucket,demo_bucket_to_refresh,Dow; S&P 500
+269,JPMorgan Chase,JPM,Financials,,A+ shown,screenshot,Dow; S&P 500
+270,Keurig Dr Pepper,KDP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+271,KeyCorp,KEY,Financials,Regional Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+272,Keysight Technologies,KEYS,Technology,Electronic Equipment & Instruments,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+273,Kraft Heinz,KHC,Industrials,,BBB / BB bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+274,Kimco Realty,KIM,Real Estate,Retail REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+275,KKR & Co.,KKR,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+276,KLA Corporation,KLAC,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+277,Kimberly-Clark,KMB,Consumer Staples,Household Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+278,Kinder Morgan,KMI,Energy,Oil & Gas Storage & Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+279,Coca-Cola,KO,Consumer Staples,,A+ / AA bucket,demo_bucket_to_refresh,Dow; S&P 500
+280,Kroger,KR,Consumer Staples,Food Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+281,Kenvue,KVUE,Consumer Staples,Personal Care Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+282,Loews Corporation,L,Financials,Multi-line Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+283,Leidos,LDOS,Industrials,Diversified Support Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+284,Lennar,LEN,Consumer Discretionary,Homebuilding,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+285,Labcorp,LH,Healthcare,Health Care Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+286,L3Harris,LHX,Aerospace & Defense,Aerospace & Defense,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+287,Lennox International,LII,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+288,Linde plc,LIN,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+289,Lumentum,LITE,Technology,Communications Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+290,Lilly (Eli),LLY,Healthcare,Pharmaceuticals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+291,Lockheed Martin,LMT,Aerospace & Defense,Aerospace & Defense,A bucket,demo_bucket_to_refresh,S&P 500
+292,Alliant Energy,LNT,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+293,Lowe's,LOW,Consumer Discretionary,Home Improvement Retail,A bucket,demo_bucket_to_refresh,S&P 500
+294,Lam Research,LRCX,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+295,Lululemon Athletica,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+296,Southwest Airlines,LUV,Transportation,Passenger Airlines,BBB bucket,demo_bucket_to_refresh,S&P 500
+297,Las Vegas Sands,LVS,Consumer Discretionary,Casinos & Gaming,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+298,LyondellBasell,LYB,Materials,Specialty Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+299,Live Nation Entertainment,LYV,Communication Services,Movies & Entertainment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+300,Mastercard,MA,Financials,Transaction & Payment Processing Services,AA- shown,screenshot,S&P 500
+301,Mid-America Apartment Communities,MAA,Real Estate,Multi-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+302,Marriott International,MAR,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+303,Masco,MAS,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+304,McDonald's,MCD,Consumer Discretionary,,BBB+ / A bucket,demo_bucket_to_refresh,Dow; S&P 500
+305,Microchip Technology,MCHP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+306,McKesson Corporation,MCK,Healthcare,Health Care Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+307,Moody's Corporation,MCO,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+308,Mondelez International,MDLZ,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+309,Medtronic,MDT,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+310,Mercado Libre,MELI,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+311,MetLife,MET,Financials,Life & Health Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+312,Meta Platforms,META,Industrials,,A bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+313,MGM Resorts,MGM,Consumer Discretionary,Casinos & Gaming,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+314,McCormick & Company,MKC,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+315,Martin Marietta Materials,MLM,Materials,Construction Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+316,3M,MMM,Industrials,,BBB / A bucket,demo_bucket_to_refresh,Dow; S&P 500
+317,Monster Beverage,MNST,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+318,Altria,MO,Consumer Staples,Tobacco,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+319,Mosaic Company (The),MOS,Materials,Fertilizers & Agricultural Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+320,Marathon Petroleum,MPC,Energy,Oil & Gas Refining & Marketing,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+321,Monolithic Power Systems,MPWR,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+322,Merck,MRK,Healthcare,,A / AA bucket,demo_bucket_to_refresh,Dow; S&P 500
+323,Moderna,MRNA,Healthcare,Biotechnology,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+324,Marsh McLennan,MRSH,Financials,Insurance Brokers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+325,Marvell Technology,MRVL,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+326,Morgan Stanley,MS,Financials,Investment Banking & Brokerage,A- bucket,demo_bucket_to_refresh,S&P 500
+327,MSCI Inc.,MSCI,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+328,Microsoft,MSFT,Technology,,AAA / AA bucket,demo_bucket_to_refresh,Dow; Nasdaq 100; S&P 500
+329,Motorola Solutions,MSI,Technology,Communications Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+330,MicroStrategy,MSTR,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+331,M&T Bank,MTB,Financials,Regional Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+332,Mettler Toledo,MTD,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+333,Micron Technology,MU,Industrials,,BBB bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+334,Norwegian Cruise Line Holdings,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+335,"Nasdaq, Inc.",NDAQ,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+336,Nordson Corporation,NDSN,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+337,NextEra Energy,NEE,Utilities,Multi-Utilities,A / BBB+ bucket,demo_bucket_to_refresh,S&P 500
+338,Newmont,NEM,Materials,Gold,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+339,"Netflix, Inc.",NFLX,Industrials,,BBB / BB bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+340,NiSource,NI,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+341,Nike,NKE,Consumer Discretionary,,A bucket,demo_bucket_to_refresh,Dow; S&P 500
+342,Northrop Grumman,NOC,Aerospace & Defense,Aerospace & Defense,BBB+ / A- bucket,demo_bucket_to_refresh,S&P 500
+343,ServiceNow,NOW,Technology,Systems Software,A- shown,screenshot,S&P 500
+344,NRG Energy,NRG,Utilities,Independent Power Producers & Energy Traders,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+345,Norfolk Southern,NSC,Transportation,Rail Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+346,NetApp,NTAP,Technology,"Technology Hardware, Storage & Peripherals",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+347,Northern Trust,NTRS,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+348,Nucor,NUE,Materials,Steel,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+349,Nvidia,NVDA,Technology,,A / AA bucket,demo_bucket_to_refresh,Dow; Nasdaq 100; S&P 500
+350,"NVR, Inc.",NVR,Consumer Discretionary,Homebuilding,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+351,News Corp (Class B),NWS,Communication Services,Publishing,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+352,News Corp (Class A),NWSA,Communication Services,Publishing,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+353,NXP Semiconductors,NXPI,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+354,Realty Income,O,Real Estate,Retail REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+355,Old Dominion Freight Line,ODFL,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+356,Oneok,OKE,Energy,Oil & Gas Storage & Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+357,Omnicom Group,OMC,Communication Services,Advertising,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+358,ON Semiconductor,ON,Technology,Semiconductors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+359,Oracle Corporation,ORCL,Technology,Application Software,A shown,screenshot,S&P 500
+360,O'Reilly Automotive,ORLY,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+361,Otis Worldwide,OTIS,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+362,Occidental Petroleum,OXY,Energy,Oil & Gas Exploration & Production,BBB / BB bucket,demo_bucket_to_refresh,S&P 500
+363,Palo Alto Networks,PANW,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+364,Paychex,PAYX,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+365,Paccar,PCAR,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+366,PG&E Corporation,PCG,Utilities,Multi-Utilities,BB / B bucket,demo_bucket_to_refresh,S&P 500
+367,PDD Holdings,PDD,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+368,Public Service Enterprise Group,PEG,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+369,PepsiCo,PEP,Industrials,,A+ / AA bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+370,Pfizer,PFE,Healthcare,Pharmaceuticals,A bucket,demo_bucket_to_refresh,S&P 500
+371,Principal Financial Group,PFG,Financials,Life & Health Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+372,Procter & Gamble,PG,Consumer Staples,,AA / A bucket,demo_bucket_to_refresh,Dow; S&P 500
+373,Progressive Corporation,PGR,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+374,Parker Hannifin,PH,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+375,PulteGroup,PHM,Consumer Discretionary,Homebuilding,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+376,Packaging Corporation of America,PKG,Materials,Paper & Plastic Packaging Products & Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+377,Prologis,PLD,Real Estate,Industrial REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+378,Palantir Technologies,PLTR,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+379,Philip Morris International,PM,Consumer Staples,Tobacco,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+380,PNC Financial Services,PNC,Financials,Diversified Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+381,Pentair,PNR,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+382,Pinnacle West Capital,PNW,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+383,Insulet Corporation,PODD,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+384,Pool Corporation,POOL,Consumer Discretionary,Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+385,PPG Industries,PPG,Materials,Specialty Chemicals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+386,PPL Corporation,PPL,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+387,Prudential Financial,PRU,Financials,Life & Health Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+388,Public Storage,PSA,Real Estate,Self-Storage REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+389,Paramount Skydance Corporation,PSKY,Communication Services,Movies & Entertainment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+390,Phillips 66,PSX,Energy,Oil & Gas Refining & Marketing,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+391,PTC Inc.,PTC,Technology,Application Software,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+392,Quanta Services,PWR,Industrials,Construction & Engineering,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+393,PayPal,PYPL,Industrials,,A shown,screenshot,Nasdaq 100; S&P 500
+394,Qnity Electronics,Q,Technology,Semiconductor Materials & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+395,Qualcomm,QCOM,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+396,Royal Caribbean Group,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+397,Regency Centers,REG,Real Estate,Retail REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+398,Regeneron Pharmaceuticals,REGN,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+399,Regions Financial Corporation,RF,Financials,Regional Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+400,Raymond James Financial,RJF,Financials,Investment Banking & Brokerage,A- shown,screenshot,S&P 500
+401,Ralph Lauren Corporation,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+402,ResMed,RMD,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+403,Rockwell Automation,ROK,Industrials,Electrical Components & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+404,"Rollins, Inc.",ROL,Industrials,Environmental & Facilities Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+405,Roper Technologies,ROP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+406,Ross Stores,ROST,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+407,Republic Services,RSG,Industrials,Environmental & Facilities Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+408,RTX Corporation,RTX,Aerospace & Defense,Aerospace & Defense,A / BBB+ bucket,demo_bucket_to_refresh,S&P 500
+409,Revvity,RVTY,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+410,EchoStar,SATS,Technology & Communications,Wireless Telecommunication Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+411,SBA Communications,SBAC,Real Estate,Telecom Tower REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+412,Starbucks,SBUX,Industrials,,BBB / A bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+413,Charles Schwab Corporation,SCHW,Financials,Investment Banking & Brokerage,A bucket,demo_bucket_to_refresh,S&P 500
+414,Shopify,SHOP,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+415,Sherwin-Williams,SHW,Materials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Dow; S&P 500
+416,J.M. Smucker Company (The),SJM,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+417,Schlumberger,SLB,Energy,Oil & Gas Equipment & Services,A / BBB bucket,demo_bucket_to_refresh,S&P 500
+418,Supermicro,SMCI,Technology,"Technology Hardware, Storage & Peripherals",NR shown,screenshot,S&P 500
+419,Snap-on,SNA,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+420,Sandisk,SNDK,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+421,Synopsys,SNPS,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+422,Southern Company,SO,Utilities,Electric Utilities,BBB+ bucket,demo_bucket_to_refresh,S&P 500
+423,Solventum,SOLV,Healthcare,Health Care Technology,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+424,Simon Property Group,SPG,Real Estate,Retail REITs,A / BBB bucket,demo_bucket_to_refresh,S&P 500
+425,S&P Global,SPGI,Financials,Financial Exchanges & Data,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+426,Sempra,SRE,Utilities,Multi-Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+427,Steris,STE,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+428,Steel Dynamics,STLD,Materials,Steel,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+429,State Street Corporation,STT,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+430,Seagate Technology,STX,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+431,Constellation Brands,STZ,Consumer Staples,Distillers & Vintners,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+432,Smurfit Westrock,SW,Materials,Paper & Plastic Packaging Products & Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+433,Stanley Black & Decker,SWK,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+434,Skyworks Solutions,SWKS,Technology,Semiconductors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+435,Synchrony Financial,SYF,Financials,Consumer Finance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+436,Stryker Corporation,SYK,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+437,Sysco,SYY,Consumer Staples,Food Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+438,AT&T,T,Technology & Communications,Integrated Telecommunication Services,BBB shown,screenshot,S&P 500
+439,Molson Coors Beverage Company,TAP,Consumer Staples,Brewers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+440,TransDigm Group,TDG,Aerospace & Defense,Aerospace & Defense,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+441,Teledyne Technologies,TDY,Technology,Electronic Equipment & Instruments,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+442,Bio-Techne,TECH,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+443,TE Connectivity,TEL,Technology,Electronic Manufacturing Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+444,Teradyne,TER,Technology,Semiconductor Materials & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+445,Truist Financial,TFC,Financials,Diversified Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+446,Target Corporation,TGT,Consumer Staples,Consumer Staples Merchandise Retail,A / BBB bucket,demo_bucket_to_refresh,S&P 500
+447,TJX Companies,TJX,Consumer Discretionary,Apparel Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+448,TKO Group Holdings,TKO,Communication Services,Movies & Entertainment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+449,Thermo Fisher Scientific,TMO,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+450,T-Mobile US,TMUS,Industrials,,BBB bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+451,Texas Pacific Land Corporation,TPL,Energy,Oil & Gas Exploration & Production,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+452,"Tapestry, Inc.",TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods",NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+453,Targa Resources,TRGP,Energy,Oil & Gas Storage & Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+454,Thomson Reuters,TRI,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+455,Trimble Inc.,TRMB,Technology,Application Software,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+456,T. Rowe Price,TROW,Financials,Asset Management & Custody Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+457,"Travelers Companies, Inc.",TRV,Financials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Dow; S&P 500
+458,Tractor Supply,TSCO,Consumer Discretionary,Other Specialty Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+459,"Tesla, Inc.",TSLA,Industrials,,BBB / BB bucket,demo_bucket_to_refresh,Nasdaq 100; S&P 500
+460,Tyson Foods,TSN,Consumer Staples,Packaged Foods & Meats,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+461,Trane Technologies,TT,Industrials,Building Products,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+462,Trade Desk (The),TTD,Communication Services,Advertising,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+463,Take-Two Interactive,TTWO,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+464,Texas Instruments,TXN,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+465,Textron,TXT,Aerospace & Defense,Aerospace & Defense,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+466,Tyler Technologies,TYL,Technology,Application Software,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+467,United Airlines Holdings,UAL,Transportation,Passenger Airlines,BB bucket,demo_bucket_to_refresh,S&P 500
+468,Uber,UBER,Transportation,Passenger Ground Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+469,"UDR, Inc.",UDR,Real Estate,Multi-Family Residential REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+470,Universal Health Services,UHS,Healthcare,Health Care Facilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+471,Ulta Beauty,ULTA,Consumer Discretionary,Other Specialty Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+472,UnitedHealth Group,UNH,Healthcare,,A bucket,demo_bucket_to_refresh,Dow; S&P 500
+473,Union Pacific Corporation,UNP,Transportation,Rail Transportation,A bucket,demo_bucket_to_refresh,S&P 500
+474,United Parcel Service,UPS,Transportation,Air Freight & Logistics,A bucket,demo_bucket_to_refresh,S&P 500
+475,United Rentals,URI,Industrials,Trading Companies & Distributors,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+476,U.S. Bancorp,USB,Financials,Diversified Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+477,Visa,V,Financials,,AA- shown,screenshot,Dow; S&P 500
+478,Veeva Systems,VEEV,Healthcare,Health Care Technology,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+479,Vici Properties,VICI,Real Estate,Hotel & Resort REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+480,Valero Energy,VLO,Energy,Oil & Gas Refining & Marketing,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+481,Veralto,VLTO,Industrials,Environmental & Facilities Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+482,Vulcan Materials Company,VMC,Materials,Construction Materials,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+483,Verisk Analytics,VRSK,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+484,Verisign,VRSN,Technology,Internet Services & Infrastructure,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+485,Vertiv,VRT,Industrials,Electrical Components & Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+486,Vertex Pharmaceuticals,VRTX,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+487,Vistra Corp.,VST,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+488,Ventas,VTR,Real Estate,Health Care REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+489,Viatris,VTRS,Healthcare,Pharmaceuticals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+490,Verizon,VZ,Communication Services,,BBB+ / A- bucket,demo_bucket_to_refresh,Dow; S&P 500
+491,Wabtec,WAB,Industrials,Construction Machinery & Heavy Transportation Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+492,Waters Corporation,WAT,Healthcare,Life Sciences Tools & Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+493,Warner Bros. Discovery,WBD,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+494,"Workday, Inc.",WDAY,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+495,Western Digital,WDC,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+496,WEC Energy Group,WEC,Utilities,Electric Utilities,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+497,Welltower,WELL,Real Estate,Health Care REITs,BBB+ shown,screenshot,S&P 500
+498,Wells Fargo,WFC,Financials,Diversified Banks,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+499,Waste Management,WM,Industrials,Environmental & Facilities Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+500,Williams Companies,WMB,Energy,Oil & Gas Storage & Transportation,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+501,Walmart,WMT,Consumer Staples,,AA / A bucket,demo_bucket_to_refresh,Dow; Nasdaq 100; S&P 500
+502,W. R. Berkley Corporation,WRB,Financials,Property & Casualty Insurance,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+503,"Williams-Sonoma, Inc.",WSM,Consumer Discretionary,Homefurnishing Retail,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+504,West Pharmaceutical Services,WST,Healthcare,Health Care Supplies,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+505,Willis Towers Watson,WTW,Financials,Insurance Brokers,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+506,Weyerhaeuser,WY,Real Estate,Timber REITs,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+507,Wynn Resorts,WYNN,Consumer Discretionary,Casinos & Gaming,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+508,Xcel Energy,XEL,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100; S&P 500
+509,ExxonMobil,XOM,Energy,Integrated Oil & Gas,AA bucket,demo_bucket_to_refresh,S&P 500
+510,Xylem Inc.,XYL,Industrials,Industrial Machinery & Supplies & Components,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+511,"Block, Inc.",XYZ,Financials,Transaction & Payment Processing Services,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+512,Yum! Brands,YUM,Consumer Discretionary,Restaurants,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+513,Zimmer Biomet,ZBH,Healthcare,Health Care Equipment,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+514,Zebra Technologies,ZBRA,Technology,Electronic Equipment & Instruments,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
+515,Zscaler,ZS,Industrials,,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,Nasdaq 100
+516,Zoetis,ZTS,Healthcare,Pharmaceuticals,NR (to derive from financials),default - no public rating available; derive from leverage/margin post-SEC pull,S&P 500
